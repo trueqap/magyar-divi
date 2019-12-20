@@ -4,7 +4,7 @@ Plugin Name: Magyar kiegészítések Divi-hez
 Plugin URI:  https://hellowp.io
 Description: Magyar Divi beállítások (fordítás, megjelenés és egyéb fejlesztések)
 =======
-Version:     0.0.12
+Version:     0.0.13
 Author:      HelloWP.io
 Author URI:  https://hellowp.io/hu
 License:     GPL2
@@ -56,8 +56,8 @@ if (wp_get_theme() == 'Extra' || wp_get_theme()->parent() == 'Extra' || strpos(@
 
     function load_magyar_nyelv_extra()
     {
-        load_plugin_textdomain('extra', false, dirname(plugin_basename(__FILE__)) . '/lang/');
-        load_plugin_textdomain('Extra', false, dirname(plugin_basename(__FILE__)) . '/lang/Extra/');
+        load_plugin_textdomain('extra', false, dirname(plugin_basename(__FILE__)) . '/lang/Extra-kicsi');
+        load_plugin_textdomain('Extra', false, dirname(plugin_basename(__FILE__)) . '/lang/Extra-nagy/');
         load_plugin_textdomain('et_builder', false, dirname(plugin_basename(__FILE__)) . '/lang/');
         load_plugin_textdomain('et-core', false, dirname(plugin_basename(__FILE__)) . '/lang/');
 
