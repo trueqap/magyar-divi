@@ -1,0 +1,1351 @@
+# Translation of Bloom in Hungarian
+# This file is distributed under the same license as the Bloom package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-20 19:26+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.2.4\n"
+"Language: hu\n"
+"Project-Id-Version: Bloom\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: ../includes/bloom-widget.php:82
+msgid "Select Optin"
+msgstr "Válaszd ki a feliratkozási modult"
+
+#: ../includes/bloom-widget.php:60
+msgid "Title"
+msgstr "Cím"
+
+#: ../includes/bloom-widget.php:48
+msgid "Subscribe"
+msgstr "Feliratkozás"
+
+#: ../includes/bloom-widget.php:10
+msgid "Bloom widget, please configure all the settings in Bloom control panel"
+msgstr ""
+
+#: ../dashboard/includes/options.php:1045
+msgid "These are just starting points that you can full customize on the next step."
+msgstr "Ezek csak kiindulópontok, amiket teljesen személyre szabhatsz a következő lépésben."
+
+#: ../dashboard/includes/options.php:1044
+#: ../dashboard/includes/options.php:1050
+msgid "Choose a template"
+msgstr "Válassz sablont"
+
+#: ../dashboard/includes/options.php:1029
+msgid "Accounts"
+msgstr "Fiókok"
+
+#: ../dashboard/includes/options.php:1014
+msgid "Import/Export"
+msgstr "Import/Export"
+
+#: ../dashboard/includes/options.php:1009
+msgid "Define when and where to display this optin on your website."
+msgstr "Állítsd be mikor és hol jelenjen meg ez a feliratkozási modul a weboldaladon."
+
+#: ../dashboard/includes/options.php:1002
+msgid "Configure your content, layout, and optin styling below."
+msgstr "Tartalom, dizájn és a modul stílusának személyre szabása."
+
+#: ../dashboard/includes/options.php:1001
+msgid "Design your optin form"
+msgstr ""
+
+#: ../dashboard/includes/options.php:996
+msgid "Name your optin and configure your form integration."
+msgstr ""
+
+#: ../dashboard/includes/options.php:995
+msgid "Setup your optin form"
+msgstr ""
+
+#: ../dashboard/includes/options.php:928
+msgid "AWeber authorization code"
+msgstr ""
+
+#: ../dashboard/includes/options.php:897
+msgid "MailChimp API Key"
+msgstr "MailChimp API kulcs"
+
+#: ../dashboard/includes/options.php:884
+msgid "Setup your accounts"
+msgstr ""
+
+#: ../dashboard/includes/options.php:866
+msgid "Posts defined below will override all settings above"
+msgstr ""
+
+#: ../dashboard/includes/options.php:865
+msgid "Display on these posts"
+msgstr "Jelenjen meg ezeken a bejegyzéseken"
+
+#: ../dashboard/includes/options.php:856 ../dashboard/includes/options.php:875
+msgid "start typing post name..."
+msgstr "kezdd el gépelni a bejegyzés nevét..."
+
+#: ../dashboard/includes/options.php:847
+msgid "Do not display on these posts"
+msgstr "Ne jelenjen meg ezeken a bejegyzéseken"
+
+#: ../dashboard/includes/options.php:829
+msgid "Pages defined below will override all settings above"
+msgstr ""
+
+#: ../dashboard/includes/options.php:828
+msgid "Display on these pages"
+msgstr "Jelenjen meg ezeken az oldalakon"
+
+#: ../dashboard/includes/options.php:819 ../dashboard/includes/options.php:838
+msgid "start typing page name..."
+msgstr "kezdd el beírni az oldal nevét..."
+
+#: ../dashboard/includes/options.php:810
+msgid "Do not display on these pages"
+msgstr "Ne jelenjen meg ezeken az oldalakon"
+
+#: ../dashboard/includes/options.php:792
+msgid "Display on these categories"
+msgstr "Jelenjen meg ezeken a kategóriákon"
+
+#: ../dashboard/includes/options.php:765
+msgid "Tags"
+msgstr "Címkék"
+
+#: ../dashboard/includes/options.php:764
+msgid "Categories"
+msgstr "Kategóriák"
+
+#: ../dashboard/includes/options.php:763
+msgid "Archives"
+msgstr "Archívum"
+
+#: ../dashboard/includes/options.php:761
+msgid "Everything"
+msgstr ""
+
+#: ../dashboard/includes/options.php:754
+msgid "Display on"
+msgstr "Mutassa itt"
+
+#: ../dashboard/includes/options.php:744
+msgid "Center"
+msgstr "Közép"
+
+#: ../dashboard/includes/options.php:743
+msgid "Left"
+msgstr "Bal"
+
+#: ../dashboard/includes/options.php:742
+msgid "Right"
+msgstr "Jobb"
+
+#: ../dashboard/includes/options.php:739
+msgid "Choose Orientation"
+msgstr ""
+
+#: ../dashboard/includes/options.php:734
+msgid "Fly-In Orientation"
+msgstr ""
+
+#: ../dashboard/includes/options.php:724
+msgid "Hide on Mobile"
+msgstr "Mobilon elrejtés"
+
+#: ../dashboard/includes/options.php:717
+msgid "Define the length of time (in days) that a session lasts for. For example, if you input 2 a user will only see a popup on your site every two days."
+msgstr "Határozza meg a munkamenet hosszát (napokban). Például: ha 2-t ad meg, akkor a felhasználó a felugró ablakot csak minden második nap fogja látni."
+
+#: ../dashboard/includes/options.php:715
+msgid "Session Duration (in days)"
+msgstr "Munkamenet időtartam (napokban)"
+
+#: ../dashboard/includes/options.php:706
+msgid "Display once per session"
+msgstr ""
+
+#: ../dashboard/includes/options.php:701
+msgid "Display on \"Thank you\" page of WooCommerce after purchase"
+msgstr "Vásárlás után jelenítse meg a WooCommerce \"Köszönjük\" oldalán"
+
+#: ../dashboard/includes/options.php:698
+msgid "Trigger After Purchasing"
+msgstr "Történés vásárlás után"
+
+#: ../dashboard/includes/options.php:691
+msgid "Define the % of the page to be scrolled before the pop up appears on the screen."
+msgstr "Meghatározza az % oldal százalékát, amennyit le kell görgetni, mielőtt a felugró ablak megjelenne a képernyőn."
+
+#: ../dashboard/includes/options.php:689
+msgid "Percentage Down The Page"
+msgstr "Lefele görgetés százalékban"
+
+#: ../dashboard/includes/options.php:680
+msgid "Trigger After Scrolling"
+msgstr "Történés görgetés után"
+
+#: ../dashboard/includes/options.php:673
+msgid "Trigger After Commenting"
+msgstr "Történés hozzászólás után"
+
+#: ../dashboard/includes/options.php:666
+msgid "Trigger At The Bottom of Post"
+msgstr ""
+
+#: ../dashboard/includes/options.php:659
+msgid "Define how many seconds user should be inactive before the pop up appears on screen."
+msgstr "Meghatározza, hogy hány másodpercig legyen inaktív a felhasználó, mielőtt a felugró ablak megjelenne a képernyőn."
+
+#: ../dashboard/includes/options.php:657
+msgid "Idle Timeout ( in seconds )"
+msgstr "Várakozási idő (másodpercben)"
+
+#: ../dashboard/includes/options.php:648
+msgid "Trigger After Inactivity"
+msgstr "Történés tétlenség után"
+
+#: ../dashboard/includes/options.php:641
+msgid "Define how many seconds you want to wait before the pop up appears on the screen."
+msgstr "Meghatározza, hogy hány másodpercig kell várnia, mielőtt a felugró ablak megjelenne a képernyőn."
+
+#: ../dashboard/includes/options.php:639
+msgid "Delay (in seconds)"
+msgstr ""
+
+#: ../dashboard/includes/options.php:630
+msgid "Trigger After Time Delay"
+msgstr "Történés késleltetés után"
+
+#: ../dashboard/includes/options.php:623
+msgid "Define the animation that is used, when you load the page."
+msgstr "Meghatározza a használt animációt a weboldal betöltődésekor."
+
+#: ../dashboard/includes/options.php:607
+msgid "Intro Animation"
+msgstr "Bevezető animáció"
+
+#: ../dashboard/includes/options.php:602
+msgid "Load-in settings"
+msgstr ""
+
+#: ../dashboard/includes/options.php:593
+msgid "insert your custom CSS code"
+msgstr "egyéni CSS kód beszúrása"
+
+#: ../dashboard/includes/options.php:587
+msgid "Custom CSS"
+msgstr "Egyéni CSS"
+
+#: ../dashboard/includes/options.php:570
+msgid "Success Message Text"
+msgstr ""
+
+#: ../dashboard/includes/options.php:560
+msgid "insert your footer text"
+msgstr ""
+
+#: ../dashboard/includes/options.php:553
+msgid "Form Footer Text"
+msgstr ""
+
+#: ../dashboard/includes/options.php:535
+msgid "Choose border style"
+msgstr "Szegély stílusának kiválasztása"
+
+#: ../dashboard/includes/options.php:518
+msgid "Choose form edge style"
+msgstr ""
+
+#: ../dashboard/includes/options.php:507
+msgid "Button Color"
+msgstr "Gomb szín"
+
+#: ../dashboard/includes/options.php:498
+msgid "Form Background Color"
+msgstr "Űrlap háttérszín"
+
+#: ../dashboard/includes/options.php:486
+msgid "Form Text Color"
+msgstr ""
+
+#: ../dashboard/includes/options.php:474
+msgid "Form Field Corner Style"
+msgstr ""
+
+#: ../dashboard/includes/options.php:466
+msgid "Inline Form Fields"
+msgstr ""
+
+#: ../dashboard/includes/options.php:465
+msgid "Stacked Form Fields"
+msgstr ""
+
+#: ../dashboard/includes/options.php:462
+msgid "Form Field Orientation"
+msgstr ""
+
+#: ../dashboard/includes/options.php:458
+msgid "Form Styling"
+msgstr ""
+
+#: ../dashboard/includes/options.php:445
+msgid "Border Color"
+msgstr "Szegélyszín"
+
+#: ../dashboard/includes/options.php:437
+msgid "Left + Right Border"
+msgstr ""
+
+#: ../dashboard/includes/options.php:436
+msgid "Top + Bottom Border"
+msgstr ""
+
+#: ../dashboard/includes/options.php:435
+msgid "Left Border"
+msgstr ""
+
+#: ../dashboard/includes/options.php:434
+msgid "Bottom Border"
+msgstr ""
+
+#: ../dashboard/includes/options.php:433
+msgid "Right Border"
+msgstr ""
+
+#: ../dashboard/includes/options.php:432
+msgid "Top Border"
+msgstr ""
+
+#: ../dashboard/includes/options.php:431
+msgid "Full Border"
+msgstr ""
+
+#: ../dashboard/includes/options.php:430
+msgid "No Border"
+msgstr ""
+
+#: ../dashboard/includes/options.php:426
+msgid "Border Orientation"
+msgstr ""
+
+#: ../dashboard/includes/options.php:419 ../dashboard/includes/options.php:479
+msgid "Rounded Corners"
+msgstr "Lekerekített téglalap"
+
+#: ../dashboard/includes/options.php:418 ../dashboard/includes/options.php:478
+msgid "Squared Corners"
+msgstr ""
+
+#: ../dashboard/includes/options.php:414
+msgid "Corner Style"
+msgstr ""
+
+#: ../dashboard/includes/options.php:407 ../dashboard/includes/options.php:491
+msgid "Dark Text"
+msgstr ""
+
+#: ../dashboard/includes/options.php:406 ../dashboard/includes/options.php:490
+msgid "Light Text"
+msgstr ""
+
+#: ../dashboard/includes/options.php:402
+msgid "Text Color"
+msgstr "Szövegszín"
+
+#: ../dashboard/includes/options.php:395
+msgid "Body Font"
+msgstr "Törzsszöveg betűtípus"
+
+#: ../dashboard/includes/options.php:388
+msgid "Header Font"
+msgstr "Fejléc betűtípus"
+
+#: ../dashboard/includes/options.php:382 ../dashboard/includes/options.php:448
+#: ../dashboard/includes/options.php:501 ../dashboard/includes/options.php:510
+msgid "Hex Value"
+msgstr "Színkód"
+
+#: ../dashboard/includes/options.php:379
+msgid "Background Color"
+msgstr "Háttérszín"
+
+#: ../dashboard/includes/options.php:375
+msgid "Optin Styling"
+msgstr ""
+
+#: ../dashboard/includes/options.php:365
+msgid "Dark"
+msgstr "Sötét"
+
+#: ../dashboard/includes/options.php:364
+msgid "Light"
+msgstr "Világos"
+
+#: ../dashboard/includes/options.php:360
+msgid "Button Text Color"
+msgstr "Gombszöveg színe"
+
+#: ../dashboard/includes/options.php:352
+msgid "Button Text"
+msgstr "Gombfelirat"
+
+#: ../dashboard/includes/options.php:341
+msgid "Email Text"
+msgstr "E-mail szöveg"
+
+#: ../dashboard/includes/options.php:329
+msgid "Last Name Text"
+msgstr ""
+
+#: ../dashboard/includes/options.php:305 ../dashboard/includes/options.php:317
+msgid "Name Text"
+msgstr ""
+
+#: ../dashboard/includes/options.php:293
+msgid "First + Last Name Fields"
+msgstr ""
+
+#: ../dashboard/includes/options.php:292
+msgid "Single Name Field"
+msgstr ""
+
+#: ../dashboard/includes/options.php:291
+msgid "No Name Field"
+msgstr ""
+
+#: ../dashboard/includes/options.php:287
+msgid "Name Field(s)"
+msgstr ""
+
+#: ../dashboard/includes/options.php:277
+msgid "Display Name Field"
+msgstr ""
+
+#: ../dashboard/includes/options.php:269
+msgid "Form On Left"
+msgstr ""
+
+#: ../dashboard/includes/options.php:268
+msgid "Form On Right"
+msgstr ""
+
+#: ../dashboard/includes/options.php:267
+msgid "Form On Bottom"
+msgstr ""
+
+#: ../dashboard/includes/options.php:264
+msgid "Form Orientation"
+msgstr ""
+
+#: ../dashboard/includes/options.php:260
+msgid "Form setup"
+msgstr ""
+
+#: ../dashboard/includes/options.php:250
+msgid "Hide image on mobile"
+msgstr ""
+
+#: ../dashboard/includes/options.php:244
+msgid "Define the animation that is used to load the image"
+msgstr ""
+
+#: ../dashboard/includes/options.php:242 ../dashboard/includes/options.php:621
+msgid "Tada!"
+msgstr "Tada!"
+
+#: ../dashboard/includes/options.php:241 ../dashboard/includes/options.php:620
+msgid "Swing"
+msgstr "Ingás"
+
+#: ../dashboard/includes/options.php:240 ../dashboard/includes/options.php:619
+msgid "Bounce"
+msgstr "Visszapattanások"
+
+#: ../dashboard/includes/options.php:239 ../dashboard/includes/options.php:618
+msgid "Flip"
+msgstr "Átfordul"
+
+#: ../dashboard/includes/options.php:238 ../dashboard/includes/options.php:617
+msgid "Zoom In"
+msgstr "Ráközelíteni"
+
+#: ../dashboard/includes/options.php:237 ../dashboard/includes/options.php:616
+msgid "Light Speed"
+msgstr "Fénysebesség"
+
+#: ../dashboard/includes/options.php:236 ../dashboard/includes/options.php:613
+#: ../dashboard/includes/options.php:615
+msgid "Slide Up"
+msgstr "Csúsztassuk fel"
+
+#: ../dashboard/includes/options.php:235 ../dashboard/includes/options.php:614
+msgid "Slide Down"
+msgstr "Úszás lefelé"
+
+#: ../dashboard/includes/options.php:234 ../dashboard/includes/options.php:612
+msgid "Slide Right"
+msgstr "Úszás jobbra"
+
+#: ../dashboard/includes/options.php:233 ../dashboard/includes/options.php:611
+msgid "Fade In"
+msgstr "Áttűnés"
+
+#: ../dashboard/includes/options.php:232 ../dashboard/includes/options.php:610
+msgid "No Animation"
+msgstr "Nincs animáció"
+
+#: ../dashboard/includes/options.php:229
+msgid "Image Load-In Animation"
+msgstr ""
+
+#: ../dashboard/includes/options.php:224
+msgid "Set as Optin Image"
+msgstr ""
+
+#: ../dashboard/includes/options.php:223
+msgid "Choose an Optin Image"
+msgstr ""
+
+#: ../dashboard/includes/options.php:222
+msgid "Upload an Image"
+msgstr "Kép feltöltése"
+
+#: ../dashboard/includes/options.php:219
+msgid "Image URL"
+msgstr "Kép webcím"
+
+#: ../dashboard/includes/options.php:187
+msgid "Image Left of Text"
+msgstr ""
+
+#: ../dashboard/includes/options.php:186
+msgid "Image Right of Text"
+msgstr ""
+
+#: ../dashboard/includes/options.php:185 ../dashboard/includes/options.php:201
+msgid "Image Below Text"
+msgstr ""
+
+#: ../dashboard/includes/options.php:184 ../dashboard/includes/options.php:200
+msgid "Image Above Text"
+msgstr ""
+
+#: ../dashboard/includes/options.php:183 ../dashboard/includes/options.php:199
+msgid "No Image"
+msgstr "Nincs kép"
+
+#: ../dashboard/includes/options.php:180 ../dashboard/includes/options.php:196
+msgid "Image Orientation"
+msgstr ""
+
+#: ../dashboard/includes/options.php:176
+msgid "Image Settings"
+msgstr ""
+
+#: ../dashboard/includes/options.php:167
+msgid "Join our mailing list to receive the latest news and updates from our team."
+msgstr ""
+
+#: ../dashboard/includes/options.php:158
+msgid "No message will appear if left blank"
+msgstr ""
+
+#: ../dashboard/includes/options.php:157
+msgid "Optin message"
+msgstr ""
+
+#: ../dashboard/includes/options.php:148
+msgid "Subscribe To Our Newsletter"
+msgstr ""
+
+#: ../dashboard/includes/options.php:147 ../dashboard/includes/options.php:166
+msgid "Insert Text"
+msgstr "Szöveg beszúrása"
+
+#: ../dashboard/includes/options.php:139
+msgid "No title will appear if left blank"
+msgstr ""
+
+#: ../dashboard/includes/options.php:138
+msgid "Optin title"
+msgstr ""
+
+#: ../dashboard/includes/options.php:131
+msgid "Abusing this feature may cause your Mailchimp account to be suspended."
+msgstr ""
+
+#: ../dashboard/includes/options.php:126
+msgid "Disable Double Optin"
+msgstr ""
+
+#: ../dashboard/includes/options.php:119
+msgid "Insert HTML"
+msgstr ""
+
+#: ../dashboard/includes/options.php:87
+msgid "Custom HTML Form"
+msgstr ""
+
+#: ../dashboard/includes/options.php:71
+msgid "Select Email Provider"
+msgstr ""
+
+#: ../dashboard/includes/options.php:66
+msgid "Form Integration"
+msgstr ""
+
+#: ../dashboard/includes/options.php:57 ../dashboard/includes/options.php:58
+msgid "MyNewOptin"
+msgstr ""
+
+#: ../dashboard/includes/options.php:24 ../dashboard/includes/options.php:1034
+msgid "Edit Account"
+msgstr "Fiók szerkesztése"
+
+#: ../dashboard/includes/options.php:23 ../dashboard/includes/options.php:1019
+msgid "Home"
+msgstr "Kezdőlap"
+
+#: ../dashboard/includes/options.php:21
+msgid "Accounts settings"
+msgstr ""
+
+#: ../dashboard/includes/options.php:20 ../dashboard/includes/options.php:1024
+msgid "Optin Stats"
+msgstr ""
+
+#: ../dashboard/includes/options.php:15 ../dashboard/includes/options.php:1008
+msgid "Display Settings"
+msgstr "Megjelenés beállításai"
+
+#: ../dashboard/includes/options.php:14
+msgid "Design"
+msgstr "Design"
+
+#: ../dashboard/includes/options.php:13
+msgid "Premade Layouts"
+msgstr "Beépített elrendezések"
+
+#: ../dashboard/includes/options.php:12
+msgid "Setup"
+msgstr "Beállítás"
+
+#: ../dashboard/includes/options.php:10
+msgid "Optin Configuration"
+msgstr "OptIn konfiguráció"
+
+#: ../dashboard/dashboard.php:1494
+msgid "Options imported successfully."
+msgstr ""
+
+#: ../dashboard/dashboard.php:1480
+msgid "Please provide valid .json file"
+msgstr "Kérjük, érvényes .json fájlt adjon meg"
+
+#: ../dashboard/dashboard.php:1475
+msgid "Please select .json file for import"
+msgstr "Kérjük, válassza ki a .json fájlt az importáláshoz"
+
+#: ../dashboard/dashboard.php:1378
+msgid "Import"
+msgstr "Importálás"
+
+#: ../dashboard/dashboard.php:1370
+msgid "Import the plugin settings from a .json file. This file can be obtained by exporting the settings on another site using the form above."
+msgstr "A bővítmény beállításainak importálása egy .json fájlból. Ez a fájl egy másik weboldalról a beállítások exportálásával, a fenti űrlap segítségével, szerezhető be."
+
+#: ../dashboard/dashboard.php:1369
+msgid "Import %1$s Settings"
+msgstr "%1$s-beállítások importálása"
+
+#: ../dashboard/dashboard.php:1358
+msgid "Export"
+msgstr "Exportálás"
+
+#: ../dashboard/dashboard.php:1352
+msgid "Export the plugin settings for this site as a .json file. This allows you to easily import the configuration into another site."
+msgstr "A bővítmény beállításainak exportálása egy .json fájlba, amely lehetővé teszi, hogy egyszerűen importáljuk a beállításokat egy másik weboldalon."
+
+#: ../dashboard/dashboard.php:1128
+msgid "Note:"
+msgstr "Megjegyzés:"
+
+#: ../dashboard/dashboard.php:1015
+msgid "Automatically check categories created in future"
+msgstr ""
+
+#: ../dashboard/dashboard.php:957
+msgid " ( post )"
+msgstr ""
+
+#: ../dashboard/dashboard.php:584
+msgid "Please select social networks in \"Social Sharing / Networks\" settings"
+msgstr "Kérjük, válasszon közösségi hálózatokat a \"Közösségi megosztás / Hálózatok\" beállításokban"
+
+#: ../dashboard/dashboard.php:359
+msgid "No results found"
+msgstr "Nincs találat"
+
+#: ../dashboard/dashboard.php:260
+msgid "Ok"
+msgstr "Ok"
+
+#: ../dashboard/dashboard.php:36
+msgid "Save Changes"
+msgstr "Változtatások mentése"
+
+#: ../bloom.php:5774
+msgid "No Widget optins created yet"
+msgstr ""
+
+#: ../bloom.php:5761
+msgid "Select optin"
+msgstr ""
+
+#: ../bloom.php:5182 ../dashboard/includes/options.php:577
+msgid "You have Successfully Subscribed!"
+msgstr ""
+
+#: ../bloom.php:5170 ../dashboard/includes/options.php:353
+msgid "SUBSCRIBE!"
+msgstr ""
+
+#: ../bloom.php:5161 ../dashboard/includes/options.php:330
+msgid "Last Name"
+msgstr "Vezetéknév"
+
+#: ../bloom.php:5155 ../dashboard/includes/options.php:318
+msgid "Name"
+msgstr "Név"
+
+#: ../bloom.php:5149 ../dashboard/includes/options.php:306
+msgid "First Name"
+msgstr "Keresztnév"
+
+#: ../bloom.php:5137 ../dashboard/includes/options.php:342
+msgid "Email"
+msgstr "Email cím"
+
+#: ../bloom.php:4653 ../dashboard/includes/options.php:106
+msgid "Select Email List"
+msgstr ""
+
+#: ../bloom.php:4589
+msgid "Application name"
+msgstr ""
+
+#: ../bloom.php:4588
+msgid "API Key"
+msgstr "API Kulcs"
+
+#: ../bloom.php:4566
+msgid "APP ID"
+msgstr "Alkalmazás Azonosító"
+
+#: ../bloom.php:4541
+msgid "Password"
+msgstr "Jelszó"
+
+#: ../bloom.php:4539
+msgid "App ID"
+msgstr "App ID"
+
+#: ../bloom.php:4512
+msgid "Step 2: Paste in the authorization code and click \"Authorize\" button: "
+msgstr ""
+
+#: ../bloom.php:4505
+msgid "Step 1: <a href=\"%1$s\" target=\"_blank\">Generate authorization code</a><br/>"
+msgstr ""
+
+#: ../bloom.php:4487
+msgid "Token"
+msgstr "Token"
+
+#: ../bloom.php:4451 ../bloom.php:4475 ../bloom.php:4491 ../bloom.php:4547
+#: ../bloom.php:4571 ../bloom.php:4594 ../dashboard/includes/options.php:903
+#: ../dashboard/includes/options.php:934
+msgid "Click here for more information"
+msgstr "További információkért kattints ide"
+
+#: ../bloom.php:4446 ../bloom.php:4471 ../bloom.php:4565
+msgid "API key"
+msgstr "API-kulcs"
+
+#: ../bloom.php:4445 ../bloom.php:4540
+msgid "Username"
+msgstr "Felhasználónév"
+
+#: ../bloom.php:4427
+msgid "Enter the name for your account"
+msgstr ""
+
+#: ../bloom.php:4425
+msgid "Account Name"
+msgstr ""
+
+#: ../bloom.php:4367 ../bloom.php:4392 ../dashboard/includes/options.php:99
+msgid "Add Account"
+msgstr ""
+
+#: ../bloom.php:4363 ../dashboard/includes/options.php:95
+msgid "Select Account"
+msgstr "Válassz fiókot"
+
+#: ../bloom.php:4278
+msgid "Error occured during subscription"
+msgstr ""
+
+#: ../bloom.php:4034
+msgid "Documentation"
+msgstr "Dokumentáció"
+
+#: ../bloom.php:4033
+msgid "Message"
+msgstr "Üzenet"
+
+#: ../bloom.php:4032
+msgid "Type"
+msgstr ""
+
+#: ../bloom.php:4031
+msgid "AWeberAPIException."
+msgstr "Aweber API kivétel."
+
+#: ../bloom.php:4006
+msgid "Authorization code is invalid. Try regenerating it and paste in the new code."
+msgstr "Az azonosító kód érvénytelen. Próbálja újragenerálni és az új kódot bemásolni."
+
+#: ../bloom.php:3970
+msgid "Aweber: Wrong configuration data"
+msgstr ""
+
+#: ../bloom.php:3910
+msgid "Already Subscribed"
+msgstr "Már feliratkozott"
+
+#: ../bloom.php:3832 ../bloom.php:3872
+msgid "MailPoet plugin is not installed or not activated"
+msgstr ""
+
+#: ../bloom.php:3813 ../bloom.php:4116 ../bloom.php:4154
+msgid "Unknown error"
+msgstr "Ismeretlen hiba"
+
+#: ../bloom.php:3665 ../bloom.php:3764
+msgid "Invalid API key or something went wrong during Authorization request"
+msgstr ""
+
+#: ../bloom.php:3614
+msgid "Invalid App ID, Username or Password"
+msgstr ""
+
+#: ../bloom.php:3508
+msgid "Account ID is not defined"
+msgstr ""
+
+#: ../bloom.php:3358 ../bloom.php:3421 ../bloom.php:3439
+msgid "Invalid Username or API key"
+msgstr ""
+
+#: ../bloom.php:3350
+msgid "Please make sure you have at least 1 list in your account and try again"
+msgstr ""
+
+#: ../bloom.php:3065 ../bloom.php:3191
+msgid "Invalid API key"
+msgstr ""
+
+#: ../bloom.php:3061 ../bloom.php:3187
+msgid "Invalid Token"
+msgstr ""
+
+#: ../bloom.php:3053 ../bloom.php:3606 ../bloom.php:4120 ../bloom.php:4157
+msgid "empty response"
+msgstr ""
+
+#: ../bloom.php:2963
+msgid "An error occured during API request. Make sure API Key is correct"
+msgstr ""
+
+#: ../bloom.php:2957
+msgid "Additional Information: "
+msgstr ""
+
+#: ../bloom.php:2902 ../bloom.php:3276
+msgid "invalid API key"
+msgstr ""
+
+#: ../bloom.php:2864 ../bloom.php:3106 ../bloom.php:3171 ../bloom.php:3301
+#: ../bloom.php:3393 ../bloom.php:3559 ../bloom.php:3790
+msgid "Already subscribed"
+msgstr "Már előfizet"
+
+#: ../bloom.php:2861 ../bloom.php:2875
+msgid "Subscribed via Bloom"
+msgstr ""
+
+#: ../bloom.php:2782 ../bloom.php:2842 ../bloom.php:2894 ../bloom.php:3226
+#: ../bloom.php:3635 ../bloom.php:3717 ../bloom.php:3776 ../bloom.php:4290
+msgid "curl_init is not defined "
+msgstr ""
+
+#: ../bloom.php:2762
+msgid "Invalid email"
+msgstr "Érvénytelen email cím"
+
+#: ../bloom.php:2573 ../bloom.php:2666
+msgid "Authorization failed: "
+msgstr ""
+
+#: ../bloom.php:2243
+msgid "cancel"
+msgstr "mégse"
+
+#: ../bloom.php:2242
+msgid "Choose an optin"
+msgstr ""
+
+#: ../bloom.php:2207 ../dashboard/includes/options.php:50
+msgid "Optin name"
+msgstr ""
+
+#: ../bloom.php:2076
+msgid "You Have Not Added An Email List. Before your opt-in can be activated, you must first add an account and select an email list."
+msgstr ""
+
+#: ../bloom.php:2075
+msgid "Save As Inactive"
+msgstr ""
+
+#: ../bloom.php:2074
+msgid "Add An Account"
+msgstr ""
+
+#: ../bloom.php:2073
+msgid "You Have Not Added An Email List. Before your opt-in can be activated, you must first add an account and select an email list. You can save and exit, but the opt-in will remain inactive until an account is added."
+msgstr ""
+
+#: ../bloom.php:2068
+msgid "Account name is not defined"
+msgstr ""
+
+#: ../bloom.php:2058
+msgid "Shortcode for this optin:"
+msgstr ""
+
+#: ../bloom.php:2023
+msgid "Inactive Optins"
+msgstr ""
+
+#: ../bloom.php:1987
+msgid "A/B Testing"
+msgstr "A / B tesztelés"
+
+#: ../bloom.php:1971
+msgid "Duplicate"
+msgstr "Duplikálás"
+
+#: ../bloom.php:1970
+msgid "Make Active"
+msgstr ""
+
+#: ../bloom.php:1970
+msgid "Make Inactive"
+msgstr ""
+
+#: ../bloom.php:1966
+msgid "Generate shortcode"
+msgstr ""
+
+#: ../bloom.php:1930
+msgid "End & pick winner"
+msgstr ""
+
+#: ../bloom.php:1929 ../bloom.php:2070
+msgid "Start test"
+msgstr ""
+
+#: ../bloom.php:1929 ../bloom.php:2069
+msgid "Pause test"
+msgstr ""
+
+#: ../bloom.php:1928
+msgid "Add variant"
+msgstr ""
+
+#: ../bloom.php:1915 ../bloom.php:1973
+msgid "Edit Optin"
+msgstr ""
+
+#: ../bloom.php:1909 ../bloom.php:1978
+msgid "Delete this optin?"
+msgstr ""
+
+#: ../bloom.php:1905 ../bloom.php:1972
+msgid "Delete Optin"
+msgstr ""
+
+#: ../bloom.php:1860
+msgid "Optin Name"
+msgstr ""
+
+#: ../bloom.php:1782
+msgid "No lists available"
+msgstr ""
+
+#: ../bloom.php:1756
+msgid "Edit account"
+msgstr "Profil szerkesztés"
+
+#: ../bloom.php:1752
+msgid "Not Authorized"
+msgstr "Nem felhatalmazott"
+
+#: ../bloom.php:1751
+msgid "Authorized"
+msgstr "Felhatalmazott"
+
+#: ../bloom.php:1745
+msgid "Remove this account from list?"
+msgstr ""
+
+#: ../bloom.php:1742
+msgid "Remove account"
+msgstr ""
+
+#: ../bloom.php:1737
+msgid "Update Lists"
+msgstr ""
+
+#: ../bloom.php:1707
+msgid "Growth rate"
+msgstr ""
+
+#: ../bloom.php:1705
+msgid "Account name"
+msgstr "Számla neve"
+
+#: ../bloom.php:1649
+msgid "No lists available for this account"
+msgstr ""
+
+#: ../bloom.php:1646
+msgid "Account Lists"
+msgstr ""
+
+#: ../bloom.php:1603 ../dashboard/includes/options.php:86
+msgid "Infusionsoft"
+msgstr ""
+
+#: ../bloom.php:1602 ../dashboard/includes/options.php:84
+msgid "Feedblitz"
+msgstr ""
+
+#: ../bloom.php:1601 ../dashboard/includes/options.php:85
+msgid "Ontraport"
+msgstr ""
+
+#: ../bloom.php:1599 ../dashboard/includes/options.php:83
+msgid "MailPoet"
+msgstr "MailPoet"
+
+#: ../bloom.php:1598 ../dashboard/includes/options.php:82
+msgid "Sendinblue"
+msgstr ""
+
+#: ../bloom.php:1597 ../dashboard/includes/options.php:81
+msgid "GetResponse"
+msgstr ""
+
+#: ../bloom.php:1596 ../dashboard/includes/options.php:80
+msgid "iContact"
+msgstr ""
+
+#: ../bloom.php:1595 ../dashboard/includes/options.php:79
+msgid "Mad Mimi"
+msgstr ""
+
+#: ../bloom.php:1594 ../dashboard/includes/options.php:78
+msgid "Campaign Monitor"
+msgstr ""
+
+#: ../bloom.php:1593 ../dashboard/includes/options.php:77
+msgid "Constant Contact"
+msgstr "Állandó kapcsolattartás"
+
+#: ../bloom.php:1592 ../dashboard/includes/options.php:76
+#: ../dashboard/includes/options.php:921
+msgid "AWeber"
+msgstr "AWeber"
+
+#: ../bloom.php:1591 ../dashboard/includes/options.php:75
+#: ../dashboard/includes/options.php:890
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: ../bloom.php:1590 ../bloom.php:4364 ../bloom.php:4654
+#: ../dashboard/includes/options.php:74 ../dashboard/includes/options.php:98
+#: ../dashboard/includes/options.php:109
+msgid "Select One..."
+msgstr ""
+
+#: ../bloom.php:1589
+msgid "New account settings"
+msgstr ""
+
+#: ../bloom.php:1558 ../bloom.php:1600
+msgid "save & exit"
+msgstr ""
+
+#: ../bloom.php:1555 ../bloom.php:2067 ../dashboard/dashboard.php:1242
+msgid "Re-Authorize"
+msgstr "Újra engedélyezés"
+
+#: ../bloom.php:1533
+msgid "Setup a new email marketing service account below"
+msgstr ""
+
+#: ../bloom.php:1532
+msgid "You can view and re-authorize this account’s settings below"
+msgstr ""
+
+#: ../bloom.php:1530
+msgid "New Account Setup"
+msgstr ""
+
+#: ../bloom.php:1503 ../bloom.php:2066 ../dashboard/includes/options.php:911
+#: ../dashboard/includes/options.php:942
+msgid "Authorize"
+msgstr "Hitelesítés"
+
+#: ../bloom.php:1411
+msgid "Month"
+msgstr "Hónap"
+
+#: ../bloom.php:1411
+msgid "Day"
+msgstr "Nap"
+
+#: ../bloom.php:1410
+msgid "Per"
+msgstr ""
+
+#: ../bloom.php:1405
+msgid "New Signups"
+msgstr ""
+
+#: ../bloom.php:1105 ../bloom.php:1769
+msgid "n/a"
+msgstr "n/a"
+
+#: ../bloom.php:1066
+msgid "Growth Rate"
+msgstr ""
+
+#: ../bloom.php:1064
+msgid "Provider"
+msgstr "Szolgáltató"
+
+#: ../bloom.php:1063
+msgid "My Lists"
+msgstr ""
+
+#: ../bloom.php:1027 ../bloom.php:2208
+msgid "Conversion rate"
+msgstr ""
+
+#: ../bloom.php:1026
+msgid "Highest converting pages"
+msgstr ""
+
+#: ../bloom.php:981 ../dashboard/includes/options.php:762
+msgid "Homepage"
+msgstr "Kezdőlap"
+
+#: ../bloom.php:816 ../bloom.php:1862
+msgid "Conversions"
+msgstr "Konverziók"
+
+#: ../bloom.php:815 ../bloom.php:1861
+msgid "Impressions"
+msgstr "Benyomások"
+
+#: ../bloom.php:814
+msgid "My Optins"
+msgstr ""
+
+#: ../bloom.php:783 ../bloom.php:1107 ../bloom.php:1122 ../bloom.php:1771
+msgid "week"
+msgstr "hét"
+
+#: ../bloom.php:782
+msgid "Subscriber Growth"
+msgstr ""
+
+#: ../bloom.php:780 ../bloom.php:1065 ../bloom.php:1706
+msgid "Subscribers"
+msgstr "Feliratkozó"
+
+#: ../bloom.php:778 ../bloom.php:817 ../bloom.php:1863
+msgid "Conversion Rate"
+msgstr "Konverziók mértéke"
+
+#: ../bloom.php:728
+msgid "All lists"
+msgstr ""
+
+#: ../bloom.php:666
+msgid "Last 12 month"
+msgstr ""
+
+#: ../bloom.php:665
+msgid "Last 30 days"
+msgstr "Utolsó 30 nap"
+
+#: ../bloom.php:664
+msgid "New sign ups"
+msgstr ""
+
+#: ../bloom.php:652
+msgid "Overview"
+msgstr "Áttekintés"
+
+#: ../bloom.php:563 ../dashboard/includes/options.php:1039
+msgid "Preview"
+msgstr "Előnézet"
+
+#: ../bloom.php:543 ../bloom.php:1747 ../bloom.php:1911 ../bloom.php:1980
+msgid "No"
+msgstr "Nem"
+
+#: ../bloom.php:542 ../bloom.php:1746 ../bloom.php:1910 ../bloom.php:1979
+msgid "Yes"
+msgstr "Igen"
+
+#: ../bloom.php:541
+msgid "Remove all the stats data?"
+msgstr ""
+
+#: ../bloom.php:538
+msgid "Refresh Stats"
+msgstr "Statisztikák frissítése"
+
+#: ../bloom.php:537
+msgid "Clear Stats"
+msgstr ""
+
+#: ../bloom.php:514
+msgid "My Accounts"
+msgstr ""
+
+#: ../bloom.php:513
+msgid "new account"
+msgstr ""
+
+#: ../bloom.php:500
+msgid "widget"
+msgstr "widget"
+
+#: ../bloom.php:499
+msgid "locked content"
+msgstr ""
+
+#: ../bloom.php:498
+msgid "inline"
+msgstr "egyvonalban"
+
+#: ../bloom.php:497
+msgid "below post"
+msgstr "bejegyzés alatt"
+
+#: ../bloom.php:496
+msgid "fly in"
+msgstr "lebegjen be"
+
+#: ../bloom.php:495
+msgid "pop up"
+msgstr "felugró"
+
+#: ../bloom.php:494 ../bloom.php:2057
+msgid "select optin type to begin"
+msgstr "válassz feliratkozási modult a kezdéshez"
+
+#: ../bloom.php:449
+msgid "Active Optins"
+msgstr ""
+
+#: ../bloom.php:448
+msgid "new optin"
+msgstr ""
+
+#: ../bloom.php:384
+msgid "Locked Content Opt-In"
+msgstr ""
+
+#: ../bloom.php:383
+msgid "Inline Opt-In"
+msgstr ""
+
+#: ../bloom.php:382
+msgid "insert bloom Opt-In"
+msgstr ""
+
+#: ../bloom.php:366 ../bloom.php:372
+msgid "No optins available"
+msgstr ""
+
+#: ../bloom.php:271
+msgid "Generate Shortcode"
+msgstr "Shortcode generálása"
+
+#: ../bloom.php:264
+msgid "Next: Customize"
+msgstr ""
+
+#: ../bloom.php:257
+msgid "Next: Display Settings"
+msgstr ""
+
+#: ../bloom.php:250
+msgid "Next: Design Your Optin"
+msgstr ""
+
+#: ../bloom.php:217
+msgid "Settings"
+msgstr "Beállítások"
+
+#: ../bloom.php:192 ../dashboard/includes/options.php:22
+msgid "Import & Export"
+msgstr "Importálás és Exportálás"
+
+#: ../bloom.php:191
+msgid "Statistics"
+msgstr "Statisztika"
+
+#: ../bloom.php:190
+msgid "Email Accounts"
+msgstr "Email fiókok"
+
+#: ../bloom.php:189
+msgid "Optin Forms"
+msgstr "Feliratkozási modulok"
+
+#: ../bloom.php:188 ../includes/bloom-widget.php:11
+msgid "Bloom"
+msgstr "Bloom"
+
+#: ../bloom.php:151
+msgid "Save & Exit"
+msgstr "Mentés és kilépés"
+
+#: ../bloom.php:35
+msgid "%s is a singleton class and you cannot create a second instance."
+msgstr "%s egy singleton osztály és nem hozható létre egy második példány."

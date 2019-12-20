@@ -1,0 +1,2256 @@
+# Translation of Divi in Hungarian
+# This file is distributed under the same license as the Divi package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-20 19:27+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.2.4\n"
+"Language: hu\n"
+"Project-Id-Version: Divi\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: options_divi.php:336
+msgid "Enable this option to get responsive images size generated when uploading images and adding srcset attribute for images element."
+msgstr ""
+
+#: options_divi.php:332
+msgid "Enable Responsive Images"
+msgstr "Reszponzív képek engedélyezése"
+
+#: functions.php:619
+msgid "Product Content"
+msgstr "Terméktartalom"
+
+#: functions.php:847 functions.php:6751
+msgid "you don't have sufficient permissions to access this page"
+msgstr "nem rendelkezik megfelelő jogosultságokkal az oldal hozzáféréséhez"
+
+#: epanel/core_functions.php:167
+msgctxt "theme updates"
+msgid "Updates"
+msgstr "Frissítések"
+
+#: epanel/core_functions.php:160
+msgctxt "site color scheme"
+msgid "Colorization"
+msgstr "Színezés"
+
+#: epanel/core_functions.php:159
+msgctxt "site ads placement areas"
+msgid "Ads"
+msgstr "Reklámok"
+
+#: epanel/core_functions.php:215
+msgid "settings saved."
+msgstr "beállítások mentve."
+
+#: epanel/core_functions.php:218
+msgid "settings reset."
+msgstr "beállítások visszaállítva."
+
+#: epanel/core_functions.php:165
+msgctxt "search engine optimization"
+msgid "SEO"
+msgstr "SEO"
+
+#: epanel/core_functions.php:163
+msgctxt "page/post"
+msgid "Layout"
+msgstr "Szerkezet"
+
+#: epanel/core_functions.php:164
+msgctxt "navigation menu"
+msgid "Navigation"
+msgstr "Navigáció"
+
+#: epanel/core_functions.php:162
+msgctxt "integrate third-party code"
+msgid "Integration"
+msgstr "Integráció"
+
+#: epanel/core_functions.php:161
+msgctxt "general options"
+msgid "General"
+msgstr "Általános"
+
+#: epanel/core_functions.php:166
+msgctxt "documentation links"
+msgid "Support"
+msgstr "Támogatás"
+
+#: functions.php:6081
+msgid "comments"
+msgstr "hozzászólások"
+
+#: epanel/core_functions.php:552
+msgctxt "clear static resources"
+msgid "Clear"
+msgstr "Törlés"
+
+#: epanel/core_functions.php:413
+msgid "You don't have pages"
+msgstr "Nincsenek oldalak"
+
+#: options_divi.php:566
+msgid "You can disable this option if you want to remove the comments and comment form from single post pages. "
+msgstr "Letilthatja ezt az opciót, ha a hozzászólásokat és a hozzászólás űrlapot el kívánja távolítani a bejegyzés oldalakról. "
+
+#: epanel/core_functions.php:671 includes/functions/choices.php:102
+msgid "Yes"
+msgstr "Igen"
+
+#: functions.php:6433
+msgctxt "WooCommerce items number"
+msgid "%1$s Item"
+msgid_plural "%1$s Items"
+msgstr[0] "%1$s"
+msgstr[1] "%1$s"
+
+#: functions.php:1013
+msgid "Widgets"
+msgstr "Widgetek"
+
+#: functions.php:2868
+msgid "Widget Text Color"
+msgstr "Widget szövegszín"
+
+#: functions.php:2882
+msgid "Widget Link Color"
+msgstr "Widget hivatkozás szín"
+
+#: functions.php:2896
+msgid "Widget Header Color"
+msgstr "Widget fejléc szín"
+
+#: functions.php:2910
+msgid "Widget Bullet Color"
+msgstr "Widget pont szín"
+
+#: options_divi.php:754
+msgid "When you define your title using custom fields you should use this value for the custom field Name. The Value of your custom field should be the custom title you would like to use."
+msgstr "Amikor a címét egyedi mezők segítségével meghatározza, használja ezt az értéket egyedi mezőnévként. Az egyedi mező értéke pedig legyen az egyéni cím, amelyet használni kíván."
+
+#: options_divi.php:762
+msgid "When you define your meta description using custom fields you should use this value for the custom field Name. The Value of your custom field should be the custom description you would like to use."
+msgstr "Amikor a leírását egyedi mezők segítségével meghatározza, használja ezt az értéket egyedi mezőnévként. Az egyedi mező értéke pedig legyen az egyéni leírás, amelyet használni kíván."
+
+#: options_divi.php:770
+msgid "When you define your keywords using custom fields you should use this value for the custom field Name. The Value of your custom field should be the meta keywords you would like to use, separated by comas."
+msgstr "Amikor a kulcsszavait egyedi mezők segítségével meghatározza, használja ezt az értéket egyedi mezőnévként. Az egyedi mező értéke pedig legyenek az egyéni kulcsszavak, amelyeket használni kíván."
+
+#: functions.php:137
+msgid "Welcome to Divi! Before diving in to your new theme, please visit the <a style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" target=\"_blank\">Divi Documentation</a> page for access to dozens of in-depth tutorials."
+msgstr "Üdvözli a Divi! Mielőtt belevetné magát az új sablonjába, kérjük látogassa meg a <a style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" target=\"_blank\">Divi Dokumentáció</a> oldalt, több tucatnyi útmutatóért."
+
+#: functions.php:1252
+msgid "Website Gutter Width"
+msgstr "Weboldal oszloptávolság"
+
+#: functions.php:1233
+msgid "Website Content Width"
+msgstr "Weboldal tartalom szélesség"
+
+#: includes/functions/tutorials.php:1
+msgid "Watch video tutorials"
+msgstr "Tekintse meg az oktatóvideókat"
+
+#: includes/functions/choices.php:165
+msgid "Vertically Centered"
+msgstr "Függőlegesen középre"
+
+#: functions.php:1817
+msgid "Vertical Menu Orientation"
+msgstr "Vízszintes Menü Elrendezés"
+
+#: epanel/shortcodes/shortcodes.php:300
+msgid "Username: "
+msgstr "Felhasználónév: "
+
+#: options_divi.php:929
+msgid "Username"
+msgstr "Felhasználónév"
+
+#: epanel/shortcodes/shortcodes.php:1065
+msgid "Used for icon button type"
+msgstr "Ikon gombtípusnál használt"
+
+#: epanel/shortcodes/shortcodes.php:1130
+msgid "Use resizing"
+msgstr "Átméretezés használata"
+
+#: options_divi.php:289
+msgid "Use excerpts when defined"
+msgstr "Kivonatok használata, ha adottak"
+
+#: options_divi.php:343
+msgid "Use combined and minified javascript file to speed up your site's page load."
+msgstr "A webhely oldalterhelésének gyorsításához használja a kombinált és módosított javascript fájlt."
+
+#: options_divi.php:352
+msgid "Use combined and minified CSS file to speed up your site's page load."
+msgstr "A webhely oldalterhelésének felgyorsításához használja a kombinált és módosított CSS fájlt."
+
+#: includes/widgets/widget-ads.php:183
+msgid "Use Relative Image Paths"
+msgstr "Relatív kép útvonalak használata"
+
+#: options_divi.php:166
+msgid "Use Google Fonts"
+msgstr "A Google Fonts használata"
+
+#: functions.php:1270
+msgid "Use Custom Sidebar Width"
+msgstr "Egyéni oldalsáv szélesség"
+
+#: functions.php:573
+msgid "Use Background Color"
+msgstr "Háttérszín használata"
+
+#: includes/widgets/widget-ads.php:190 includes/widgets/widget-ads.php:198
+#: includes/widgets/widget-ads.php:206 includes/widgets/widget-ads.php:214
+#: includes/widgets/widget-ads.php:222 includes/widgets/widget-ads.php:230
+#: includes/widgets/widget-ads.php:238 includes/widgets/widget-ads.php:246
+msgid "Url"
+msgstr "URL"
+
+#: includes/functions/choices.php:11
+msgid "Uppercase"
+msgstr "Nagybetű"
+
+#: epanel/core_functions.php:386
+msgid "Upload"
+msgstr "Feltöltés"
+
+#: includes/functions/choices.php:12
+msgid "Underline"
+msgstr "Aláhúzott"
+
+#: epanel/shortcodes/shortcodes.php:1039
+msgid "URL"
+msgstr "Webcím"
+
+#: functions.php:938
+msgid "Typography"
+msgstr "Tipográfia"
+
+#: epanel/shortcodes/shortcodes.php:1023
+msgid "Type of the box"
+msgstr "A doboz típusa"
+
+#: epanel/shortcodes/shortcodes.php:1021 epanel/shortcodes/shortcodes.php:1043
+msgid "Type"
+msgstr "Típus"
+
+#: options_divi.php:213
+msgid "Twitter Profile Url"
+msgstr "Twitter profil webcím"
+
+#: includes/social_icons.php:13
+msgid "Twitter"
+msgstr "Twitter"
+
+#: epanel/shortcodes/shortcodes.php:281
+msgid "Tweet"
+msgstr "Tweet"
+
+#: comments.php:38
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#: includes/functions/choices.php:130
+msgid "Top to Bottom"
+msgstr "Fentről lefelé"
+
+#: functions.php:1928 functions.php:1966
+msgid "Top Bar Text Size"
+msgstr "Felső menüsor szöveg hossz"
+
+#: functions.php:2079
+msgid "Top Bar Text Color"
+msgstr "Felső menüsor szöveg színe"
+
+#: includes/functions/choices.php:164
+msgid "Top"
+msgstr "Fent"
+
+#: functions.php:6171
+msgid "To view this protected post, enter the password below"
+msgstr "A bejegyzés megtekintéséhez adja meg lent a jelszót"
+
+#: includes/widgets/widget-about.php:44 includes/widgets/widget-ads.php:180
+#: includes/widgets/widget-ads.php:192 includes/widgets/widget-ads.php:200
+#: includes/widgets/widget-ads.php:208 includes/widgets/widget-ads.php:216
+#: includes/widgets/widget-ads.php:224 includes/widgets/widget-ads.php:232
+#: includes/widgets/widget-ads.php:240 includes/widgets/widget-ads.php:248
+#: includes/widgets/widget-adsense.php:47
+msgid "Title"
+msgstr "Cím"
+
+#: includes/functions/choices.php:181
+msgid "Tile Vertically"
+msgstr "Mozaik függőlegesen"
+
+#: includes/functions/choices.php:180
+msgid "Tile Horizontally"
+msgstr "Mozaik vízszintesen"
+
+#: includes/functions/choices.php:179
+msgid "Tile"
+msgstr "Mozaik"
+
+#: epanel/core_functions.php:667
+msgid "This will return all of the settings throughout the options page to their default values. <strong>Are you sure you want to do this?</strong>"
+msgstr "Ez az összes beállítási értéket visszaállítja az alapértelmezett értékekre. <strong>Biztos benne, hogy ezt szeretné?</strong>"
+
+#: options_divi.php:293
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr "Ez lehetővé teszi a kivonatok használatát bejegyzéseknél vagy oldalakon."
+
+#: options_divi.php:307
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr "Ez lehetővé teszi a Google betűtípusokat nem angol nyelvek részére is."
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Ezt a bejegyzést jelszó védi. Kérem adja meg a jelszót a bejegyzés megtekintéséhez."
+
+#: options_divi.php:446 options_divi.php:482
+msgid "This options allows you to control how many teirs your pages dropdown menu has. Increasing the number allows for additional menu items to be shown."
+msgstr "Ez az opció szabályozza, hogy hány almenüje lehet az oldalak legördülő menüjének. A szám növelése több menü elem megjelenítését teszi lehetővé."
+
+#: options_divi.php:285
+msgid "This option allows you to change how your dates are displayed. For more information please refer to the WordPress codex here:<a href='http://codex.wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and Time</a>"
+msgstr "Ez az opció lehetővé teszi, hogy módosítsa a dátumok megjelenését. További információért forduljon a WordPress dokumentációhoz itt: <a href='http://codex.wordpress.org/Formatting_Date_and_Time' target='_blank'>Dátum és idő formázása</a>"
+
+#: epanel/core_functions.php:139 functions.php:6685
+msgid "Theme Options"
+msgstr "Téma beállítások"
+
+#: functions.php:6692 functions.php:6724
+msgid "Theme Customizer"
+msgstr "Téma testreszabás"
+
+#: functions.php:1759
+msgid "Theme Accent Color"
+msgstr "Téma főszín"
+
+#: includes/no-results.php:4
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr "A keresett oldal nem található. Próbálja meg finomítani a keresést vagy használja a fenti navigációt, hogy megtalálja a bejegyzést."
+
+#: options_divi.php:151
+msgid "The Maps module uses the Google Maps API and requires a valid Google API Key to function. Before using the map module, please make sure you have added your API key here. Learn more about how to create your Google API Key <a target=\"_blank\" href=\"%1$s\">here</a>."
+msgstr "A Térkép Modul a Google Térképek alkalmazást használja és valós Google API kulcs szükséges a működéséhez. A térkép modul használata előtt, kérjük, bizonyosodjon meg róla, hogy megadta az alkalmazás kulcsát. Tudjon meg többet arról, hogy hogyan hozhat létre Google API kulcsot <a target=\"_blank\" href=\"%1$s\">itt</a>."
+
+#: functions.php:2204 functions.php:2288 functions.php:2621 functions.php:3144
+msgid "Text Size"
+msgstr "Betűméret"
+
+#: functions.php:582 functions.php:2359 functions.php:2386 functions.php:2513
+#: functions.php:3035 functions.php:3163 functions.php:3367
+msgid "Text Color"
+msgstr "Szövegszín"
+
+#: includes/widgets/widget-about.php:48
+msgid "Text"
+msgstr "Szöveg"
+
+#: functions.php:948
+msgid "Tablet"
+msgstr "Tablet"
+
+#: epanel/shortcodes/shortcodes.php:1107
+msgid "Tab Text"
+msgstr "Fülszöveg"
+
+#: epanel/shortcodes/shortcodes.php:1114
+msgid "Tab Content"
+msgstr "Fül tartalma"
+
+#: comments.php:56
+msgid "Submit a Comment"
+msgstr "Hozzászólás elküldése"
+
+#: comments.php:56
+msgid "Submit Comment"
+msgstr "Hozzászólás elküldése"
+
+#: functions.php:6175
+msgid "Submit"
+msgstr "Küldés"
+
+#: functions.php:1417
+msgid "Stretch Background Image"
+msgstr "Háttérkép nyújtása"
+
+#: epanel/shortcodes/shortcodes.php:1005
+msgid "State"
+msgstr "Állapot"
+
+#: options_divi.php:428
+msgid "Sort Pages Links"
+msgstr "Oldalak hivatkozásainak sorrendje"
+
+#: options_divi.php:486
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr "Kategóriák hivatkozásainak sorrendje"
+
+#: options_divi.php:518
+msgid "Sometimes when using the CSS ID of a section to link directly to it from another page, the page's final scroll position can be inaccurate. Enable this option to use an alternative method for scrolling to anchors which can be more accurate than the default method in some cases."
+msgstr "Néha, amikor CSS azonosítót használ az egyik szekcióhoz, hogy ara hivatkozzon konkrétan, az oldal végső felirata pontatlan lehet. Engedélyezze ezt az opciót egy alternatív módszer használatához, így pontosabb módszerhez juthat, mint a hagyományos."
+
+#: includes/functions/choices.php:145
+msgid "Solid"
+msgstr "Folytonos"
+
+#: functions.php:3083
+msgid "Social Icon Size"
+msgstr "Közösségi ikon méret"
+
+#: functions.php:3102
+msgid "Social Icon Color"
+msgstr "Közösségi ikon szín"
+
+#: options_divi.php:317
+msgid "Smooth Scrolling"
+msgstr "Finomgörgetés"
+
+#: epanel/shortcodes/shortcodes.php:1080
+msgid "Slider Type"
+msgstr "Lapozó típusa"
+
+#: functions.php:988
+msgid "Slide In & Fullscreen Header Settings"
+msgstr "Beúszások & Teljes képernyős fejléc beállításai"
+
+#: includes/functions/choices.php:43
+msgid "Slide In"
+msgstr "Beúszás"
+
+#: includes/functions/choices.php:58
+msgid "Slide"
+msgstr "Dia"
+
+#: functions.php:439
+msgid "Skills"
+msgstr "Szakértelem"
+
+#: functions.php:928
+msgid "Site Identity"
+msgstr "Honlap azonosítás"
+
+#: options_divi.php:635
+msgid "Single Post Page SEO"
+msgstr "Bejegyzés oldal SEO"
+
+#: options_divi.php:536
+msgid "Single Post Layout"
+msgstr "Bejegyzés szerkezete"
+
+#: options_divi.php:541
+msgid "Single Page Layout"
+msgstr "Oldal szerkezete"
+
+#: functions.php:1284
+msgid "Sidebar Width"
+msgstr "Oldalsáv szélesség"
+
+#: options_divi.php:124
+msgid "Sidebar Layout"
+msgstr "Oldalsáv elrendezés"
+
+#: includes/functions/sidebars.php:4
+msgid "Sidebar"
+msgstr "Oldalsáv"
+
+#: options_divi.php:414 options_divi.php:464
+msgid "Show dropdown menus"
+msgstr "Legördülő menük megjelenítése"
+
+#: options_divi.php:562
+msgid "Show comments on posts"
+msgstr "Hozzászólások megjelenítése bejegyzéseknél"
+
+#: options_divi.php:589
+msgid "Show comments on pages"
+msgstr "Hozzászólások megjelenítése oldalaknál"
+
+#: options_divi.php:182
+msgid "Show Twitter Icon"
+msgstr "Twitter ikon megjelenítése"
+
+#: functions.php:1876
+msgid "Show Top Bar"
+msgstr "Felső Menüsor Megmutatása"
+
+#: options_divi.php:609
+msgid "Show Thumbs on Index pages"
+msgstr "Bélyegképek megjelenítése az Index oldalakon"
+
+#: functions.php:1848 functions.php:2737
+msgid "Show Social Icons"
+msgstr "Közösségi ikonok megjelenítése"
+
+#: functions.php:1862
+msgid "Show Search Icon"
+msgstr "Keresés ikon megjelenítése"
+
+#: options_divi.php:200
+msgid "Show RSS Icon"
+msgstr "RSS ikon megjelenítése"
+
+#: options_divi.php:194
+msgid "Show Instagram Icon"
+msgstr "Instagram ikon megjelenítése"
+
+#: options_divi.php:188
+msgid "Show Google+ Icon"
+msgstr "Google+ ikon megjelenítése"
+
+#: options_divi.php:176
+msgid "Show Facebook Icon"
+msgstr "Facebook ikon megjelenítése"
+
+#: functions.php:567 functions.php:602
+msgid "Show"
+msgstr "Megjelenítés"
+
+#: epanel/shortcodes/shortcodes.php:994
+msgid "Shortcodes"
+msgstr "Shortcode-ok"
+
+#: options_divi.php:133
+msgid "Shop Page & Category Page Layout for WooCommerce"
+msgstr "Áruház és kategória oldalszerkezet WooCommerce esetén"
+
+#: options_divi.php:81
+msgid "Set As Logo"
+msgstr "Beállítás logóként"
+
+#: epanel/shortcodes/shortcodes.php:1072
+msgid "Select yes if the link should be opened in a new window"
+msgstr "Válassza az igent, ha a hivatkozást új ablakban kívánja megnyitni"
+
+#: epanel/shortcodes/shortcodes.php:1007
+msgid "Select between expanded and closed state"
+msgstr "Válasszon a nyitott és zárt állapotok között"
+
+#: epanel/shortcodes/shortcodes.php:1082
+msgid "Select Slider Type here"
+msgstr "Válasszon lapozó típust"
+
+#: functions.php:357
+msgid "Select Page"
+msgstr "Oldal kiválasztása"
+
+#: functions.php:3309
+msgid "Select Icon"
+msgstr "Ikon kiválasztása"
+
+#: epanel/shortcodes/shortcodes.php:1089
+msgid "Select Animation Effect"
+msgstr "Válassza ki az animáció típusát"
+
+#: functions.php:810
+msgid "Select"
+msgstr "Kiválasztás"
+
+#: functions.php:1303 functions.php:1322 functions.php:1341
+msgid "Section Height"
+msgstr "Szakasz magasság"
+
+#: functions.php:2682
+msgid "Secondary Menu Link Color"
+msgstr "Másodlagos menühivatkozás szín"
+
+#: functions.php:983
+msgid "Secondary Menu Bar"
+msgstr "Másodlagos menüsor"
+
+#: functions.php:2654
+msgid "Secondary Menu Background Color"
+msgstr "Másodlagos menü háttérszín"
+
+#: functions.php:44
+msgid "Secondary Menu"
+msgstr "Másodlagos menü"
+
+#: epanel/custom_functions.php:1119
+msgid "Search results for \"%s\""
+msgstr "\"%s\" keresési eredményei"
+
+#: header.php:156 header.php:319 theme-header.php:122 theme-header.php:285
+msgid "Search for:"
+msgstr "Keresés erre:"
+
+#: epanel/custom_functions.php:1204
+msgid "Search Results for: %s"
+msgstr "Keresési Eredmények a %s kifejezésre"
+
+#: functions.php:2093
+msgid "Search Bar Text Color"
+msgstr "Sor szöveg színének keresése"
+
+#: functions.php:2107
+msgid "Search Bar Background Color"
+msgstr "Sor háttér színének keresése"
+
+#: header.php:154 header.php:317 theme-header.php:120 theme-header.php:283
+msgid "Search &hellip;"
+msgstr "Keresés &hellip;"
+
+#: includes/functions/choices.php:193
+msgid "Scroll"
+msgstr "Görgetés"
+
+#: epanel/core_functions.php:227 epanel/core_functions.php:657
+msgid "Save Changes"
+msgstr "Változtatások mentése"
+
+#: functions.php:1360 functions.php:1379 functions.php:1398
+msgid "Row Height"
+msgstr "Sormagasság"
+
+#: functions.php:6694
+msgid "Role Editor"
+msgstr "Szerepkör szerkesztő"
+
+#: includes/functions/choices.php:129
+msgid "Right to Left"
+msgstr "Jobbról balra"
+
+#: functions.php:474 functions.php:479 options_divi.php:33 options_divi.php:38
+#: options_divi.php:45 options_divi.php:50
+msgid "Right Sidebar"
+msgstr "Jobb oldali oldalsáv"
+
+#: functions.php:1464 includes/functions/choices.php:115
+msgid "Right"
+msgstr "Jobb"
+
+#: includes/functions/choices.php:150
+msgid "Ridge"
+msgstr "Borda"
+
+#: options_divi.php:296
+msgid "Responsive shortcodes"
+msgstr "Responsive shortcode-ok"
+
+#: epanel/core_functions.php:237
+msgid "Reset to Defaults"
+msgstr "Visszaállítás Alapértelmezettre"
+
+#: epanel/core_functions.php:385 epanel/core_functions.php:666
+msgid "Reset"
+msgstr "Törlés"
+
+#: includes/functions/choices.php:28
+msgid "Red"
+msgstr "Piros"
+
+#: includes/functions/installation.php:1
+msgid "Read Divi Documentation"
+msgstr "Olvassa el a Divi dokumentációt"
+
+#: epanel/core_functions.php:713
+msgid "Ratings"
+msgstr "Értékelések"
+
+#: options_divi.php:234
+msgid "RSS Icon Url"
+msgstr "RSS ikon webcím"
+
+#: includes/social_icons.php:40
+msgid "RSS"
+msgstr "RSS"
+
+#: functions.php:598
+msgid "Project Navigation"
+msgstr "Project Elrendezés"
+
+#: functions.php:2668
+msgid "Primary Menu Link Color"
+msgstr "Elsődleges menühivatkozás szín"
+
+#: functions.php:978
+msgid "Primary Menu Bar"
+msgstr "Elsődleges menüsor"
+
+#: functions.php:2640
+msgid "Primary Menu Background Color"
+msgstr "Elsődleges menü háttérszín"
+
+#: functions.php:43
+msgid "Primary Menu"
+msgstr "Elsődleges menü"
+
+#: single-project.php:72
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: epanel/shortcodes/shortcodes.php:21 epanel/shortcodes/shortcodes.php:526
+msgid "Previous"
+msgstr "Előző"
+
+#: functions.php:442
+msgid "Posted on"
+msgstr "Közzétéve"
+
+#: options_divi.php:602
+msgid "Post info section"
+msgstr "Bejegyzés információs része"
+
+#: functions.php:564
+msgid "Post Title"
+msgstr "Bejegyzés cím"
+
+#: functions.php:1059
+msgid "Post"
+msgstr "Bejegyzés"
+
+#: options_divi.php:1004
+msgid "Place your adsense code here."
+msgstr "Itt adhatja meg Adsense kódját."
+
+#: options_divi.php:569
+msgid "Place Thumbs on Posts"
+msgstr "Bélyegkép elhelyezése bejegyzéseknél"
+
+#: options_divi.php:582
+msgid "Place Thumbs on Pages"
+msgstr "Bélyegkép elhelyezése oldalakra"
+
+#: includes/functions/choices.php:27
+msgid "Pink"
+msgstr "Rózsaszín"
+
+#: functions.php:2710
+msgid "Phone Number"
+msgstr "Telefonszám"
+
+#: functions.php:953
+msgid "Phone"
+msgstr "Telefon"
+
+#: epanel/shortcodes/shortcodes.php:1116
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr "Másolja ide a kép webcímét, ha \"images\" lapozó típust választott"
+
+#: epanel/shortcodes/shortcodes.php:301
+msgid "Password: "
+msgstr "Jelszó: "
+
+#: functions.php:6170
+msgid "Password Protected"
+msgstr "Jelszóval védett"
+
+#: functions.php:6174
+msgid "Password"
+msgstr "Jelszó"
+
+#: page-template-blank.php:51 page.php:48 single-project.php:55 single.php:134
+msgid "Pages:"
+msgstr "Oldalak:"
+
+#: options_divi.php:388
+msgid "Pages"
+msgstr "Oldalak"
+
+#: functions.php:530
+msgid "Page Layout"
+msgstr "Oldalszerkezet"
+
+#: includes/functions/choices.php:152
+msgid "Outset"
+msgstr "Szegély kívül"
+
+#: options_divi.php:435
+msgid "Order Pages Links by Ascending/Descending"
+msgstr "Oldalak növekvő/csökkenő sorrendben való elhelyezése"
+
+#: options_divi.php:493
+msgid "Order Category Links by Ascending/Descending"
+msgstr "Kategóriák növekvő/csökkenő sorrendben való elhelyezése"
+
+#: includes/functions/choices.php:26
+msgid "Orange"
+msgstr "Narancssárga"
+
+#: epanel/core_functions.php:139
+msgid "Options"
+msgstr "Opciók"
+
+#: epanel/shortcodes/shortcodes.php:1070
+msgid "Open link in new window"
+msgstr "Hivatkozás megnyitása új ablakban"
+
+#: includes/widgets/widget-ads.php:185
+msgid "Open in a new window"
+msgstr "Megnyitás új ablakban"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:165
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "be"
+
+#: functions.php:3352
+msgid "Only Show Icon on Hover"
+msgstr "Ikon mutatása csak egérmutató alatt"
+
+#: functions.php:549 functions.php:558
+msgid "On"
+msgstr "Be"
+
+#: functions.php:548 functions.php:557
+msgid "Off"
+msgstr "Ki"
+
+#: options_divi.php:442 options_divi.php:478
+msgid "Number of dropdown tiers shown"
+msgstr "A legördülő menük mélységének száma"
+
+#: options_divi.php:241
+msgid "Number of Products displayed on WooCommerce archive pages"
+msgstr "A WooCommerce archívum oldalakon megjelenített termékek száma"
+
+#: options_divi.php:273
+msgid "Number of Posts displayed on Tag pages"
+msgstr "A Címke oldalakon megjelenített bejegyzések száma"
+
+#: options_divi.php:265
+msgid "Number of Posts displayed on Search pages"
+msgstr "A Keresés oldalakon megjelenített bejegyzések száma"
+
+#: options_divi.php:249
+msgid "Number of Posts displayed on Category page"
+msgstr "A Kategória oldalon megjelenített bejegyzések száma"
+
+#: options_divi.php:257
+msgid "Number of Posts displayed on Archive pages"
+msgstr "Az Archívum oldalakon megjelenített bejegyzések száma"
+
+#: functions.php:1035
+msgid "Note: Color settings set above should be applied to the Default color scheme."
+msgstr "Megjegyzés: a fenti színbeállítások az alapértelmezett színsémára vonatkoznak."
+
+#: epanel/core_functions.php:580
+msgid "No available options."
+msgstr "Nincs elérhető lehetőség."
+
+#: functions.php:475 functions.php:481
+msgid "No Sidebar"
+msgstr "Nincs oldalsáv"
+
+#: includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Nincs találat"
+
+#: includes/functions/choices.php:178
+msgid "No Repeat"
+msgstr "Nincs Ismétlés"
+
+#: includes/functions/choices.php:133
+msgid "No Animation"
+msgstr "Nincs animáció"
+
+#: epanel/core_functions.php:674 includes/functions/choices.php:103
+msgid "No"
+msgstr "Nem"
+
+#: single-project.php:73
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Újabb bejegyzések &raquo;"
+
+#: epanel/shortcodes/shortcodes.php:22 epanel/shortcodes/shortcodes.php:527
+msgid "Next"
+msgstr "Következő"
+
+#: comments.php:19 comments.php:32
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Korábbi hozzászólások <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:943
+msgid "Mobile Styles"
+msgstr "Mobil stílusok"
+
+#: functions.php:958
+msgid "Mobile Menu"
+msgstr "Mobil menü"
+
+#: options_divi.php:339
+msgid "Minify And Combine Javascript Files"
+msgstr "Minimalizálja és kombinálja a Javascript fájlokat"
+
+#: options_divi.php:348
+msgid "Minify And Combine CSS Files"
+msgstr "Minimalizálja és kombinálja a CSS fájlokat"
+
+#: functions.php:1076
+msgid "Meta Text Size"
+msgstr "Meta szövegméret"
+
+#: functions.php:1095
+msgid "Meta Line Height"
+msgstr "Meta sormagasság"
+
+#: functions.php:1114
+msgid "Meta Letter Spacing"
+msgstr "Meta betűköz"
+
+#: functions.php:1133
+msgid "Meta Font Style"
+msgstr "Meta betűtípus"
+
+#: functions.php:1890
+msgid "Menu Width"
+msgstr "Menü szélessége"
+
+#: functions.php:2185
+msgid "Menu Top Margin"
+msgstr "Felső szegély Menü"
+
+#: functions.php:1909 functions.php:1947
+msgid "Menu Text Size"
+msgstr "Menü szöveg hossz"
+
+#: functions.php:2051
+msgid "Menu Link Color"
+msgstr "Menü link színe"
+
+#: functions.php:2147
+msgid "Menu Height"
+msgstr "Menü magasság"
+
+#: options_divi.php:366
+msgid "Memory Limit Increase"
+msgstr "Memórialimit növelése"
+
+#: epanel/shortcodes/shortcodes.php:297
+msgid "Member Login"
+msgstr "Felhasználói bejelentkezés"
+
+#: options_divi.php:969
+msgid "Manage Un-widgetized Advertisements"
+msgstr "Reklámok kezelése (nem widget)"
+
+#: functions.php:2120 functions.php:2282
+msgid "Make Full Width"
+msgstr "Legyen teljes szélességű"
+
+#: functions.php:2166
+msgid "Logo Max Height"
+msgstr "Logó maximális magasság"
+
+#: options_divi.php:78
+msgid "Logo"
+msgstr "Logo"
+
+#: epanel/shortcodes/shortcodes.php:302
+msgid "Login"
+msgstr "Bejelentkezés"
+
+#: epanel/shortcodes/shortcodes.php:1058
+msgid "Link text"
+msgstr "Hivatkozás szöveg"
+
+#: epanel/shortcodes/shortcodes.php:1037
+msgid "Link"
+msgstr "Link"
+
+#: functions.php:495
+msgid "Light"
+msgstr "Világos"
+
+#: functions.php:1985 functions.php:2223 functions.php:2307 functions.php:2967
+#: functions.php:3243 functions.php:3428
+msgid "Letter Spacing"
+msgstr "Betűtávolság"
+
+#: includes/functions/choices.php:128
+msgid "Left to Right"
+msgstr "Balról jobbra"
+
+#: functions.php:473 functions.php:480 options_divi.php:32 options_divi.php:37
+#: options_divi.php:46 options_divi.php:51
+msgid "Left Sidebar"
+msgstr "Bal oldali oldalsáv"
+
+#: functions.php:1462 includes/functions/choices.php:116
+msgid "Left"
+msgstr "Bal"
+
+#: comments.php:56
+msgid "Leave a Reply to %s"
+msgstr "Válasz %s-nak"
+
+#: functions.php:933
+msgid "Layout Settings"
+msgstr "Szerkezeti beállítások"
+
+#: functions.php:1008
+msgid "Layout"
+msgstr "Szerkezet"
+
+#: epanel/shortcodes/shortcodes.php:740
+msgid "Join Now"
+msgstr "Csatlakozz most"
+
+#: includes/functions/choices.php:10
+msgid "Italic"
+msgstr "Dőlt"
+
+#: options_divi.php:227
+msgid "Instagram Profile Url"
+msgstr "Instagram-profil URL-címe"
+
+#: includes/social_icons.php:28
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/functions/choices.php:151
+msgid "Inset"
+msgstr "Szegély belül"
+
+#: options_divi.php:992
+msgid "Input 468x60 advertisement destination url"
+msgstr "468x60 reklám cél-webcímének hozzáadása"
+
+#: options_divi.php:984
+msgid "Input 468x60 advertisement banner image"
+msgstr "468x60 reklám banner képének hozzáadása"
+
+#: options_divi.php:1000
+msgid "Input 468x60 adsense code"
+msgstr "468x60 Adsense kód hozzáadása"
+
+#: options_divi.php:640
+msgid "Index Page SEO"
+msgstr "Index oldal SEO"
+
+#: options_divi.php:510
+msgid "In some cases users will want to create parent categories or links as placeholders to hold a list of child links or categories. In this case it is not desirable to have the parent links lead anywhere, but instead merely serve an organizational function. Enabling this options will remove the links from all parent pages/categories so that they don't lead anywhere when clicked."
+msgstr "Néhány esetben a felhasználók szülőkategóriákat vagy hivatkozásokat hoznak létre helykitöltőként, hogy egy hivatkozás vagy kategórialistát tároljanak. Ebben az esetben nem kívánatos, hogy a szülő hivatkozások valahová vezessenek, csak elrendezésbeli szerepet töltenek be. Ennek az opciónak az engedélyezése eltávolítja a hivatkozásokat a szülő oldalakról és kategóriákról, hogy sehova se vezessenek, ha a felhasználó rájuk kattint."
+
+#: epanel/custom_functions.php:1454
+msgid "Image doesn't exist"
+msgstr "Kép nem létezik"
+
+#: epanel/shortcodes/shortcodes.php:1358
+msgid "Image Width"
+msgstr "Kép maximális szélessége"
+
+#: epanel/shortcodes/shortcodes.php:1124
+msgid "Image Url"
+msgstr "Kép webcíme"
+
+#: epanel/shortcodes/shortcodes.php:1357
+msgid "Image Height"
+msgstr "Kép magassága"
+
+#: includes/widgets/widget-about.php:46 includes/widgets/widget-ads.php:188
+#: includes/widgets/widget-ads.php:196 includes/widgets/widget-ads.php:204
+#: includes/widgets/widget-ads.php:212 includes/widgets/widget-ads.php:220
+#: includes/widgets/widget-ads.php:228 includes/widgets/widget-ads.php:236
+#: includes/widgets/widget-ads.php:244
+msgid "Image"
+msgstr "Kép"
+
+#: options_divi.php:83
+msgid "If you would like to use your own custom logo image click the Upload Image button."
+msgstr "Ha saját, egyéni logóját szeretné használni, kattintson a \"Kép feltöltése\" gombra."
+
+#: options_divi.php:418
+msgid "If you would like to remove the dropdown menus from the pages navigation bar disable this feature."
+msgstr "Ha el kívánja távolítani a legördülő menüket az oldalak navigációs sávjából, tiltsa le ezt az opciót."
+
+#: options_divi.php:468
+msgid "If you would like to remove the dropdown menus from the categories navigation bar disable this feature."
+msgstr "Ha el kívánja távolítani a legördülő menüket a kategóriák navigációs sávjából, tiltsa le ezt az opciót."
+
+#: options_divi.php:740
+msgid "If you would like to add meta keywords to your post you can do so using custom fields. This option must be enabled for keywords to be displayed on post pages. You can add your meta keywords using custom fields based off the custom field name you define below."
+msgstr "Ha meta kulcsszavakat szeretne adni bejegyzéséhez, ezt megteheti egyedi mezőket használva. Ennek az opciónak kötelezően engedélyezve kell lennie, hogy a bejegyzések oldalain megjelenjenek a kulcsszavak. Meta kulcsszavakat megadhat az alább meghatározott egyéni mezőnéven alapuló egyedi mezők segítségével."
+
+#: options_divi.php:733
+msgid "If you would like to add a meta description to your post you can do so using custom fields. This option must be enabled for descriptions to be displayed on post pages. You can add your meta description using custom fields based off the custom field name you define below."
+msgstr "Ha meta leírást szeretne adni bejegyzésének, ezt megteheti egyedi mezőket használva. Ennek az opciónak kötelezően engedélyezve kell lennie, hogy a bejegyzések oldalain megjelenjen a leírás. Meta leírást megadhat az alább meghatározott egyéni mezőnéven alapuló egyedi mezők segítségével."
+
+#: options_divi.php:475
+msgid "If you would like categories to be displayed in your navigationbar that don't have any posts in them then disable this option. By default empty categories are hidden"
+msgstr "Ha szeretné, hogy az olyan kategóriák is megjelenjenek a navigációs sávon, amelyekhez nem tartoznak bejegyzések, akkor tiltsa le ezt az opciót. Alapértelmezetten az üres kategóriák rejtve vannak"
+
+#: options_divi.php:696
+msgid "If you have enabled meta keywords you can add your custom keywords here. Keywords should be separated by comas. For example: wordpress,themes,templates,elegant"
+msgstr "Ha a meta kulcsszavakat engedélyezte, akkor írja ide az egyéni kulcsszavait. A kulcsszavak legyenek vesszővel elválasztva. Például: wordpress,themes,templates,elegant"
+
+#: options_divi.php:688
+msgid "If you have enabled meta descriptions you can add your custom description here."
+msgstr "Ha a meta leírást engedélyezte, akkor írja ide az egyéni leírását."
+
+#: options_divi.php:680
+msgid "If you have enabled custom titles you can add your custom title here. Whatever you type here will be placed between the < title >< /title > tags in header.php"
+msgstr "Ha engedélyezte az egyéni címet, akkor írja ide az egyéni címet. Amit ide ír, az kerül a < title >< /title > címkék közé a header.php fájlban"
+
+#: includes/widgets/widget-ads.php:251
+msgid "If you don't want to display some banners - leave approptiate fields blank"
+msgstr "Ha nem szeretne néhány bannert megjeleníteni - hagyja a megfelelő mezőket üresen"
+
+#: options_divi.php:779
+msgid "If you are not using cutsom post titles you can still have control over hw your titles are generated. Here you can choose which order you would like your post title and blog name to be displayed, or you can remove the blog name from the title completely."
+msgstr "Ha nem használ egyéni bejegyzéscímeket, attól még irányíthatja a címek létrehozását. Itt választhat, milyen sorrendben szeretné a bejegyzés címét és a blog nevét megjeleníteni, vagy a blog nevét teljesen eltávolíthatja a címből."
+
+#: options_divi.php:705
+msgid "If you are not using cutsom post titles you can still have control over how your titles are generated. Here you can choose which order you would like your post title and blog name to be displayed, or you can remove the blog name from the title completely."
+msgstr "Ha nem használ egyéni bejegyzéscímeket, attól még irányíthatja a címek létrehozását. Itt választhat, milyen sorrendben szeretné a bejegyzés címét és a blog nevét megjeleníteni, vagy a blog nevét teljesen eltávolíthatja a címből."
+
+#: options_divi.php:700 options_divi.php:774
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr "Ha az egyéni cím tiltva van, válasszon egy automatikus módszert"
+
+#: functions.php:3337
+msgid "Icon Placement"
+msgstr "Ikon elhelyezés"
+
+#: functions.php:3323
+msgid "Icon Color"
+msgstr "Ikon szín"
+
+#: epanel/shortcodes/shortcodes.php:1063
+msgid "Icon"
+msgstr "Ikon"
+
+#: options_divi.php:692
+msgid "Homepage meta keywords (if enabled)"
+msgstr "Kezdőlap meta kulcsszavai (ha engedélyezett)"
+
+#: options_divi.php:684
+msgid "Homepage meta description (if enabled)"
+msgstr "Kezdőlap meta leírása (ha engedélyezett)"
+
+#: options_divi.php:676
+msgid "Homepage custom title (if enabled)"
+msgstr "Kezdőlap egyéni címe (ha engedélyezett)"
+
+#: options_divi.php:630
+msgid "Homepage SEO"
+msgstr "Kezdőlap SEO"
+
+#: epanel/custom_functions.php:778 header.php:199 header.php:268
+#: theme-header.php:165 theme-header.php:234
+msgid "Home"
+msgstr "Kezdőlap"
+
+#: options_divi.php:471
+msgid "Hide empty categories"
+msgstr "Üres kategóriák elrejtése"
+
+#: functions.php:1833
+msgid "Hide Navigation Until Scroll"
+msgstr "Navigáció elrejtése görgetésig"
+
+#: functions.php:553
+msgid "Hide Nav Before Scroll"
+msgstr "Navigáció elrejtése görgetésig"
+
+#: functions.php:2133 functions.php:2372 functions.php:2588
+msgid "Hide Logo Image"
+msgstr "Logó elrejtése"
+
+#: functions.php:568 functions.php:601
+msgid "Hide"
+msgstr "Elrejtés"
+
+#: functions.php:578 functions.php:3694
+msgid "Hex Value"
+msgstr "Színkód"
+
+#: options_divi.php:988
+msgid "Here you can provide 468x60 banner image url"
+msgstr "Itt adhatja meg a 468x60 banner kép webcímét"
+
+#: options_divi.php:996
+msgid "Here you can provide 468x60 banner destination url"
+msgstr "Itt adhatja meg a 468x60 banner cél-webcímét"
+
+#: options_divi.php:368
+msgid "Here you can disable automatic memory limit increase."
+msgstr "Itt kikapcsolhatja az automatikus memórialimit növelést."
+
+#: options_divi.php:277
+msgid "Here you can designate how many recent articles are displayed on the Tag pages. This option works independently from the Settings > Reading options in wp-admin."
+msgstr "Itt kijelölheti, hány új cikk jelenjen meg a Címke oldalakon. Ez a beállítás függetlenül működik a Beállítások > Olvasás opcióitól."
+
+#: options_divi.php:269
+msgid "Here you can designate how many recent articles are displayed on the Search results pages. This option works independently from the Settings > Reading options in wp-admin."
+msgstr "Itt kijelölheti, hány új cikk jelenjen meg a Keresési eredmények oldalakon. Ez a beállítás függetlenül működik a Beállítások > Olvasás opcióitól."
+
+#: options_divi.php:253
+msgid "Here you can designate how many recent articles are displayed on the Category page. This option works independently from the Settings > Reading options in wp-admin."
+msgstr "Itt kijelölheti, hány új cikk jelenjen meg a Kategória oldalon. Ez a beállítás függetlenül működik a Beállítások > Olvasás opcióitól."
+
+#: options_divi.php:261
+msgid "Here you can designate how many recent articles are displayed on the Archive pages. This option works independently from the Settings > Reading options in wp-admin."
+msgstr "Itt kijelölheti, hány új cikk jelenjen meg az Archívum oldalakon. Ez a beállítás függetlenül működik a Beállítások > Olvasás opcióitól."
+
+#: options_divi.php:245
+msgid "Here you can designate how many WooCommerce products are displayed on the archive page. This option works independently from the Settings > Reading options in wp-admin."
+msgstr "Itt kijelölheti, hány WooCommerce termék jelenjen meg az archívum oldalon. Ez a beállítás függetlenül működik a Beállítások > Olvasás opcióitól."
+
+#: options_divi.php:558
+msgid "Here you can choose which items appear in the post info section on single post pages. This is the area, usually below the post title, which displays basic information about your post. The highlighted items shown below will appear. "
+msgstr "Itt választhatja ki, hogy mely elemek jelennek meg az archív oldalak postinfo részében. Ez a terület, általában a postai cím alatt, ami alapvető információkat jelenít meg a bejegyzéséről. Az alább látható kiemelt szövegek megjelennek."
+
+#: options_divi.php:606
+msgid "Here you can choose which items appear in the post info section on pages. This is the area, usually below the post title, which displays basic information about your post. The highlighted items shown below will appear. "
+msgstr "Itt választhatja ki, hogy az oldalakon milyen elemek jelenjenek meg a bejegyzés információs részén. Ez a terület rendszerint a cím alatt található, és alap információt nyújt a bejegyzésről. A kiemelt elemek jelennek meg. "
+
+#: options_divi.php:432
+msgid "Here you can choose to sort your pages links."
+msgstr "Itt választhatja ki, hogy mi alapján legyenek sorrendbe téve az oldalak hivatkozásai."
+
+#: options_divi.php:439
+msgid "Here you can choose to reverse the order that your pages links are displayed. You can choose between ascending and descending."
+msgstr "Itt megfordíthatja az oldalak hivatkozásainak sorrendjét. Növekvő (asc) és csökkenő (desc) között választhat."
+
+#: options_divi.php:497
+msgid "Here you can choose to reverse the order that your categories links are displayed. You can choose between ascending and descending."
+msgstr "Itt megfordíthatja a kategóriák hivatkozásainak sorrendjét. Növekvő (asc) és csökkenő (desc) között választhat."
+
+#: options_divi.php:410
+msgid "Here you can choose to remove certain pages from the navigation menu. All pages marked with an X will not appear in your navigation bar. "
+msgstr "Itt választhatja ki, hogy melyik oldalakat nem kívánja szerepeltetni a navigációs sávon. Minden X-szel jelölt oldal ki lesz hagyva a navigációs sávról. "
+
+#: options_divi.php:460
+msgid "Here you can choose to remove certain categories from the navigation menu. All categories marked with an X will not appear in your navigation bar. "
+msgstr "Itt választhatja ki, hogy melyik kategóriákat nem kívánja szerepeltetni a navigációs sávon. Minden X-szel jelölt kategória ki lesz hagyva a navigációs sávról. "
+
+#: options_divi.php:186
+msgid "Here you can choose to display the Twitter Icon. "
+msgstr "Itt választhatja ki a Twitter ikon megjelenítését. "
+
+#: options_divi.php:204
+msgid "Here you can choose to display the RSS Icon. "
+msgstr "Itt választhatja ki az RSS ikon megjelenítését. "
+
+#: options_divi.php:198
+msgid "Here you can choose to display the Instagram Icon on your homepage. "
+msgstr "Itt választhat, hogy megjeleníti az Instagram ikont a kezdőlapon."
+
+#: options_divi.php:192
+msgid "Here you can choose to display the Google+ Icon on your homepage. "
+msgstr "Itt választhatja ki a Google+ ikon megjelenítését a kezdőlapján. "
+
+#: options_divi.php:180
+msgid "Here you can choose to display the Facebook Icon on your homepage. "
+msgstr "Itt választhatja ki a Facebook ikon megjelenítését a kezdőlapján. "
+
+#: options_divi.php:815
+msgid "Here you can choose how your titles on index pages are generated. You can change which order your blog name and index title are displayed, or you can remove the blog name from the title completely."
+msgstr "Itt választhatja ki, hogyan generálódjanak az index oldalak címei. Választhat, milyen sorrendben szeretné a blog nevét és az index címét megjeleníteni, vagy a blog nevét teljesen eltávolíthatja a címből."
+
+#: options_divi.php:129
+msgid "Here you can choose default sidebar layout"
+msgstr "Itt kiválaszthatja az alapértelmezett oldalsáv elrendezést"
+
+#: options_divi.php:138
+msgid "Here you can choose Shop Page & Category Page Layout for WooCommerce."
+msgstr "Itt választhatja ki az áruház és kategória oldalszerkezetet WooCommerce esetén."
+
+#: options_divi.php:712 options_divi.php:786
+msgid "Here you can change which character separates your blog title and post name when using autogenerated post titles. Common values are | or -"
+msgstr "Itt megváltoztathatja a karaktert, amely elkülöníti a blogja címét és bejegyzése nevét, amikor automatikusan generált bejegyzéscímeket alkalmaz. Gyakori választás a | vagy -"
+
+#: options_divi.php:822
+msgid "Here you can change which character separates your blog title and index page name when using autogenerated post titles. Common values are | or -"
+msgstr "Itt megváltoztathatja a karaktert, amely elkülöníti a blogja címét és index oldala nevét, amikor automatikusan generált bejegyzéscímeket alkalmaz. Gyakori választás a | vagy -"
+
+#: options_divi.php:361
+msgid "Here you can add custom css to override or extend default styles."
+msgstr "Itt egyéni CSS-t adhat hozzá, hogy felülírja vagy kiterjessze az alapértelmezett stílusokat."
+
+#: epanel/core_functions.php:33
+msgid "Help"
+msgstr "Segítség"
+
+#: functions.php:1148 functions.php:1573 functions.php:1645 functions.php:1664
+#: functions.php:2781
+msgid "Header Text Size"
+msgstr "Fejléc betűméret"
+
+#: functions.php:1745
+msgid "Header Text Color"
+msgstr "Fejléc szövegszín"
+
+#: functions.php:1789
+msgid "Header Style"
+msgstr "Fejléc stílusa"
+
+#: functions.php:1167 functions.php:1611
+msgid "Header Line Height"
+msgstr "Fejléc sorköz"
+
+#: functions.php:1186 functions.php:1592
+msgid "Header Letter Spacing"
+msgstr "Fejléc betűtávolság"
+
+#: functions.php:973
+msgid "Header Format"
+msgstr "Fejléc fomátum"
+
+#: functions.php:1205 functions.php:1630 functions.php:2800
+msgid "Header Font Style"
+msgstr "Fejléc betűstílus"
+
+#: functions.php:1684
+msgid "Header Font"
+msgstr "Fejléc betűtípus"
+
+#: functions.php:998
+msgid "Header Elements"
+msgstr "Fejléc elemek"
+
+#: functions.php:968
+msgid "Header & Navigation"
+msgstr "Fejléc és navigáció"
+
+#: includes/functions/choices.php:149
+msgid "Groove"
+msgstr "Barázda"
+
+#: includes/functions/choices.php:25
+msgid "Green"
+msgstr "Zöld"
+
+#: options_divi.php:110
+msgid "Grab the first post image"
+msgstr "Első kép keresése a bejegyzésben"
+
+#: options_divi.php:220
+msgid "Google+ Profile Url"
+msgstr "Google+ profil webcím"
+
+#: options_divi.php:303
+msgid "Google Fonts subsets"
+msgstr "Google Fonts alcsoportok"
+
+#: options_divi.php:143
+msgid "Google API Key"
+msgstr "Google API Key"
+
+#: includes/social_icons.php:20
+msgid "Google"
+msgstr "Google"
+
+#: functions.php:923 options_divi.php:398 options_divi.php:546
+msgid "General Settings"
+msgstr "Általános beállítások"
+
+#: options_divi.php:71 options_divi.php:920
+msgid "General"
+msgstr "Általános"
+
+#: functions.php:487 options_divi.php:39 options_divi.php:52
+msgid "Fullwidth"
+msgstr "Teljes szélességű"
+
+#: includes/functions/choices.php:44
+msgid "Fullscreen"
+msgstr "Teljes képernyős"
+
+#: functions.php:2939
+msgid "Footer Menu Text Color"
+msgstr "Lábléc menü szövegszín"
+
+#: functions.php:2925
+msgid "Footer Menu Background Color"
+msgstr "Lábléc menü háttérszín"
+
+#: functions.php:2953
+msgid "Footer Menu Active Link Color"
+msgstr "Lábléc menü aktív hivatkozás szín"
+
+#: functions.php:45 functions.php:1023
+msgid "Footer Menu"
+msgstr "Lábléc menü"
+
+#: functions.php:1018
+msgid "Footer Elements"
+msgstr "Lábléc elemek"
+
+#: functions.php:2767
+msgid "Footer Background Color"
+msgstr "Lábléc háttérszín"
+
+#: includes/functions/sidebars.php:13 includes/functions/sidebars.php:22
+#: includes/functions/sidebars.php:31 includes/functions/sidebars.php:40
+#: includes/functions/sidebars.php:49 includes/functions/sidebars.php:58
+msgid "Footer Area"
+msgstr "Lábléc terület"
+
+#: functions.php:1003
+msgid "Footer"
+msgstr "Lábjegyzet"
+
+#: functions.php:2022 functions.php:2260 functions.php:2344 functions.php:2986
+#: functions.php:3049
+msgid "Font Style"
+msgstr "Stílus másolása"
+
+#: functions.php:3001 functions.php:3064
+msgid "Font Size"
+msgstr "Betűméret"
+
+#: functions.php:2005 functions.php:2243 functions.php:2327
+msgid "Font"
+msgstr "Betűtípus"
+
+#: includes/functions/choices.php:59
+msgid "Flip"
+msgstr "Átfordul"
+
+#: functions.php:993
+msgid "Fixed Navigation Settings"
+msgstr "Fix navigáció beállítások"
+
+#: options_divi.php:86
+msgid "Fixed Navigation Bar"
+msgstr "Fix navigációs sáv"
+
+#: functions.php:2602
+msgid "Fixed Menu Height"
+msgstr "Fix menü magasság"
+
+#: includes/functions/choices.php:194
+msgid "Fixed"
+msgstr "Fix"
+
+#: includes/functions/choices.php:132
+msgid "Fade In"
+msgstr "Áttűnés"
+
+#: includes/functions/choices.php:56
+msgid "Fade"
+msgstr "Előtűnés"
+
+#: options_divi.php:206
+msgid "Facebook Profile Url"
+msgstr "Facebook profil webcím"
+
+#: includes/social_icons.php:6
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/functions/choices.php:57
+msgid "Expand"
+msgstr "Kibontás"
+
+#: options_divi.php:406
+msgid "Exclude pages from the navigation bar"
+msgstr "Oldalak kihagyása a navigációs sávból"
+
+#: options_divi.php:456
+msgid "Exclude categories from the navigation bar"
+msgstr "Kategóriák kihagyása a navigációs sávból"
+
+#: options_divi.php:218
+msgid "Enter the URL of your Twitter Profile."
+msgstr "Adja meg Twitter profilja webcímét."
+
+#: options_divi.php:239
+msgid "Enter the URL of your RSS feed. "
+msgstr "Adja meg RSS feedje webcímét. "
+
+#: options_divi.php:232
+msgid "Enter the URL of your Instagram Profile. "
+msgstr "Írja be az Instagram-profilod URL-jét."
+
+#: options_divi.php:225
+msgid "Enter the URL of your Google+ Profile. "
+msgstr "Adja meg Google+ profilja webcímét. "
+
+#: options_divi.php:211
+msgid "Enter the URL of your Facebook Profile. "
+msgstr "Adja meg Facebook profilja webcímét. "
+
+#: options_divi.php:155
+msgid "Enqueue Google Maps Script"
+msgstr "Google Térkép szkript sorba rendezése"
+
+#: options_divi.php:981
+msgid "Enabling this option will display a 468x60 banner ad on the bottom of your post pages below the single post content. If enabled you must fill in the banner image and destination url below."
+msgstr "Ezt az opciót aktiválva lehetősége nyílik egy 468x60 banner reklám hozzáadására a bejegyzéses oldalak alján, a bejegyzés tartalma után. Ha engedélyezi, meg kell adnia a banner képét és a cél webcímet."
+
+#: epanel/core_functions.php:688
+msgid "Enabled"
+msgstr "Engedélyezett"
+
+#: options_divi.php:613
+msgid "Enable this option to show thumbnails on Index Pages."
+msgstr "Aktiválja ezt az opciót a bélyegképek megjelenítéséhez az Index oldalakon."
+
+#: options_divi.php:300
+msgid "Enable this option to make shortcodes respond to various screen sizes"
+msgstr "Engedélyezze ezt az opciót, hogy a shortcode-ok különböző kijelző méretekhez alkalmazkodjanak"
+
+#: options_divi.php:321
+msgid "Enable this option to get the smooth scrolling effect with mouse wheel"
+msgstr "Engedélyezze ezt az opciót, hogy folyamatos görgetés hatást érjen el az egér görgőjével"
+
+#: options_divi.php:314
+msgid "Enable this option to display Back To Top Button while scrolling"
+msgstr "Engedélyezze ezt az opciót a Vissza a tetejére gomb görgetés közbeni megjelenítéséhez"
+
+#: options_divi.php:97
+msgid "Enable this if you want to replace the WordPress default gallery with the Divi-style gallery."
+msgstr "Engedélyezze ezt, ha szeretné helyettesíteni a WordPress alapvető galériáját a Divi-stílusú galériával"
+
+#: options_divi.php:863
+msgid "Enable single top code"
+msgstr "Egyszeri felső kód engedélyezése"
+
+#: options_divi.php:870
+msgid "Enable single bottom code"
+msgstr "Egyszeri alsó kód engedélyezése"
+
+#: options_divi.php:803
+msgid "Enable meta descriptions"
+msgstr "Meta leírás engedélyezése"
+
+#: options_divi.php:849
+msgid "Enable header code"
+msgstr "Fejléc kód engedélyezése"
+
+#: options_divi.php:722
+msgid "Enable custom titles"
+msgstr "Egyéni címek engedélyezése"
+
+#: options_divi.php:736
+msgid "Enable custom keywords"
+msgstr "Egyéni kulcsszavak használata"
+
+#: options_divi.php:729
+msgid "Enable custom description"
+msgstr "Egyéni leírás engedélyezése"
+
+#: options_divi.php:743
+msgid "Enable canonical URL's"
+msgstr "Kanonikus webcímek engedélyezése"
+
+#: options_divi.php:856
+msgid "Enable body code"
+msgstr "Törzs kód engedélyezése"
+
+#: functions.php:1803
+msgid "Enable Vertical Navigation"
+msgstr "Függőleges navigáció"
+
+#: options_divi.php:977
+msgid "Enable Single Post 468x60 banner"
+msgstr "Bejegyzés 468x60 banner engedélyezése"
+
+#: options_divi.php:93
+msgid "Enable Divi Gallery"
+msgstr "Divi galéria engedélyezése"
+
+#: functions.php:1219
+msgid "Enable Boxed Layout"
+msgstr "Keretes elrendezés"
+
+#: functions.php:2723
+msgid "Email"
+msgstr "Email cím"
+
+#: epanel/shortcodes/shortcodes.php:1087
+msgid "Effect"
+msgstr "Effekt"
+
+#: functions.php:3129
+msgid "Edit Footer Credits"
+msgstr "Lenti kreditek szerkesztése"
+
+#: includes/widgets/widget-ads.php:6
+msgid "ET Advertisement"
+msgstr "ET Reklám"
+
+#: includes/widgets/widget-adsense.php:6
+msgid "ET Adsense Widget"
+msgstr "ET Adsense widget"
+
+#: includes/widgets/widget-about.php:6
+msgid "ET About Me Widget"
+msgstr "ET Rólam widget"
+
+#: functions.php:2456 functions.php:2541
+msgid "Dropdown Menu Text Color"
+msgstr "Legördülő menü betűszín"
+
+#: functions.php:2442
+msgid "Dropdown Menu Line Color"
+msgstr "Legördülő menü vonalszín"
+
+#: functions.php:2428 functions.php:2527
+msgid "Dropdown Menu Background Color"
+msgstr "Legördülő menü háttérszín"
+
+#: functions.php:2470 functions.php:2555
+msgid "Dropdown Menu Animation"
+msgstr "Legördülő menü animáció"
+
+#: includes/functions/choices.php:148
+msgid "Double"
+msgstr "Dupla"
+
+#: includes/functions/choices.php:146
+msgid "Dotted"
+msgstr "Pontozott"
+
+#: functions.php:545
+msgid "Dot Navigation"
+msgstr "Pontnavigáció"
+
+#: options_divi.php:345
+msgid "Divi uses uncombined and unminified javascript files because \"SCRIPT_DEBUG\" constant on wp-config.php has been set to \"true\". Other plugin can enforce Divi to use uncombined and unminified javascript files by filtering \"et_load_unminified_scripts\" filter as well."
+msgstr "A Divi használatlan és nem módosított javascript fájlokat használ, mert a \"SCRIPT_DEBUG\" konstans a wp-config.php fájlban \"true\" értékre lett állítva. A másik bővítmény a Divi kényszerítetlen és nem módosított javascript fájljait is felhasználhatja az \"et_load_unminified_scripts\" szűrő szűrésével."
+
+#: options_divi.php:354
+msgid "Divi uses uncombined and unminified CSS files because \"SCRIPT_DEBUG\" constant on wp-config.php has been set to \"true\". Other plugin can enforce Divi to use uncombined and unminified CSS files by filtering \"et_load_unminified_styles\" filter as well."
+msgstr "A Divi használatlan és nem módosított CSS fájlokat használ, mert a \"SCRIPT_DEBUG\" konstans a wp-config.php fájlban \"true\" értékre lett állítva. A másik bővítmény a Divi-t arra használhatja, hogy használhatatlan és nem módosított CSS-fájlokat használjon az \"et_load_unminified_styles\" szűrő szűrésével."
+
+#: functions.php:431
+msgid "Divi Page Settings"
+msgstr "Divi oldalbeállítások"
+
+#: functions.php:6697
+msgid "Divi Library"
+msgstr "Divi Könyvtár"
+
+#: functions.php:6885
+msgid "Divi Customizer Settings"
+msgstr "Divi Customizer beállítások"
+
+#: includes/widgets/widget-ads.php:4
+msgid "Displays Advertisements"
+msgstr "Megjeleníti a reklámokat"
+
+#: includes/widgets/widget-adsense.php:4
+msgid "Displays Adsense Ads"
+msgstr "Megjeleníti az Adsense reklámokat"
+
+#: includes/widgets/widget-about.php:4
+msgid "Displays About Me Information"
+msgstr "Megjeleníti a Rólam információkat"
+
+#: options_divi.php:421
+msgid "Display Home link"
+msgstr "Kezdőlap hivatkozás megjelenítése"
+
+#: options_divi.php:867
+msgid "Disabling this option will remove the single top code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr "Ennek az opciónak a letiltása eltávolítja a blogból a lenti egyszeri felső kódot. Ezzel eltávolíthatja a kódot, miközben későbbi használatra elmentheti."
+
+#: options_divi.php:874
+msgid "Disabling this option will remove the single bottom code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr "Ennek az opciónak a letiltása eltávolítja a blogból a lenti egyszeri alsó kódot. Ezzel eltávolíthatja a kódot, miközben későbbi használatra elmentheti."
+
+#: options_divi.php:853
+msgid "Disabling this option will remove the header code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr "Ennek az opciónak a letiltása eltávolítja a blogból a lenti fejléc kódot. Ezzel eltávolíthatja a kódot, miközben későbbi használatra elmentheti."
+
+#: options_divi.php:860
+msgid "Disabling this option will remove the body code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr "Ennek az opciónak a letiltása eltávolítja a blogból a lenti törzs kódot. Ezzel eltávolíthatja a kódot, miközben későbbi használatra elmentheti."
+
+#: epanel/core_functions.php:690
+msgid "Disabled"
+msgstr "Letiltott"
+
+#: options_divi.php:328
+msgid "Disable translations if you don't want to display translated theme strings on your site."
+msgstr "Tiltsa le a fordításokat, ha nem szeretné a sablon fordítását megjeleníteni a webhelyén."
+
+#: options_divi.php:506
+msgid "Disable top tier dropdown menu links"
+msgstr "Legfelsőbb szintű legördülő menü hivatkozások tiltása"
+
+#: options_divi.php:162
+msgid "Disable this option to remove the Google Maps API script from your Divi Builder Pages. This may improve compatibility with third party plugins that also enqueue this script. Please Note: Modules that rely on the Google Maps API in order to function properly, such as the Maps and Fullwidth Maps Modules, will still be available but will not function while this option is disabled (unless you manually add Google Maps API script)."
+msgstr "Kapcsolja ki ezt az opciót annak érdekében, hogy eltávolítsa a Google Térkép API szkriptet a Divi létrehozó oldalak közül. Ezzel lehetséges, hogy nő más plugin-nek kompatibilitása. Kérjük vegye figyelembe: A Google Térkép API-n alapuló modulok, mint például a térképek, vagy teljes nagyságú térkép modulok nem fognak rendesen működni, ettől függetlenül elérhetőek lesznek, de nem fognak működni ennek az opciónak a bekapcsolásakor (kivéve, ha manuálisan ad hozzá Google térkép szkriptet)."
+
+#: options_divi.php:173
+msgid "Disable this option to remove the Google Fonts from your Divi Builder Pages."
+msgstr "Tiltsa le ezt a beállítást a Google Betűtípusok eltávolításához a Divi Builder oldalakról."
+
+#: options_divi.php:324
+msgid "Disable Translations"
+msgstr "Fordítások letiltása"
+
+#: functions.php:3115
+msgid "Disable Footer Credits"
+msgstr "Lenti kreditek kikapcsolása"
+
+#: functions.php:6939
+msgid "Designed by %1$s | Powered by %2$s"
+msgstr "Dizájn: %1$s | Motor: %2$s"
+
+#: options_divi.php:105
+msgid "Define the default color palette for color pickers in the Divi Builder."
+msgstr "A Divi Builderben meghatározza a pipetták alapértelmezett színpalettáját."
+
+#: options_divi.php:708 options_divi.php:782 options_divi.php:818
+msgid "Define a character to separate BlogName and Post title"
+msgstr "Határozzon meg egy karaktert, hogy a honlap nevét és a bejegyzés címét elkülönítse"
+
+#: functions.php:556 functions.php:3655 includes/functions/choices.php:24
+#: includes/functions/choices.php:40
+msgid "Default"
+msgstr "Alapértelmezett"
+
+#: options_divi.php:281
+msgid "Date format"
+msgstr "Dátumformátum"
+
+#: epanel/core_functions.php:701
+msgid "Date"
+msgstr "Dátum"
+
+#: includes/functions/choices.php:147
+msgid "Dashed"
+msgstr "Szaggatott"
+
+#: functions.php:496
+msgid "Dark"
+msgstr "Sötét"
+
+#: options_divi.php:750
+msgid "Custom field Name to be used for title"
+msgstr "Egyedi mezőnév címhez"
+
+#: options_divi.php:766
+msgid "Custom field Name to be used for keywords"
+msgstr "Egyedi mezőnév kulcsszavakra"
+
+#: options_divi.php:758
+msgid "Custom field Name to be used for description"
+msgstr "Egyedi mezőnév leíráshoz"
+
+#: options_divi.php:357
+msgid "Custom CSS"
+msgstr "Egyéni CSS"
+
+#: epanel/custom_functions.php:1191
+msgid "Currently viewing archives from %1$s"
+msgstr "Jelenleg archívumot tekint meg innen: %1$s"
+
+#: functions.php:811
+msgid "Current Color"
+msgstr "Jelenlegi szín"
+
+#: epanel/shortcodes/shortcodes.php:1014 epanel/shortcodes/shortcodes.php:1030
+#: epanel/shortcodes/shortcodes.php:1059
+msgid "Content text or html"
+msgstr "Tartalom szöveg vagy html"
+
+#: epanel/shortcodes/shortcodes.php:1013 epanel/shortcodes/shortcodes.php:1029
+#: epanel/shortcodes/shortcodes.php:1115 epanel/shortcodes/shortcodes.php:1138
+msgid "Content goes here"
+msgstr "Ide jön a tartalom"
+
+#: epanel/shortcodes/shortcodes.php:1012 epanel/shortcodes/shortcodes.php:1028
+#: epanel/shortcodes/shortcodes.php:1057 epanel/shortcodes/shortcodes.php:1137
+msgid "Content"
+msgstr "Tartalom"
+
+#: comments.php:13 epanel/core_functions.php:709
+msgid "Comments"
+msgstr "Hozzászólások"
+
+#: functions.php:2751
+msgid "Column Layout"
+msgstr "Oszlop elrendezés"
+
+#: functions.php:1033 functions.php:1773
+msgid "Color Schemes"
+msgstr "Színsémák"
+
+#: options_divi.php:100
+msgid "Color Pickers Default Palette"
+msgstr "Színválasztókhoz alapértelmezett paletta"
+
+#: epanel/shortcodes/shortcodes.php:1050
+msgid "Color"
+msgstr "Szín"
+
+#: options_divi.php:841
+msgid "Code Integration"
+msgstr "Kód integráció"
+
+#: epanel/shortcodes/shortcodes.php:360
+msgid "Click here to learn more"
+msgstr "Részletekért kattintson ide"
+
+#: epanel/shortcodes/shortcodes.php:1096
+msgid "Choose yes if you want for automatic slider animation"
+msgstr "Válassza az igent, ha automatikus lapozó animációt szeretne"
+
+#: options_divi.php:554
+msgid "Choose which items to display in the post info section"
+msgstr "Válassza ki, milyen elemeket kíván megjeleníteni a bejegyzés információs részén"
+
+#: options_divi.php:810
+msgid "Choose title autogeneration method"
+msgstr "Válasszon címgeneráló módszert"
+
+#: epanel/shortcodes/shortcodes.php:1045
+msgid "Choose button type"
+msgstr "Válasszon gombtípust"
+
+#: epanel/shortcodes/shortcodes.php:1052
+msgid "Choose button color"
+msgstr "Válasszon gombszínt"
+
+#: epanel/core_functions.php:1001
+msgid "Choose an Image"
+msgstr "Kép kiválasztása"
+
+#: options_divi.php:807
+msgid "Check this box if you want to display meta descriptions on category/archive pages. The description is based off the category description you choose when creating/edit your category in wp-admin."
+msgstr "Engedélyezze ezt az opciót, ha meg akarja jeleníteni a meta leírásokat a kategória/archív oldalakon. A leírás azon a kategória leíráson alapul, amelyet a kategória készítésekor/szerkesztésekor választott a wp-adminban."
+
+#: includes/functions/choices.php:42
+msgid "Centered Inline Logo"
+msgstr "Középre igazított logó"
+
+#: includes/functions/choices.php:41
+msgid "Centered"
+msgstr "Középre igazított"
+
+#: functions.php:1463
+msgid "Center"
+msgstr "Közép"
+
+#: epanel/core_functions.php:705 options_divi.php:393
+msgid "Categories"
+msgstr "Kategóriák"
+
+#: epanel/shortcodes/shortcodes.php:1001
+msgid "Caption title goes here"
+msgstr "Ide jön a felirat címe"
+
+#: epanel/shortcodes/shortcodes.php:1000
+msgid "Caption goes here"
+msgstr "Ide jön a felirat"
+
+#: epanel/shortcodes/shortcodes.php:999
+msgid "Caption"
+msgstr "Képaláírás"
+
+#: options_divi.php:673 options_divi.php:747 options_divi.php:800
+msgid "Canonicalization helps to prevent the indexing of duplicate content by search engines, and as a result, may help avoid duplicate content penalties and pagerank degradation. Some pages may have different URLs all leading to the same place. For example domain.com, domain.com/index.html, and www.domain.com are all different URLs leading to your homepage. From a search engine's perspective these duplicate URLs, which also occur often due to custom permalinks, may be treated individually instead of as a single destination. Defining a canonical URL tells the search engine which URL you would like to use officially. The theme bases its canonical URLs off your permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr "A kanonikalizáció segít megelőzni a keresőmotorok általi duplikált tartalmak indexelését, és ennek eredményeképp segít megelőzni a duplikált tartalom büntetéseket és az oldal rangsorának degradációját. Egyes oldalak különböző webcímekkel rendelkeznek, amelyek mind egy helyre vezetnek. Például a domain.com, a domain.com/index.html és a www.domain.com különböző webcímmel rendelkeznek és egy honlapra vezetnek. A keresőmotor szempontjából ezek a duplikált webcímek, amelyek gyakran egyéni hivatkozások miatt jönnek létre, egyetlen cél helyett többnek tűnnek. A kanonikus webcím definiálás elárulja a keresőmotornak, hogy melyik webcímet kívánja hivatalosan használni. A sablon a kanonikus webcímeket a hivatkozásaira és a wp-admin lapon meghatározott domain névre alapozza."
+
+#: options_divi.php:573
+msgid "By default thumbnails are placed at the beginning of your post on single post pages. If you would like to remove this initial thumbnail image to avoid repetition simply disable this option. "
+msgstr "Alapértelmezetten a bélyegképek az egy bejegyzést tartalmazó oldalon a bejegyzés elejére kerülnek. Ha ezt a kezdeti bélyegképet ismétlés miatt el kívánja távolítani, egyszerűen tiltsa le ezt az opciót. "
+
+#: options_divi.php:586
+msgid "By default thumbnails are not placed on pages (they are only used on posts). However, if you want to use thumbnails on pages you can! Just enable this option. "
+msgstr "Alapértelmezetten nincsenek bélyegképek az oldalakon (csak a bejegyzésekben). Azonban ha szeretné, akkor megteheti! Csak engedélyezze ezt az opciót. "
+
+#: options_divi.php:114
+msgid "By default thumbnail images are created using custom fields. However, if you would rather use the images that are already in your post for your thumbnail (and bypass using custom fields) you can activate this option. Once activcated thumbnail images will be generated automatically using the first image in your post. The image must be hosted on your own server."
+msgstr "Alapértelmezetten a bélyegképeket egyedi mezők segítségével lehet létrehozni. Amennyiben inkább a bejegyzésekben már megtalálható képeket szeretné bélyegképként használni (ezzel megkerülve az egyedi mezőket), ezt az opciót aktiválhatja. Aktiválás után a bélyegképek a bejegyzésben található első képből automatikusan generálódnak. Ezt a képet a szerveren kell tárolni."
+
+#: options_divi.php:659
+msgid "By default the theme uses your blog description, as defined when you created your blog, to fill in the meta description field. If you would like to use a different description then enable this option and fill in the custom description field below. "
+msgstr "Alapértelmezetten a sablon a blogja leírását használja, ahogy a blog készítésekor lett megadva, hogy kitöltse a meta leírás mezőt. Ha más leírást kíván használni, aktiválja ezt az opciót és töltse ki az egyéni leírás mezőt lentebb. "
+
+#: options_divi.php:652
+msgid "By default the theme uses a combination of your blog name and your blog description, as defined when you created your blog, to create your homepage titles. However if you want to create a custom title then simply enable this option and fill in the custom title field below. "
+msgstr "Alapértelmezetten a sablon a blogja nevének és leírásának kombinációját használja, ahogy a blog készítésekor lett megadva, hogy a kezdőlap címe legyen. Ha azonban egyéni címet készítene, csak aktiválja ezt az opciót és töltse ki az egyéni cím mezőt lentebb. "
+
+#: options_divi.php:121
+msgid "By default the theme truncates your posts on index/homepages automatically to create post previews. If you would rather show your posts in full on index pages like a traditional blog then you can activate this feature."
+msgstr "Alapértelmezetten a sablon automatikusan lerövidíti a bejegyzéseit, hogy előnézetet készítsen. Ha inkább hagyományos blogként az egész bejegyzést szeretné megjeleníteni, aktiválja ezt az opciót."
+
+#: options_divi.php:666
+msgid "By default the theme does not add keywords to your header. Most search engines don't use keywords to rank your site anymore, but some people define them anyway just in case. If you want to add meta keywords to your header then enable this option and fill in the custom keywords field below. "
+msgstr "Alapértelmezetten a sablon nem tesz kulcsszavakat a fejlécbe. A legtöbb keresőmotor nem használja a keresőszavak módszerét, hogy a honlapját értékeljék, de néhány ember csak a biztonság kedvéért leírja őket. Ha meta kulcsszavakat szeretne a fejléchez adni, aktiválja ezt az opciót és töltse ki az egyéni kulcsszavak mezőt lentebb. "
+
+#: options_divi.php:726
+msgid "By default the theme creates post titles based on the title of your post and your blog name. If you would like to make your meta title different than your actual post title you can define a custom title for each post using custom fields. This option must be enabled for custom titles to work, and you must choose a custom field name for your title below."
+msgstr "Alapértelmezetten a sablon a bejegyzése címe és a blogja neve alapján készíti a bejegyzés címét. Ha azt szeretné, hogy a meta cím más legyen, mint a valós bejegyzéscím, meghatározhat egyéni címet minden egyes bejegyzésre egyedi mezőket használva. Ennek az opciónak kötelezően engedélyezve kell lennie, hogy működjenek az egyéni címek, és egy egyedi mezőnév kiválasztása is szükséges."
+
+#: options_divi.php:425
+msgid "By default the theme creates a Home link that, when clicked, leads back to your blog's homepage. If, however, you are using a static homepage and have already created a page called Home to use, this will result in a duplicate link. In this case you should disable this feature to remove the link."
+msgstr "Alapértelmezetten a sablon készít egy Kezdőlap hivatkozást, amelyre ha rákattintanak, visszavezet blogja kezdőlapjára. Ha azonban statikus weboldalt használ, és létrehozott egy oldalt Kezdőlap néven, akkor ez duplikált linkként fog megjelenni. Ebben az esetben tiltsa le ezt az opciót, hogy a linket eltávolítsa."
+
+#: options_divi.php:90
+msgid "By default the navigation bar stays on top of the screen at all times. We suggest to disable this option, if you need to use a logo taller than the default one."
+msgstr "Alapértelmezetten a navigációs sáv mindig a kijelző tetején marad. Javasoljuk, hogy ezt az opciót kapcsolja ki, amennyiben magasabb logót használna az alapértelmezettnél."
+
+#: options_divi.php:490
+msgid "By default pages are sorted by name. However if you would rather have them sorted by ID you can adjust this setting."
+msgstr "Alapértelmezetten az oldalak név szerint vannak sorrendben. Ha inkább ID szerinti sorrendet szeretne, ezt a beállítást módosíthatja."
+
+#: options_divi.php:593
+msgid "By default comments are not placed on pages, however, if you would like to allow people to comment on your pages simply enable this option. "
+msgstr "Alapértelmezetten a hozzászólások nem kerülnek fel az oldalakra, de ha szeretné engedélyezni az oldalakon való hozzászólást, csak aktiválja ezt az opciót! "
+
+#: functions.php:1044
+msgid "Buttons Style"
+msgstr "Gombok stílusa"
+
+#: functions.php:1049
+msgid "Buttons Hover Style"
+msgstr "Gombok stílusa egérmutató alatt"
+
+#: functions.php:3278
+msgid "Buttons Font"
+msgstr "Gomb betűtípus"
+
+#: functions.php:1039
+msgid "Buttons"
+msgstr "Gombok"
+
+#: functions.php:3262
+msgid "Button Font Style"
+msgstr "Gomb betűstílus"
+
+#: includes/functions/choices.php:131
+msgid "Bottom to Top"
+msgstr "Lentről felfelé"
+
+#: functions.php:1028
+msgid "Bottom Bar"
+msgstr "Alsó sáv"
+
+#: includes/functions/choices.php:166
+msgid "Bottom"
+msgstr "Lent"
+
+#: functions.php:3191
+msgid "Border Width"
+msgstr "Szegély szélesség"
+
+#: functions.php:3224 functions.php:3409
+msgid "Border Radius"
+msgstr "Szegély sugár"
+
+#: functions.php:3210 functions.php:3395
+msgid "Border Color"
+msgstr "Szegélyszín"
+
+#: includes/functions/choices.php:9
+msgid "Bold"
+msgstr "Félkövér Szöveg"
+
+#: functions.php:2815
+msgid "Body/Link Text Size"
+msgstr "Törzsszöveg/Hivatkozás betűméret"
+
+#: functions.php:2834
+msgid "Body/Link Line Height"
+msgstr "Törzsszöveg/Hivatkozás sorköz"
+
+#: functions.php:1497 functions.php:1535 functions.php:1554
+msgid "Body Text Size"
+msgstr "Törzsszöveg betűméret"
+
+#: functions.php:1731
+msgid "Body Text Color"
+msgstr "Törzsszöveg szövegszín"
+
+#: functions.php:1717
+msgid "Body Link Color"
+msgstr "Törzsszöveg hivatkozás szín"
+
+#: functions.php:1516
+msgid "Body Line Height"
+msgstr "Törzsszöveg sorköz"
+
+#: functions.php:2853
+msgid "Body Font Style"
+msgstr "Törzsszöveg betűtípus"
+
+#: functions.php:1700
+msgid "Body Font"
+msgstr "Törzsszöveg betűtípus"
+
+#: options_divi.php:117
+msgid "Blog Style Mode"
+msgstr "Blog stílus"
+
+#: functions.php:1054
+msgid "Blog"
+msgstr "Blog"
+
+#: includes/widgets/widget-ads.php:188 includes/widgets/widget-ads.php:190
+#: includes/widgets/widget-ads.php:192 includes/widgets/widget-ads.php:194
+#: includes/widgets/widget-ads.php:196 includes/widgets/widget-ads.php:198
+#: includes/widgets/widget-ads.php:200 includes/widgets/widget-ads.php:202
+#: includes/widgets/widget-ads.php:204 includes/widgets/widget-ads.php:206
+#: includes/widgets/widget-ads.php:208 includes/widgets/widget-ads.php:210
+#: includes/widgets/widget-ads.php:212 includes/widgets/widget-ads.php:214
+#: includes/widgets/widget-ads.php:216 includes/widgets/widget-ads.php:218
+#: includes/widgets/widget-ads.php:220 includes/widgets/widget-ads.php:222
+#: includes/widgets/widget-ads.php:224 includes/widgets/widget-ads.php:226
+#: includes/widgets/widget-ads.php:228 includes/widgets/widget-ads.php:230
+#: includes/widgets/widget-ads.php:232 includes/widgets/widget-ads.php:234
+#: includes/widgets/widget-ads.php:236 includes/widgets/widget-ads.php:238
+#: includes/widgets/widget-ads.php:240 includes/widgets/widget-ads.php:242
+#: includes/widgets/widget-ads.php:244 includes/widgets/widget-ads.php:246
+#: includes/widgets/widget-ads.php:248 includes/widgets/widget-ads.php:250
+msgid "Banner"
+msgstr "Banner"
+
+#: functions.php:1451
+msgid "Background Repeat"
+msgstr "Háttér ismétlése"
+
+#: functions.php:1458 functions.php:1482
+msgid "Background Position"
+msgstr "Háttér pozíció"
+
+#: functions.php:1431
+msgid "Background Image"
+msgstr "Háttérkép"
+
+#: functions.php:1424 functions.php:2037 functions.php:2414 functions.php:2485
+#: functions.php:2499 functions.php:3021 functions.php:3177 functions.php:3381
+msgid "Background Color"
+msgstr "Háttérszín"
+
+#: functions.php:963
+msgid "Background"
+msgstr "Háttér"
+
+#: options_divi.php:310
+msgid "Back To Top Button"
+msgstr "Vissza a tetejére gomb"
+
+#: epanel/shortcodes/shortcodes.php:1103
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr "Automatikus lapozó sebesség (csak ha az Automatikus igenre van állítva)"
+
+#: epanel/shortcodes/shortcodes.php:1101
+msgid "Auto Speed"
+msgstr "Automatikus sebesség"
+
+#: epanel/shortcodes/shortcodes.php:1094
+msgid "Auto"
+msgstr "Automatikus"
+
+#: epanel/shortcodes/shortcodes.php:1126
+msgid "Author Image URL"
+msgstr "Szerző képének webcíme"
+
+#: epanel/core_functions.php:697
+msgid "Author"
+msgstr "Szerző"
+
+#: epanel/custom_functions.php:1117
+msgid "Archives"
+msgstr "Archívum"
+
+#: options_divi.php:895
+msgid "Any code you place here will be placed at the top of all single posts. This is useful if you are looking to integrating things such as social bookmarking links."
+msgstr "Az összes kód, amit ide helyez, minden bejegyzés elején elhelyezésre kerül. Ez hasznos, amikor olyan dolgok integrálására van szükség, mint például a közösségi linkmegosztás."
+
+#: options_divi.php:902
+msgid "Any code you place here will be placed at the bottom of all single posts. This is useful if you are looking to integrating things such as social bookmarking links."
+msgstr "Minden olyan kódot, amelyet itt helyez el, az egyes bejegyzések alján helyezzük el. Ez akkor hasznos, ha olyan dolgokat szeretne integrálni, mint a szociális könyvjelzők."
+
+#: options_divi.php:881
+msgid "Any code you place here will appear in the head section of every page of your blog. This is useful when you need to add javascript or css to all pages."
+msgstr "Az összes kód, amit ide helyez, a blog összes oldalának fejléc részében elhelyezésre kerül. Ez hasznos, amikor Javascript-et vagy CSS-t szeretne hozzáadni minden oldalhoz."
+
+#: options_divi.php:888
+msgid "Any code you place here will appear in body section of all pages of your blog. This is usefull if you need to input a tracking pixel for a state counter such as Google Analytics."
+msgstr "Az összes kód, amit ide helyez, a blog összes oldalának törzs részében elhelyezésre kerül. Ez hasznos, amikor egy olyan követési képpont hozzáadására van szüksége statisztika mérésére, mint például a Google Analytics."
+
+#: options_divi.php:514
+msgid "Alternative scroll-to-anchor method"
+msgstr "Alternatív görgetési mód"
+
+#: includes/widgets/widget-ads.php:194 includes/widgets/widget-ads.php:202
+#: includes/widgets/widget-ads.php:210 includes/widgets/widget-ads.php:218
+#: includes/widgets/widget-ads.php:226 includes/widgets/widget-ads.php:234
+#: includes/widgets/widget-ads.php:242 includes/widgets/widget-ads.php:250
+msgid "Alt"
+msgstr ""
+
+#: includes/widgets/widget-ads.php:12 includes/widgets/widget-ads.php:136
+msgid "Advertisement"
+msgstr "Reklám"
+
+#: includes/widgets/widget-adsense.php:49
+msgid "Adsense Code"
+msgstr "Adsense kód"
+
+#: includes/widgets/widget-adsense.php:12
+#: includes/widgets/widget-adsense.php:41
+msgid "Adsense"
+msgstr "Adsense"
+
+#: options_divi.php:891
+msgid "Add code to the top of your posts"
+msgstr "A bejegyzések elejére adandó kód"
+
+#: options_divi.php:898
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr "A bejegyzések aljára, de a hozzászólások előtt hozzáadandó kód"
+
+#: options_divi.php:877
+msgid "Add code to the < head > of your blog"
+msgstr "A blog < head > részéhez hozzáadandó kód"
+
+#: options_divi.php:884
+msgid "Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr "A blog < body > részéhez hozzáadandó kód (alkalmas követési kódok integrációjára, mint például a Google Analytics kódra)"
+
+#: epanel/shortcodes/shortcodes.php:338
+msgid "Add a Tooltip Text"
+msgstr "Buboréksúgó szöveg hozzáadása"
+
+#: epanel/shortcodes/shortcodes.php:992
+msgid "Add ET Tabs"
+msgstr "ET fülek hozzáadása"
+
+#: epanel/shortcodes/shortcodes.php:989
+msgid "Add ET Learn more block"
+msgstr "ET tudjon meg többet blokk hozzáadása"
+
+#: epanel/shortcodes/shortcodes.php:991
+msgid "Add ET Button"
+msgstr "ET gomb hozzáadása"
+
+#: epanel/shortcodes/shortcodes.php:990
+msgid "Add ET Box"
+msgstr "ET doboz hozzáadása"
+
+#: functions.php:3294
+msgid "Add Button Icon"
+msgstr "Gomb ikon hozzáadása"
+
+#: epanel/shortcodes/shortcodes.php:993
+msgid "Add Author Bio"
+msgstr "Szerző bio hozzáadása"
+
+#: functions.php:2696
+msgid "Active Primary Menu Link Color"
+msgstr "Aktív elsődleges menühivatkozás szín"
+
+#: functions.php:2065 functions.php:2400
+msgid "Active Link Color"
+msgstr "Aktív link színe"
+
+#: includes/widgets/widget-about.php:12 includes/widgets/widget-about.php:41
+msgid "About Me"
+msgstr "Rólam"
+
+#: options_divi.php:941
+msgid "API Key"
+msgstr "API Kulcs"
+
+#: comments.php:18 comments.php:31
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Régebbi hozzászólások"
+
+#: options_divi.php:934 options_divi.php:946
+msgid "<em>Before you can receive product updates, you must first authenticate your Elegant Themes subscription. To do this, you need to enter both your Elegant Themes Username and your Elegant Themes API Key into the Updates Tab in your theme and plugin settings. To locate your API Key, <a href=\"https://www.elegantthemes.com/members-area/api/\" target=\"_blank\">log in</a> to your Elegant Themes account and navigate to the <strong>Account > API Key</strong> page. <a href=\"http://www.elegantthemes.com/gallery/divi/documentation/update/\" target=\"_blank\">Learn more here</a></em>. If you still get this message, please make sure that your Username and API Key have been entered correctly"
+msgstr "<em>A termék frissítéseinek megkapása előtt hitelesítenie kell az Elegant Themes előfizetését. Ennek érdekében meg kell adnia mind az Elegant Themes felhasználónevét, mind az Elegant Themes API kódját a Frissítések fülnél a témájánál és a plugin beállításainál. AZ alkalmazás kulcsának meghatározásához, <a href=\"https://www.elegantthemes.com/members-area/api/\" target=\"_blank\">jelentkezzen be</a> az Elegant Themes fiókjába és menjen az <strong>Account > Alkalmazás kulcs</strong> oldalra. <a href=\"http://www.elegantthemes.com/gallery/divi/documentation/update/\" target=\"_blank\">Tudjon meg többet</a></em>. Amennyiben továbbra is megkapja ezt az üzenetet, bizonyosodjon meg róla, hogy megfelelően adta meg az API kulcsát és felhasználónevét."
+
+#: epanel/custom_functions.php:1620
+msgid "<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will disappear once you have clicked the Save button within the <a href=\"%2$s\">theme's options page</a>.</p></div>"
+msgstr "<div class=\"updated\"><p>Ez a %1$s sablon frissen telepített változata. Ne felejtse el megnyitni az <a href=\"%2$s\">ePanel</a> menüpontot, hogy testre szabja. Ez az üzenet eltűnik, miután a Mentés gombra kattint a <a href=\"%2$s\">sablon beállítások oldalán</a>.</p></div>"
+
+#: epanel/custom_functions.php:1121
+msgid "404 Not Found"
+msgstr "404 Nem található"
+
+#: functions.php:6081
+msgid "1 comment"
+msgstr "1 hozzászólás"
+
+#: comments.php:13
+msgid "1 Comment"
+msgstr "1 hozzászólás"
+
+#: includes/functions/choices.php:74
+msgid "1 Column"
+msgstr "1 oszlop"
+
+#: functions.php:6081
+msgid "0 comments"
+msgstr "Nincsenek hozzászólások"
+
+#: comments.php:13
+msgid "0 Comments"
+msgstr "0 hozzászólás"
+
+#: epanel/shortcodes/shortcodes.php:1207
+msgid "+ Add One More Tab"
+msgstr "+ Fül hozzáadása"
+
+#: includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Régebbi bejegyzések"
+
+#: epanel/custom_functions.php:403
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: epanel/core_functions.php:236 epanel/core_functions.php:1043
+msgid "%s Theme Options"
+msgstr "%s beállítások"
+
+#: functions.php:242
+msgid "%d Items"
+msgstr "%d elem"
+
+#: functions.php:241
+msgid "%d Item"
+msgstr "%d elem"
+
+#: includes/functions/choices.php:71 includes/functions/choices.php:72
+#: includes/functions/choices.php:73 includes/functions/choices.php:75
+#: includes/functions/choices.php:76 includes/functions/choices.php:77
+#: includes/functions/choices.php:78 includes/functions/choices.php:79
+#: includes/functions/choices.php:80 includes/functions/choices.php:81
+#: includes/functions/choices.php:82 includes/functions/choices.php:83
+#: includes/functions/choices.php:84 includes/functions/choices.php:85
+#: includes/functions/choices.php:86 includes/functions/choices.php:87
+#: includes/functions/choices.php:88 includes/functions/choices.php:89
+#: includes/functions/choices.php:90
+msgid "%1$s Columns"
+msgstr "%1$s oszlop"
+
+#: options_divi.php:662
+msgid " Enable meta keywords"
+msgstr " Meta kulcsszavak engedélyezése"
+
+#: options_divi.php:655
+msgid " Enable meta description"
+msgstr " Meta leírás engedélyezése"
+
+#: options_divi.php:648
+msgid " Enable custom title "
+msgstr " Egyéni cím engedélyezése "
+
+#: options_divi.php:669 options_divi.php:796
+msgid " Enable canonical URL's"
+msgstr " Kanonikus webcímek engedélyezése"
