@@ -33,6 +33,9 @@ A DIVI fordítása sok Google fordítást tartalmaz, ami sok esetben érthetetle
 
 == Changelog ==
 
+= 0.0.14 =
+* Extra fordítás javítása
+
 = 0.0.13 =
 * Extra fordítás javítása
 
