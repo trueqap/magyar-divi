@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Extra package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-12-20 19:27+0100\n"
+"PO-Revision-Date: 2019-12-20 21:21+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,84 +17,84 @@ msgstr ""
 #: includes/widgets.php:439
 msgid "%d Post"
 msgid_plural "%d Posts"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d bejegyzés"
+msgstr[1] "%d bejegyzés"
 
 #: includes/template-tags.php:237
 msgid "%d rating"
 msgid_plural "%d ratings"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d értékelés"
+msgstr[1] "%d értékelés"
 
 #: includes/et-social-followers.php:389 includes/et-social-followers.php:425
 msgid "%s subscriber"
 msgid_plural "%s subscribers"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s feliratkozó"
+msgstr[1] "%s feliratkozó"
 
 #: includes/et-social-followers.php:345
 msgid "%s +1"
 msgid_plural "%s +1s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s + 1"
+msgstr[1] "%s + 1"
 
 #: includes/et-social-followers.php:245 includes/et-social-followers.php:483
 msgid "%s like"
 msgid_plural "%s likes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "% lájk"
+msgstr[1] "% lájk"
 
 #: includes/et-social-followers.php:119
 msgid "%s follower"
 msgid_plural "%s followers"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s követő"
+msgstr[1] "%s követő"
 
 #: framework/functions.php:1171 includes/core.php:361
 msgid "%d Item"
 msgid_plural "%d Items"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d elem"
+msgstr[1] "%d elem"
 
 #: framework/functions.php:1170 includes/core.php:359
 msgid "%d Item in Cart"
 msgid_plural "%d Items in Cart"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d termék van a kosaradban"
+msgstr[1] "%d termék van a kosaradban"
 
 #: includes/admin/admin.php:53
 msgid "you don't have sufficient permissions to access this page"
-msgstr "nincs elegendő engedélye az oldal eléréséhez"
+msgstr "nem rendelkezik megfelelő jogosultságokkal az oldal hozzáféréséhez"
 
 #. translators: comments widget: 1: comment author, 2: (optional) comment date
 #. , 3: post link
 #: includes/widgets.php:1252
 msgctxt "widgets"
 msgid "%1$s %2$s <div class=\"post-title\">on %3$s</div>"
-msgstr " %1$s %2$s <div class=\"post-title\">  %3$s-on </div>"
+msgstr "%1$s %2$s <div class=\"post-title\">  %3$s-on </div>"
 
 #: epanel/core_functions.php:167
 msgctxt "theme updates"
 msgid "Updates"
-msgstr "Frissítés"
+msgstr "Frissítések"
 
 #: epanel/core_functions.php:160
 msgctxt "site color scheme"
 msgid "Colorization"
-msgstr "színezés"
+msgstr "Színezés"
 
 #: epanel/core_functions.php:159
 msgctxt "site ads placement areas"
 msgid "Ads"
-msgstr "A hirdetések"
+msgstr "Reklámok"
 
 #: epanel/core_functions.php:215
 msgid "settings saved."
-msgstr "Beállítások elmentve."
+msgstr "beállítások mentve."
 
 #: epanel/core_functions.php:218
 msgid "settings reset."
-msgstr "beállítások visszaállítása."
+msgstr "beállítások visszaállítva."
 
 #: epanel/core_functions.php:165
 msgctxt "search engine optimization"
@@ -104,12 +104,12 @@ msgstr "SEO"
 #: includes/builder-integrations.php:25
 msgctxt "project type singular name"
 msgid "Project"
-msgstr "program"
+msgstr "Projekt"
 
 #: includes/builder-integrations.php:24
 msgctxt "project type general name"
 msgid "Projects"
-msgstr "projektek"
+msgstr "Projektek"
 
 #: includes/builder-integrations.php:26
 msgctxt "project item"
@@ -124,12 +124,12 @@ msgstr "Keresés"
 #: epanel/core_functions.php:163
 msgctxt "page/post"
 msgid "Layout"
-msgstr "Elrendezés"
+msgstr "Szerkezet"
 
 #: comments.php:54
 msgctxt "noun"
 msgid "COMMENT"
-msgstr "MEGJEGYZÉS"
+msgstr "HOZZÁSZÓLÁS"
 
 #: epanel/core_functions.php:164
 msgctxt "navigation menu"
@@ -139,7 +139,7 @@ msgstr "Navigáció"
 #: includes/core.php:231
 msgctxt "layout type singular name"
 msgid "Category Layout"
-msgstr "Kategória elrendezés"
+msgstr "Kategóriaelrendezés"
 
 #: includes/core.php:230
 msgctxt "layout type general name"
@@ -149,12 +149,12 @@ msgstr "Kategória elrendezések"
 #: includes/core.php:232
 msgctxt "layout item"
 msgid "Add New"
-msgstr "Új hozzáadása"
+msgstr "Hozzáad"
 
 #: includes/template-tags.php:601
 msgctxt "label"
 msgid "Search for:"
-msgstr "Keresés:"
+msgstr "Keresés erre:"
 
 #: epanel/core_functions.php:162
 msgctxt "integrate third-party code"
@@ -164,7 +164,7 @@ msgstr "Integráció"
 #: epanel/core_functions.php:161
 msgctxt "general options"
 msgid "General"
-msgstr "Tábornok"
+msgstr "Általános"
 
 #: epanel/core_functions.php:166
 msgctxt "documentation links"
@@ -174,24 +174,24 @@ msgstr "Támogatás"
 #: includes/template-tags.php:1314
 msgctxt "contact form title separator"
 msgid " - %s"
-msgstr "- %s"
+msgstr " - %s"
 
 #: includes/template-tags.php:80
 msgid "comment count"
-msgstr "megjegyzések száma"
+msgstr "hozzászólások száma"
 
 #: epanel/core_functions.php:552
 msgctxt "clear static resources"
 msgid "Clear"
-msgstr "Egyértelmű"
+msgstr "Törlés"
 
 #: includes/template-tags.php:1514
 msgid "by %s"
-msgstr " %s által"
+msgstr "szerző: %s"
 
 #: framework/functions.php:100
 msgid "by"
-msgstr "által"
+msgstr "szerző"
 
 #: includes/et-social-followers.php:373
 msgid "Youtube Username"
@@ -207,7 +207,7 @@ msgstr "Youtube"
 
 #: includes/widgets.php:1177
 msgid "Your site&#8217;s most recent comments."
-msgstr "A webhely legfrissebb észrevételei."
+msgstr "A webhely legfrissebb megjegyzései."
 
 #: includes/widgets.php:1017
 msgid "Your site&#8217;s most recent Videos (Posts which use video format)."
@@ -227,11 +227,11 @@ msgstr "Legújabb hozzászólásaid"
 
 #: includes/core.php:358 includes/template-tags.php:314
 msgid "Your Rating:"
-msgstr "A te értékelésed:"
+msgstr "Értékelésed:"
 
 #: epanel/core_functions.php:413
 msgid "You don't have pages"
-msgstr "Nincsenek oldalad"
+msgstr "Nincsenek oldalak"
 
 #: includes/et-social-followers.php:331
 msgid "You can find the User Id at the end of your Google+ URL. For example if the URL was: http://plus.google.com/+elegentthemes, the User Id would be: +elegenthemes"
@@ -281,7 +281,7 @@ msgstr "WordPress"
 
 #: options_extra.php:156
 msgid "WooCommerce Sidebar/Widget Area"
-msgstr "WooCommerce Sidebar / Widget Area"
+msgstr "WooCommerce Oldalsáv / Widget terület"
 
 #: options_extra.php:135
 msgid "WooCommerce Sidebar Location"
@@ -373,7 +373,7 @@ msgstr "Függőleges középre"
 
 #: epanel/shortcodes/shortcodes.php:300
 msgid "Username: "
-msgstr "Felhasználónév:"
+msgstr "Felhasználónév: "
 
 #: options_extra.php:1318
 msgid "Username"
@@ -385,7 +385,7 @@ msgstr "Felhasználónév"
 
 #: epanel/shortcodes/shortcodes.php:1065
 msgid "Used for icon button type"
-msgstr "Az ikon gomb típusához használható"
+msgstr "Ikon gombtípusnál használt"
 
 #: includes/admin/admin.php:1852
 msgid "Use this layout on the categories selected above."
@@ -485,7 +485,7 @@ msgstr "Írjon be egy címet, majd kattintson a Keresés gombra a jelölő elhel
 
 #: epanel/shortcodes/shortcodes.php:1021 epanel/shortcodes/shortcodes.php:1043
 msgid "Type"
-msgstr "típus"
+msgstr "Típus"
 
 #: options_extra.php:321
 msgid "Twitter Profile Url"
@@ -594,7 +594,7 @@ msgstr "Felső és alsó párnázás"
 
 #: includes/choices.php:166
 msgid "Top"
-msgstr "felső"
+msgstr "Fent"
 
 #: includes/customizer.php:3131 includes/customizer.php:3184
 msgid "Toggle Padding"
@@ -606,7 +606,7 @@ msgstr "Ikonméret váltása"
 
 #: includes/customizer.php:3719
 msgid "Toggle"
-msgstr "pecek"
+msgstr "Kapcsoló"
 
 #: includes/admin/admin.php:262 includes/admin/admin.php:1839
 #: includes/widgets.php:84 includes/widgets.php:366 includes/widgets.php:462
@@ -683,7 +683,7 @@ msgstr "Hiba történt, próbálkozzon újra."
 
 #: epanel/core_functions.php:139 includes/admin/admin.php:22
 msgid "Theme Options"
-msgstr "téma beállítások"
+msgstr "Téma beállítások"
 
 #: includes/admin/admin.php:29 includes/core.php:1500
 msgid "Theme Customizer"
@@ -829,7 +829,7 @@ msgstr "Összefoglaló cím"
 
 #: includes/admin/admin.php:191 includes/admin/admin.php:241
 msgid "Summary"
-msgstr "összefoglalás"
+msgstr "Összefoglaló"
 
 #: includes/customizer.php:3663
 msgid "Subscribe"
@@ -846,7 +846,7 @@ msgstr "Subheader betűmérete"
 
 #: includes/modules.php:203
 msgid "Subheader"
-msgstr "alfejlécében"
+msgstr "Alcím"
 
 #: includes/modules.php:348
 msgid "Sub Heading"
@@ -988,11 +988,11 @@ msgstr "Skype"
 
 #: includes/projects.php:151
 msgid "Skills: "
-msgstr "készségek:"
+msgstr "Képességek: "
 
 #: includes/modules.php:256 includes/modules.php:911 includes/modules.php:2784
 msgid "Sizing"
-msgstr "méretezése"
+msgstr "Méretezés"
 
 #: includes/admin/admin.php:1026
 msgid "Sitemap Sections Display"
@@ -1188,7 +1188,7 @@ msgstr "Szerző írása"
 
 #: epanel/shortcodes/shortcodes.php:994
 msgid "Shortcodes"
-msgstr "shortcodes"
+msgstr "Shortcode-ok"
 
 #: includes/admin/admin.php:1359
 msgid "Short description"
@@ -1248,7 +1248,7 @@ msgstr "Válassza az Animációs effektust"
 
 #: includes/customizer.php:3816
 msgid "Select"
-msgstr "választ"
+msgstr "Kiválasztás"
 
 #: includes/customizer.php:3534
 msgid "Secondary Menu Bar Settings"
@@ -1415,7 +1415,7 @@ msgstr "Legutóbbi hozzászólások"
 
 #: includes/widgets.php:1212
 msgid "Recent Comments"
-msgstr "legutóbbi hozzászólások"
+msgstr "Legújabb hozzászólások"
 
 #: includes/core.php:1287
 msgid "Recent"
@@ -1754,7 +1754,7 @@ msgstr "Hátterek színe"
 
 #: includes/modules.php:2523
 msgid "Post"
-msgstr "posta"
+msgstr "Bejegyzés"
 
 #: includes/admin/admin.php:1107
 msgid "Portfolio Page Template Options"
@@ -1770,7 +1770,7 @@ msgstr "Népszerű"
 
 #: includes/core.php:369 includes/template-tags.php:1293
 msgid "Please enter a valid email address."
-msgstr "Kérjük valós e-mail címet adjon meg!"
+msgstr "Kérjük valós e-mail címet adjon meg."
 
 #: options_extra.php:1432 options_extra.php:1488 options_extra.php:1544
 #: options_extra.php:1600 options_extra.php:1656
@@ -1784,7 +1784,7 @@ msgstr "Pinterest profil URL-je"
 #: includes/core.php:1178 includes/et-social-followers.php:567
 #: includes/et-social-share.php:100
 msgid "Pinterest"
-msgstr "pinterest"
+msgstr "Pinterest"
 
 #: includes/core.php:1191
 msgid "Picassa"
@@ -1804,7 +1804,7 @@ msgstr "Illessze be a kép url-t, ha a \"images\" (csúszka) típusú csúszkát
 
 #: epanel/shortcodes/shortcodes.php:301
 msgid "Password: "
-msgstr "Jelszó:"
+msgstr "Jelszó: "
 
 #: includes/builder-integrations.php:44
 msgid "Parent Skill:"
@@ -1882,7 +1882,7 @@ msgstr "JELSZÓ"
 
 #: includes/modules.php:253 includes/modules.php:907
 msgid "Overlay"
-msgstr "borítás"
+msgstr "Átfedés"
 
 #: includes/choices.php:152
 msgid "Outset"
@@ -2028,7 +2028,7 @@ msgstr "Következő lap"
 
 #: framework/functions.php:1045
 msgid "Next &raquo;"
-msgstr "Következő \""
+msgstr "Újabb bejegyzések &raquo;"
 
 #: epanel/shortcodes/shortcodes.php:22 epanel/shortcodes/shortcodes.php:527
 msgid "Next"
@@ -2137,7 +2137,7 @@ msgstr "Meta betűméret"
 #: includes/modules.php:1669 includes/modules.php:1930
 #: includes/modules.php:2118 includes/modules.php:2542
 msgid "Meta"
-msgstr "meta"
+msgstr "Metaadatok"
 
 #: page-template-contact.php:61
 msgid "Message"
@@ -2270,7 +2270,7 @@ msgstr "Logo magasság"
 
 #: options_extra.php:84
 msgid "Logo"
-msgstr "logo"
+msgstr "Logo"
 
 #: epanel/shortcodes/shortcodes.php:302 includes/customizer.php:3670
 #: includes/widgets.php:509 includes/widgets.php:520
@@ -2384,7 +2384,7 @@ msgstr "Csatlakozz most"
 
 #: includes/choices.php:16
 msgid "Italic"
-msgstr "dőlt betű"
+msgstr "Dőlt"
 
 #: framework/post-formats.php:76
 msgid "Invalid post"
@@ -2400,7 +2400,7 @@ msgstr "Instagram"
 
 #: includes/choices.php:151
 msgid "Inset"
-msgstr "betétlap"
+msgstr "Szegély belül"
 
 #: options_extra.php:1410 options_extra.php:1466 options_extra.php:1522
 #: options_extra.php:1578 options_extra.php:1634
@@ -2585,7 +2585,7 @@ msgstr "Homepage"
 
 #: epanel/custom_functions.php:778 header.php:197 theme-header.php:170
 msgid "Home"
-msgstr "itthon"
+msgstr "Kezdőlap"
 
 #: includes/admin/admin.php:800 includes/modules.php:369
 msgid "Highest Rated"
@@ -3030,7 +3030,7 @@ msgstr "Rögzített navigációs sáv"
 
 #: includes/admin/admin.php:653 includes/admin/admin.php:1240
 msgid "Find"
-msgstr "megtalálja"
+msgstr "Keresés"
 
 #: includes/customizer.php:3684
 msgid "Filterable Portfolio"
@@ -3058,7 +3058,7 @@ msgstr "Kedvenc"
 
 #: options_extra.php:92
 msgid "Favicon"
-msgstr "favicon"
+msgstr "Favicon"
 
 #: includes/choices.php:48
 msgid "Fade In From Top"
@@ -3163,7 +3163,7 @@ msgstr "A kategóriák kizárása a navigációs sávból"
 
 #: includes/admin/admin.php:955
 msgid "Exclude"
-msgstr "kizár"
+msgstr "Kizár"
 
 #: options_extra.php:168
 msgid "Every Hour"
@@ -3584,15 +3584,15 @@ msgstr "Ki ezt a lehetőséget, hogy távolítsa el a Google Maps API script az 
 
 #: includes/core.php:1187
 msgid "Deviantart"
-msgstr "deviantART"
+msgstr "Deviantart"
 
 #: footer.php:16 theme-footer.php:24
 msgid "Designed by %1$s | Powered by %2$s"
-msgstr " %1$s által tervezett | Powered by %2$s"
+msgstr "Dizájn: %1$s | Motor: %2$s"
 
 #: includes/admin/admin.php:809 includes/modules.php:379
 msgid "Descending"
-msgstr "csökkenő"
+msgstr "Csökkenő"
 
 #: includes/core.php:1195
 msgid "Delicious"
@@ -3633,7 +3633,7 @@ msgstr "Dátum"
 
 #: includes/choices.php:147
 msgid "Dashed"
-msgstr "szaggatott"
+msgstr "Szaggatott"
 
 #: options_extra.php:1083
 msgid "Custom field Name to be used for title"
@@ -3729,7 +3729,7 @@ msgstr "Hozzászólások"
 
 #: includes/customizer.php:1860
 msgid "Column Layout"
-msgstr "oszlop elrendezés"
+msgstr "Oszlop elrendezés"
 
 #: epanel/shortcodes/shortcodes.php:1050 includes/admin/admin.php:1929
 #: includes/admin/category.php:154
@@ -3830,7 +3830,7 @@ msgstr "Módosítsa az API kulcsát"
 
 #: includes/choices.php:33
 msgid "Centered"
-msgstr "középre"
+msgstr "Középre igazított"
 
 #: includes/admin/admin.php:37
 msgid "Category Builder"
@@ -3842,7 +3842,7 @@ msgstr "Kategória"
 
 #: includes/projects.php:149
 msgid "Categories: "
-msgstr "Kategóriák:"
+msgstr "Kategóriák: "
 
 #: epanel/core_functions.php:705 includes/admin/admin.php:778
 #: includes/admin/admin.php:1007 includes/modules.php:277
@@ -3937,7 +3937,7 @@ msgstr "Gombok betűtípusa"
 
 #: includes/customizer.php:3572
 msgid "Buttons"
-msgstr "gombok"
+msgstr "Gombok"
 
 #: includes/customizer.php:3576
 msgid "Button Styles"
@@ -3949,7 +3949,7 @@ msgstr "Gomb lebegő stílusok"
 
 #: includes/et-social-share.php:122
 msgid "Buffer"
-msgstr "ütköző"
+msgstr "Buffer"
 
 #: includes/admin/admin.php:258
 msgid "Breakdown #%d"
@@ -4059,7 +4059,7 @@ msgstr "Blog Feed Kőműves"
 
 #: includes/customizer.php:3754
 msgid "Blog"
-msgstr "blog"
+msgstr "Blog"
 
 #: options_extra.php:1389
 msgid "Below Post"
@@ -4126,7 +4126,7 @@ msgstr "Automatikus sebesség"
 
 #: epanel/shortcodes/shortcodes.php:1094
 msgid "Auto"
-msgstr "kocsi"
+msgstr "Automatikus"
 
 #: includes/admin/admin.php:974
 msgid "Authors to display"
@@ -4138,7 +4138,7 @@ msgstr "Szerzők oldal sablon beállításai"
 
 #: includes/widgets.php:127
 msgid "Authorize"
-msgstr "engedélyez"
+msgstr "Hitelesítés"
 
 #: epanel/shortcodes/shortcodes.php:1126
 msgid "Author Image URL"
@@ -4170,7 +4170,7 @@ msgstr "Hang"
 
 #: includes/modules.php:3112
 msgid "Attributes"
-msgstr "attribútumok"
+msgstr "Attribútumok"
 
 #: framework/post-formats.php:92
 msgid "Aside"
@@ -4178,7 +4178,7 @@ msgstr "Félre"
 
 #: includes/admin/admin.php:810 includes/modules.php:380
 msgid "Ascending"
-msgstr "növekvő"
+msgstr "Növekvő"
 
 #: epanel/custom_functions.php:1117 includes/admin/admin.php:1010
 #: includes/template-tags.php:1134
@@ -4474,11 +4474,11 @@ msgstr "<div class=\"updated\"><p> Ez egy %1$s téma új telepítése. Ne felejt
 
 #: epanel/custom_functions.php:1121
 msgid "404 Not Found"
-msgstr "404 nem található"
+msgstr "404- a keresett oldal nem található"
 
 #: includes/choices.php:72
 msgid "4 Columns"
-msgstr "4 Oszlopok"
+msgstr "4 oszlop"
 
 #: includes/choices.php:77
 msgid "3/4 + 1/4 Columns"
@@ -4486,7 +4486,7 @@ msgstr "3/4 + 1/4 oszlop"
 
 #: includes/choices.php:73
 msgid "3 Columns"
-msgstr "3 Oszlopok"
+msgstr "3 oszlop"
 
 #: includes/choices.php:79
 msgid "2/3 + 1/3 Columns"
@@ -4494,11 +4494,11 @@ msgstr "2/3 + 1/3 oszlop"
 
 #: includes/choices.php:74
 msgid "2 Columns"
-msgstr "2 Oszlopok"
+msgstr "2 oszlop"
 
 #: includes/choices.php:76
 msgid "1/4 + 3/4 Columns"
-msgstr "1/4 + 3/4 oszlopok"
+msgstr "1/4 + 3/4 oszlop"
 
 #: includes/choices.php:80
 msgid "1/4 + 1/4 + 1/2 Columns"
@@ -4506,11 +4506,11 @@ msgstr "1/4 + 1/4 + 1/2 oszlop"
 
 #: includes/choices.php:82
 msgid "1/4 + 1/2 + 1/4 Columns"
-msgstr "1/4 + 1/2 + 1/4 Oszlopok"
+msgstr "1/4 + 1/2 + 1/4 oszlop"
 
 #: includes/choices.php:78
 msgid "1/3 + 2/3 Columns"
-msgstr "1/3 + 2/3 Oszlopok"
+msgstr "1/3 + 2/3 oszlop"
 
 #: includes/choices.php:81
 msgid "1/2 + 1/4 + 1/4 Columns"
@@ -4539,19 +4539,19 @@ msgstr "«Előző"
 #: epanel/custom_functions.php:403 framework/functions.php:135
 #: framework/functions.php:1112
 msgid "&hellip;"
-msgstr "..."
+msgstr "&hellip;"
 
 #: includes/widgets.php:322
 msgid "%s ago"
-msgstr " %s ezelőtt"
+msgstr "%s idővel korábban"
 
 #: includes/customizer.php:1848
 msgid "%s URL"
-msgstr " %s URL"
+msgstr "%s URL"
 
 #: epanel/core_functions.php:236 epanel/core_functions.php:1043
 msgid "%s Theme Options"
-msgstr " %s Téma beállítások"
+msgstr "%s Téma beállítások"
 
 #: single-post.php:83 single-post.php:102
 msgid "%d%%"
@@ -4559,12 +4559,12 @@ msgstr "%d%%"
 
 #: includes/core.php:360
 msgid "%d Items in Cart"
-msgstr " %d a kosárban"
+msgstr "%d a kosárban"
 
 #: includes/core.php:362
 msgid "%d Items"
-msgstr " %d Tételek"
+msgstr "%d"
 
 #: includes/et-social-followers.php:458
 msgid " You can find all the info on how to obtain all the required credentials here: %s"
-msgstr "Az összes szükséges információt megtalálhatja itt: %s"
+msgstr " Az összes szükséges információt megtalálhatja itt: %s"
