@@ -6,7 +6,7 @@ Requires PHP: 5.6
 Requires at least: 3.0  
 Tested up to: 5.2.5  
 
-Stable tag: 0.0.17
+Stable tag: 0.0.18
 
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html 
@@ -32,6 +32,9 @@ Magyar Divi beállítások (fordítás, megjelenés és egyéb fejlesztések)
 A DIVI fordítása sok Google fordítást tartalmaz, ami sok esetben érthetetlen és magyartalan. A bővítmény ezeket a hibákat igyekszik orvosolni.
 
 == Changelog ==
+
+= 0.0.18 =
+* Extra author oldal fordítása
 
 = 0.0.17 =
 * Extra fordítás javítása
