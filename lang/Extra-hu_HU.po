@@ -2,7 +2,11 @@
 # This file is distributed under the same license as the Extra package.
 msgid ""
 msgstr ""
+<<<<<<< HEAD:lang/Extra-hu_HU.po
 "PO-Revision-Date: 2019-12-20 21:40+0100\n"
+=======
+"PO-Revision-Date: 2019-12-20 21:41+0100\n"
+>>>>>>> 0.0.14:lang/Extra-nagy/Extra-hu_HU.po
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
