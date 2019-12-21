@@ -43,7 +43,7 @@ get_header(); ?>
 										printf( '<li class="year year-%1$d"><a href="#%1$d" data-year="%1$d">%1$d</a></li>', esc_attr( $year ) );
 										$current_year = $year;
 									}
-									$month = str_replace('november','Noéév',$month);
+
 									$extra_angol_honapok = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 									$extra_magyar_honapok = ["Január", "Február", "Március", "Április", "Május", "Június", "Július", "Augusztus", "Szeptember", "Október", "November", "December"];
 
