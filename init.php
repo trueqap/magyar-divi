@@ -4,11 +4,7 @@ Plugin Name: Magyar kiegészítések Divi-hez
 Plugin URI:  https://hellowp.io
 Description: Magyar Divi beállítások (fordítás, megjelenés és egyéb fejlesztések)
 =======
-<<<<<<< HEAD
-Version:     0.0.16
-=======
-Version:     0.0.15
->>>>>>> 5d49747aeaec115a7a1352a618c659d6749df44c
+Version:     0.0.16as
 Author:      HelloWP.io
 Author URI:  https://hellowp.io/hu
 License:     GPL2
