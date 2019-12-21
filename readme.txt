@@ -33,12 +33,12 @@ A DIVI fordítása sok Google fordítást tartalmaz, ami sok esetben érthetetle
 
 == Changelog ==
 
-<<<<<<< HEAD
+= 0.0.16 =
+* Extra fordítás javítása
+
 = 0.0.15 =
 * Extra idővonal fordítása + magyar template fájlok
 
-=======
->>>>>>> 0.0.14
 = 0.0.14 =
 * Extra fordítás javítása
 
