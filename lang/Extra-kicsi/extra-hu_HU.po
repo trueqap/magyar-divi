@@ -5,6 +5,9 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0.0.14a
 =======
 >>>>>>> 0.0.14a
 <<<<<<< HEAD:lang/Extra-kicsi/extra-hu_HU.po
@@ -12,6 +15,7 @@ msgstr ""
 =======
 "PO-Revision-Date: 2019-12-20 21:28+0100\n"
 >>>>>>> a5d3bde670783d5c6feac17c53ff951feb41a4f0:lang/Extra-kicsi/extra-hu_HU.po
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 "PO-Revision-Date: 2019-12-20 21:40+0100\n"
@@ -21,6 +25,8 @@ msgstr ""
 =======
 "PO-Revision-Date: 2019-12-20 21:40+0100\n"
 >>>>>>> 0.0.14
+=======
+>>>>>>> 0.0.14a
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
