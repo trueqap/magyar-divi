@@ -6,7 +6,7 @@ Requires PHP: 5.6
 Requires at least: 3.0  
 Tested up to: 5.2.5  
 
-Stable tag: 0.0.15
+Stable tag: 0.0.16b
 
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html 
@@ -33,12 +33,12 @@ A DIVI fordítása sok Google fordítást tartalmaz, ami sok esetben érthetetle
 
 == Changelog ==
 
-<<<<<<< HEAD
+= 0.0.16b =
+* Extra fordítás javítása
+
 = 0.0.16 =
 * Extra fordítás javítása
 
-=======
->>>>>>> 5d49747aeaec115a7a1352a618c659d6749df44c
 = 0.0.15 =
 * Extra idővonal fordítása + magyar template fájlok
 
