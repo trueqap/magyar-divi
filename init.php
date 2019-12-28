@@ -4,11 +4,12 @@ Plugin Name: Magyar kiegészítések Divi-hez
 Plugin URI:  https://hellowp.io
 Description: Magyar Divi beállítások (fordítás, megjelenés és egyéb fejlesztések)
 =======
-Version:     0.0.18
+Version:     0.0.20
 Author:      HelloWP.io
 Author URI:  https://hellowp.io/hu
 License:     GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: magyar-divi
  */
 
 if (!defined('ABSPATH')) {
@@ -23,6 +24,7 @@ include_once ABSPATH . 'wp-admin/includes/plugin.php';
 
 include ('modules/timeline.php');
 include ('modules/authors.php');
+include ('modules/extra.php');
 
 // ** NYELVEK BETÖLTÉSE
 
