@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Et_builder package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-12-20 19:27+0100\n"
+"PO-Revision-Date: 2019-12-28 18:10+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -43,19 +43,19 @@ msgstr "WooCommerce oldalak"
 #. Translators: %1$s: ACF Field name
 #: plugin-compat/advanced-custom-fields.php:300
 msgid "Your \"%1$s\" ACF Field Value Will Display Here"
-msgstr ""
+msgstr "A \"%1$s\" ACF mezőhöz tartozó érték itt fog megjelenni"
 
 #: plugin-compat/advanced-custom-fields.php:295
 msgid "Your ACF Field Value Will Display Here"
-msgstr ""
+msgstr "Az ACF mezőhöz tartozó értéke itt fog megjelenni"
 
 #: module/woocommerce/Upsells.php:29
 msgid "Woo Upsells"
-msgstr ""
+msgstr "Woo Upsellek"
 
 #: module/woocommerce/Upsells.php:28
 msgid "Woo Upsell"
-msgstr ""
+msgstr "Woo Upsell"
 
 #: module/woocommerce/Title.php:22
 msgid "Woo Titles"
@@ -67,31 +67,31 @@ msgstr "Woo cím"
 
 #: module/woocommerce/Tabs.php:146
 msgid "Here you can select the tabs that you would like to display."
-msgstr ""
+msgstr "Itt kiválaszthatja azokat a lapfüleket, amiket meg szeretne jeleníteni."
 
 #: module/woocommerce/Tabs.php:142
 msgid "Include Tabs"
-msgstr ""
+msgstr "Lapfülek figyelembevétele"
 
 #: module/woocommerce/Tabs.php:27 module/woocommerce/Tabs.php:28
 msgid "Woo Tabs"
-msgstr ""
+msgstr "Woo lapfülek"
 
 #: module/woocommerce/Stock.php:104
 msgid "On Backorder Text"
-msgstr ""
+msgstr "Utánrendelés alatt szöveg"
 
 #: module/woocommerce/Stock.php:100
 msgid "Out of Stock Text"
-msgstr ""
+msgstr "Nincs raktáron szöveg"
 
 #: module/woocommerce/Stock.php:96
 msgid "In Stock Text"
-msgstr ""
+msgstr "Raktáron szöveg"
 
 #: module/woocommerce/Stock.php:63
 msgid "On Backorder"
-msgstr ""
+msgstr "Utánrendelés alatt"
 
 #: module/woocommerce/Stock.php:50
 msgid "Out Of Stock"
@@ -103,7 +103,7 @@ msgstr "Készleten"
 
 #: module/woocommerce/Stock.php:21 module/woocommerce/Stock.php:22
 msgid "Woo Stock"
-msgstr ""
+msgstr "Woo készlet"
 
 #: module/woocommerce/Reviews.php:111
 msgid "New Review Title"
@@ -111,27 +111,27 @@ msgstr "Értékelés doboz címe"
 
 #: module/woocommerce/Reviews.php:107
 msgid "Review Avatar"
-msgstr ""
+msgstr "Avatár megtekintése"
 
 #: module/woocommerce/Reviews.php:103
 msgid "Review Rating"
-msgstr ""
+msgstr "Értékelés megtekintése"
 
 #: module/woocommerce/Reviews.php:99
 msgid "Review Meta"
-msgstr ""
+msgstr "Meta megtekintése"
 
 #: module/woocommerce/Reviews.php:95
 msgid "Review Body"
-msgstr ""
+msgstr "Visszajelzés törzsszöveg"
 
 #: module/woocommerce/Reviews.php:91
 msgid "Reviews Count"
-msgstr ""
+msgstr "Értékelés számláló"
 
 #: module/woocommerce/Reviews.php:26 module/woocommerce/Reviews.php:27
 msgid "Woo Reviews"
-msgstr ""
+msgstr "Woo értékelések"
 
 #: module/woocommerce/RelatedProducts.php:342
 #: module/woocommerce/Upsells.php:332
@@ -152,241 +152,241 @@ msgstr "Woo kapcsolódó termék"
 
 #: module/woocommerce/Rating.php:195
 msgid "Here you can choose where to place the reviews link."
-msgstr ""
+msgstr "Itt beállíthatja, hogy hol szeretné az értékelés linket elhelyezni."
 
 #: module/woocommerce/Rating.php:186
 msgid "Rating Layout"
-msgstr ""
+msgstr "Elrendezés értékelése"
 
 #: module/woocommerce/Rating.php:181
 msgid "Here you can choose whether the custom reviews link should be added."
-msgstr ""
+msgstr "Itt jelölheti, ha szeretne egyedi értékelés linket hozzáadni."
 
 #: module/woocommerce/Rating.php:172
 msgid "Show Customer Reviews Count"
-msgstr ""
+msgstr "Vásárlói értékelés számláló mutatása"
 
 #: module/woocommerce/Rating.php:167
 msgid "Here you can choose whether the star rating should be added."
-msgstr ""
+msgstr "Itt jelölheti, ha szeretne csillagos értékelési lehetőséget hozzáadni."
 
 #: module/woocommerce/Rating.php:158
 msgid "Show Star Rating"
-msgstr ""
+msgstr "Csillagos értékelés mutatása"
 
 #: module/woocommerce/Rating.php:24
 msgid "Woo Ratings"
-msgstr ""
+msgstr "Woo értékelések"
 
 #: module/woocommerce/Rating.php:23
 msgid "Woo Rating"
-msgstr ""
+msgstr "Woo értékelés"
 
 #: module/woocommerce/Price.php:79 module/woocommerce/Price.php:143
 msgid "Sale New Price"
-msgstr ""
+msgstr "Új akciós ár"
 
 #: module/woocommerce/Price.php:66 module/woocommerce/Price.php:139
 msgid "Sale Old Price"
-msgstr ""
+msgstr "Régi akciós ár"
 
 #: module/woocommerce/Price.php:42
 msgid "Price Text"
-msgstr ""
+msgstr "Ár szöveg"
 
 #: module/woocommerce/Price.php:22
 msgid "Woo Prices"
-msgstr ""
+msgstr "Woo árak"
 
 #: module/woocommerce/Price.php:21
 msgid "Woo Price"
-msgstr ""
+msgstr "Woo ár"
 
 #: module/woocommerce/Meta.php:249
 msgid "Here you can choose how to position the product meta."
-msgstr ""
+msgstr "Itt megadhatja a termék metaadatok pozícióját."
 
 #: module/woocommerce/Meta.php:245 module/woocommerce/Rating.php:191
 msgid "Stacked"
-msgstr ""
+msgstr "Kötegelt"
 
 #: module/woocommerce/Meta.php:244 module/woocommerce/Rating.php:190
 msgid "Inline"
-msgstr ""
+msgstr "Beágyazott"
 
 #: module/woocommerce/Meta.php:240
 msgid "Meta Layout"
-msgstr ""
+msgstr "Metaadatok elrendezése"
 
 #: module/woocommerce/Meta.php:235
 msgid "Here you can choose whether the Tags should be added."
-msgstr ""
+msgstr "Itt jelölheti, ha szeretne címkéket hozzáadni."
 
 #: module/woocommerce/Meta.php:226
 msgid "Show Tags"
-msgstr ""
+msgstr "Címkék mutatása"
 
 #: module/woocommerce/Meta.php:221
 msgid "Here you can choose whether the Categories should be added."
-msgstr ""
+msgstr "Itt jelölheti, ha szeretne kategóriákat hozzáadni."
 
 #: module/woocommerce/Meta.php:207
 msgid "Here you can choose whether the SKU should be added."
-msgstr ""
+msgstr "Itt jelölheti, ha szeretne SKU-t hozzáadni."
 
 #: module/woocommerce/Meta.php:198
 msgid "Show SKU"
-msgstr ""
+msgstr "SKU mutatása"
 
 #: module/woocommerce/Meta.php:190
 msgid "Here you can set the separator."
-msgstr ""
+msgstr "Itt beállíthatja az elválasztót."
 
 #: module/woocommerce/Meta.php:151
 msgid "Meta Text"
-msgstr ""
+msgstr "Meta szöveg"
 
 #: module/woocommerce/Meta.php:22
 msgid "Woo Metas"
-msgstr ""
+msgstr "Woo Meta leírások"
 
 #: module/woocommerce/Meta.php:21
 msgid "Woo Meta"
-msgstr ""
+msgstr "Woo Meta leírás"
 
 #: module/woocommerce/Images.php:168
 msgid "Here you can choose whether Sale Badge should be displayed or not."
-msgstr ""
+msgstr "Itt megadhatja, ha szeretné megjeleníteni a leárazás plecsnit."
 
 #: module/woocommerce/Images.php:159
 msgid "Show Sale Badge"
-msgstr ""
+msgstr "Leárazás plecsni megjelenítése"
 
 #: module/woocommerce/Images.php:153
 msgid "Here you can choose whether product gallery should be displayed or not."
-msgstr ""
+msgstr "Itt jelölheti, ha szeretné a termékgalériát megjeleníteni."
 
 #: module/woocommerce/Images.php:144
 msgid "Show Gallery Images"
-msgstr ""
+msgstr "Galéria képek megjelenítése"
 
 #: module/woocommerce/Images.php:138
 msgid "Here you can choose whether product image should be displayed or not."
-msgstr ""
+msgstr "Itt jelölheti, hogy szeretné-e a termékképet megjeleníteni."
 
 #: module/woocommerce/Images.php:21
 msgid "Woo Images"
-msgstr ""
+msgstr "Woo képek"
 
 #: module/woocommerce/Gallery.php:26
 msgid "Woo Galleries"
-msgstr ""
+msgstr "Woo galériák"
 
 #: module/woocommerce/Gallery.php:25
 msgid "Woo Gallery"
-msgstr ""
+msgstr "Woo galéria"
 
 #: module/woocommerce/Description.php:339
 msgid "Here you can choose between Description and short description to display."
-msgstr ""
+msgstr "Itt kiválaszthatja, hogy teljes leírást vagy rövid leírást szeretne megjeleníteni."
 
 #: module/woocommerce/Description.php:331
 msgid "Description Type"
-msgstr ""
+msgstr "Leírás típusa"
 
 #: module/woocommerce/Description.php:24
 msgid "Woo Descriptions"
-msgstr ""
+msgstr "Woo leírások"
 
 #: module/woocommerce/Description.php:23
 msgid "Woo Description"
-msgstr ""
+msgstr "Woo leírás"
 
 #: module/woocommerce/CartNotice.php:22
 msgid "Woo Cart Notices"
-msgstr ""
+msgstr "Woo kosár értesítések"
 
 #: module/woocommerce/CartNotice.php:21
 msgid "Woo Cart Notice"
-msgstr ""
+msgstr "Woo kosár értesítés"
 
 #: module/woocommerce/Breadcrumb.php:190
 msgid "Here you can set the Breadcrumb separator."
-msgstr ""
+msgstr "Itt beállíthatja a navigációs sor (Breadcrumb) elválasztót"
 
 #: module/woocommerce/Breadcrumb.php:180
 msgid "Here you can create the link for the Home page."
-msgstr ""
+msgstr "Itt létrehozhatja a főoldal linkjét"
 
 #: module/woocommerce/Breadcrumb.php:177
 msgid "Home Link"
-msgstr ""
+msgstr "Főoldal link"
 
 #: module/woocommerce/Breadcrumb.php:169
 msgid "Here you can create the breadcrumb text for the Home page."
-msgstr ""
+msgstr "Itt létrehozhatja a navigációs sor (breadcrumb) főoldali szövegét."
 
 #: module/woocommerce/Breadcrumb.php:166
 msgid "Home Text"
-msgstr ""
+msgstr "Főoldal szöveg"
 
 #: module/woocommerce/Breadcrumb.php:29
 msgid "Woo Breadcrumbs"
-msgstr ""
+msgstr "Woo navigációs sorok"
 
 #: module/woocommerce/Breadcrumb.php:28
 msgid "Woo Breadcrumb"
-msgstr ""
+msgstr "Woo navigációs sor"
 
 #: module/woocommerce/AdditionalInfo.php:219
 msgid "Here you can choose to display the title."
-msgstr ""
+msgstr "Itt kiválaszthatja, hogy szeretné-e a címet megjeleníteni."
 
 #: module/woocommerce/AdditionalInfo.php:174
 msgid "Attribute Body"
-msgstr ""
+msgstr "Jellemzők törzsszöveg"
 
 #: module/woocommerce/AdditionalInfo.php:170
 msgid "Attribute Title"
-msgstr ""
+msgstr "Jellemzők cím"
 
 #: module/woocommerce/AdditionalInfo.php:166
 msgid "Attribute Row"
-msgstr ""
+msgstr "Jellemzők sor"
 
 #: module/woocommerce/AdditionalInfo.php:162
 msgid "Content Area"
-msgstr ""
+msgstr "Tartalom rész"
 
 #: module/woocommerce/AdditionalInfo.php:158 module/woocommerce/Title.php:35
 #: module/woocommerce/Title.php:92
 msgid "Title Text"
-msgstr ""
+msgstr "Cím szöveg"
 
 #: module/woocommerce/AdditionalInfo.php:106
 msgid "Attribute"
-msgstr ""
+msgstr "Jellemző"
 
 #: module/woocommerce/AdditionalInfo.php:23
 #: module/woocommerce/AdditionalInfo.php:24
 msgid "Woo Additional Info"
-msgstr ""
+msgstr "Woo további információ"
 
 #: module/woocommerce/AddToCart.php:386
 msgid "Here you can choose whether the stock (displayed when product inventory is managed) should be visible or not"
-msgstr ""
+msgstr "Itt megadhatja, hogy szeretné-e a raktárkészletet megjeleníteni (akkor jelenik meg, ha a a termék leltárt vezetik)"
 
 #: module/woocommerce/AddToCart.php:377
 msgid "Show Stock"
-msgstr ""
+msgstr "Raktárkészlet megjelenítése"
 
 #: module/woocommerce/AddToCart.php:372
 msgid "Here you can choose whether the quantity field should be added before the Add to Cart button."
-msgstr ""
+msgstr "Itt bejelölheti, amennyiben szeretné a mennyiség mezőt hozzáadni a \"Kosárhoz ad\" gomb elé."
 
 #: module/woocommerce/AddToCart.php:363
 msgid "Show Quantity Field"
-msgstr ""
+msgstr "Mennyiség mező megjelenítése"
 
 #: module/woocommerce/AddToCart.php:335
 #: module/woocommerce/AdditionalInfo.php:182
@@ -399,164 +399,164 @@ msgstr ""
 #: module/woocommerce/Tabs.php:57 module/woocommerce/Title.php:100
 #: module/woocommerce/Upsells.php:283
 msgid "Divi WooCommerce Modules"
-msgstr ""
+msgstr "Divi Woo Commerce modulok"
 
 #: module/woocommerce/AddToCart.php:252 module/woocommerce/AddToCart.php:293
 #: module/woocommerce/AddToCart.php:323
 msgid "Dropdown Menus"
-msgstr ""
+msgstr "Lenyíló menük"
 
 #: module/woocommerce/AddToCart.php:21 module/woocommerce/AddToCart.php:22
 msgid "Woo Add To Cart"
-msgstr ""
+msgstr "Woo kosárhoz ad"
 
 #: module/type/WithSpamProtection.php:252
 msgid "reCAPTCHA v3 returns a score between 0 and 1 where 1 is very likely a good interaction, and 0 is very likely a bot. With this setting you can choose the minimum score that should be considered a good interaction."
-msgstr ""
+msgstr "A reCAPTCHA v3 egy 0 és 1 közötti pontszámot ad, ahol az 1 valószínűsíthetően jó interakciót jelöl, a 0 nagyon valószínű, hogy bot. Ezzel a beállítással megadhatja a minimális pontszámot, amelyet elfogadható interakciónak érzékel a rendszer."
 
 #: module/type/WithSpamProtection.php:243
 msgid "Minimum Score"
-msgstr ""
+msgstr "Minimális pontszám"
 
 #: module/type/WithSpamProtection.php:208
 msgid "Choose an account or click \"Add\" to add a new account."
-msgstr ""
+msgstr "Válasszon ki egy fiókot vagy kattintson a \"Hozzáadás\"-ra az új fiók létrehozásához."
 
 #: module/type/WithSpamProtection.php:204
 msgid "%s Account"
-msgstr ""
+msgstr "%s fiókja."
 
 #: module/type/WithSpamProtection.php:171
 msgid "Whether or not to use a 3rd-party spam protection service like Google reCAPTCHA."
-msgstr ""
+msgstr "Használjon-e harmadik féltől származó spamszűrő szolgáltatást (pl. Google reCAPTCHA)."
 
 #: module/type/WithSpamProtection.php:163
 msgid "Use A Spam Protection Service"
-msgstr ""
+msgstr "Spamszűrő szolgáltatás használata"
 
 #: module/type/WithSpamProtection.php:132
 #: module/type/WithSpamProtection.php:194
 msgid "Select an account"
-msgstr ""
+msgstr "Fiók kiválasztása"
 
 #: module/type/WithSpamProtection.php:69
 msgid "A name to associate with the account when displayed in the account select field."
-msgstr ""
+msgstr "A fiókhoz társított név, amely megjelenik a fiókválasztó mezőben."
 
 #: module/type/WithSpamProtection.php:39
 msgid "Anti-Spam Provider Account Setup Documentation"
-msgstr ""
+msgstr "Spamszűrő szolgáltató fiók beállítási dokumentáció"
 
 #: module/helpers/WooCommerceModules.php:633
 msgid "Additional information"
-msgstr ""
+msgstr "További információ"
 
 #: module/helpers/WooCommerceModules.php:377
 msgid "Only logged in customers who have purchased this product may leave a review."
-msgstr ""
+msgstr "Csak olyan bejelentkezett felhasználó értékelheti a terméket, aki már korábban megvásárolta."
 
 #: module/helpers/WooCommerceModules.php:365
 msgid "Your review"
-msgstr ""
+msgstr "Az Ön értékelése"
 
 #: module/helpers/WooCommerceModules.php:361
 msgid "Very poor"
-msgstr ""
+msgstr "Nagyon rossz"
 
 #: module/helpers/WooCommerceModules.php:360
 msgid "Not that bad"
-msgstr ""
+msgstr "Nem olyan rossz"
 
 #: module/helpers/WooCommerceModules.php:359
 msgid "Average"
-msgstr ""
+msgstr "Átlagos"
 
 #: module/helpers/WooCommerceModules.php:358
 msgid "Good"
-msgstr ""
+msgstr "Jó"
 
 #: module/helpers/WooCommerceModules.php:357
 msgid "Perfect"
-msgstr ""
+msgstr "Tökéletes"
 
 #: module/helpers/WooCommerceModules.php:356
 msgid "Rate&hellip;"
-msgstr ""
+msgstr "Értékelés&hellip;"
 
 #: module/helpers/WooCommerceModules.php:355
 msgid "Your rating"
-msgstr ""
+msgstr "Az Ön értékelése"
 
 #. translators: %s opening and closing link tags respectively
 #: module/helpers/WooCommerceModules.php:351
 msgid "You must be %1$slogged in%2$s to post a review."
-msgstr ""
+msgstr "Az értékelés írásához %1$sbe kell jelentkeznie%2$s "
 
 #: module/helpers/WooCommerceModules.php:332
 msgid "Be the first to review &ldquo;%s&rdquo;"
-msgstr ""
+msgstr "Legyen Ön az első, aki értékeli ezt: &ldquo;%s&rdquo;"
 
 #: module/helpers/WooCommerceModules.php:332
 msgid "Add a review"
-msgstr ""
+msgstr "Új értékelés hozzáadása"
 
 #: module/helpers/WooCommerceModules.php:303
 #: module/helpers/WooCommerceModules.php:638 module/woocommerce/Tabs.php:94
 msgid "Reviews"
-msgstr ""
+msgstr "Értékelések"
 
 #: module/helpers/WooCommerceModules.php:298
 msgid "%1$s review for %2$s"
 msgid_plural "%1$s reviews for %2$s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Egyesszám: %1$s értékelés ehhez: %2$s"
+msgstr[1] "Többesszám: %1$s értékelés ehhez: %2$s"
 
 #: module/helpers/WooCommerceModules.php:193
 msgid "Here you can filter the Products."
-msgstr ""
+msgstr "Itt szűrést állíthat be a termékekhez."
 
 #: module/helpers/WooCommerceModules.php:190
 msgid "Newest"
-msgstr ""
+msgstr "Legújabb"
 
 #: module/helpers/WooCommerceModules.php:186
 msgid "Filter By"
-msgstr ""
+msgstr "Szűrés az alábbi szempont szerint"
 
 #: module/helpers/WooCommerceModules.php:173
 msgid "Here you can select the Product."
-msgstr ""
+msgstr "Itt kiválaszthatja a terméket"
 
 #: module/helpers/MultiViewOptions.php:644
 msgid "Invalid module instance passed to ET_Builder_Module_Helper_MultiViewOptions::set_module"
-msgstr ""
+msgstr "Érvénytelen modul példány továbbítva ide: ET_Builder_Module_Helper_MultiViewOptions::set_module"
 
 #: module/Shop.php:261
 msgid "Only include products for the current page. Useful on archive and index pages. For example let's say you used this module on a Theme Builder layout that is enabled for product categories. Selecting the \"Sale Products\" view type above and enabling this option would show only products that are on sale when viewing product categories."
-msgstr ""
+msgstr "Csak az aktuális oldal termékeit tartalmazza. Hasznos archív és indexlapokon. Tegyük fel például, hogy ezt a modult a Theme Builder elrendezésénél használja, amely a termékkategóriáknál engedélyezve van. Az \"Akciós termékek\" nézet típus kiválasztásával és ennek az opciónak a bekapcsolásával csak azok a termékek jelennek meg, amelyek a termékkategóriák megtekintésekor épp le vannak árazva."
 
 #: module/Shop.php:254
 msgid "Use Current Page"
-msgstr ""
+msgstr "A jelenlegi oldal használata"
 
 #: module/Shop.php:232
 msgid "Product View Type"
-msgstr ""
+msgstr "Termék megtekintés típusa"
 
 #: module/Shop.php:111 module/woocommerce/Rating.php:71
 #: module/woocommerce/RelatedProducts.php:97 module/woocommerce/Upsells.php:88
 msgid "Star Rating Color"
-msgstr ""
+msgstr "Csillagos értékelés színe"
 
 #: module/Shop.php:108 module/woocommerce/Rating.php:68
 #: module/woocommerce/RelatedProducts.php:94 module/woocommerce/Upsells.php:85
 msgid "Star Rating Size"
-msgstr ""
+msgstr "Csillagos értékelés mérete"
 
 #: module/Shop.php:105 module/woocommerce/Rating.php:65
 #: module/woocommerce/RelatedProducts.php:91 module/woocommerce/Upsells.php:82
 msgid "Star Rating Alignment"
-msgstr ""
+msgstr "Csillagos értékelés pozíciója"
 
 #: module/Shop.php:27 module/Shop.php:89 module/woocommerce/Rating.php:44
 #: module/woocommerce/Rating.php:52 module/woocommerce/Rating.php:122
@@ -566,1196 +566,1196 @@ msgstr ""
 #: module/woocommerce/Reviews.php:62 module/woocommerce/Upsells.php:48
 #: module/woocommerce/Upsells.php:69 module/woocommerce/Upsells.php:267
 msgid "Star Rating"
-msgstr ""
+msgstr "Csillagos értékelés"
 
 #: module/PostContent.php:8 module/PostContent.php:9
 msgid "Post Content"
-msgstr ""
+msgstr "Tartalom közzététele"
 
 #: module/Menu.php:201
 msgid "An introduction to the Menu module"
-msgstr ""
+msgstr "Bevezetés a menü modulhoz"
 
 #: module/Menu.php:13
 msgid "Menus"
-msgstr ""
+msgstr "Menük"
 
 #: module/FullwidthPostContent.php:8 module/FullwidthPostContent.php:9
 msgid "Fullwidth Post Content"
-msgstr ""
+msgstr "Teljes szélességű tartalom"
 
 #: module/FullwidthMenu.php:961 module/Menu.php:953
 msgid "Search &hellip;"
-msgstr ""
+msgstr "Keresés: &hellip;"
 
 #: module/FullwidthMenu.php:518 module/Menu.php:510
 msgid "Hamburger Menu Icon Font Size"
-msgstr ""
+msgstr "Hamburgermenü ikon betűméret"
 
 #: module/FullwidthMenu.php:498 module/Menu.php:490
 msgid "Search Icon Font Size"
-msgstr ""
+msgstr "Ikon betűméret keresése"
 
 #: module/FullwidthMenu.php:478 module/Menu.php:470
 msgid "Shopping Cart Icon Font Size"
-msgstr ""
+msgstr "Kosár ikon betűméret"
 
 #: module/FullwidthMenu.php:471 module/Menu.php:463
 msgid "Here you can define a custom color for your hamburger menu icon."
-msgstr ""
+msgstr "Itt megadhatja a hamburgermenü ikon színét"
 
 #: module/FullwidthMenu.php:469 module/Menu.php:461
 msgid "Hamburger Menu Icon Color"
-msgstr ""
+msgstr "Hamburgermenü ikon színe"
 
 #: module/FullwidthMenu.php:459 module/Menu.php:451
 msgid "Search Icon Color"
-msgstr ""
+msgstr "Ikon szín keresése"
 
 #: module/FullwidthMenu.php:451 module/Menu.php:443
 msgid "Here you can define a custom color for your shopping cart icon."
-msgstr ""
+msgstr "Itt egyedi színt adhat meg a korár ikonhoz."
 
 #: module/FullwidthMenu.php:449 module/Menu.php:441
 msgid "Shopping Cart Icon Color"
-msgstr ""
+msgstr "Kosár ikon színe"
 
 #: module/FullwidthMenu.php:434 module/Menu.php:426
 msgid "Show Search Icon"
-msgstr ""
+msgstr "Keresés ikon megjelenítése"
 
 #: module/FullwidthMenu.php:420 module/Menu.php:412
 msgid "Show Shopping Cart Icon"
-msgstr ""
+msgstr "Kosár ikon megjelenítése"
 
 #: module/FullwidthMenu.php:401 module/Menu.php:393
 msgid "Adjust the maximum height of the logo."
-msgstr ""
+msgstr "Logó maximális magasságának beállítása"
 
 #: module/FullwidthMenu.php:400 module/Menu.php:392
 msgid "Logo Max Height"
-msgstr ""
+msgstr "Logó maximális magasság"
 
 #: module/FullwidthMenu.php:381 module/Menu.php:373
 msgid "Adjust the maximum width of the logo."
-msgstr ""
+msgstr "Logó maximális szélességének megadása"
 
 #: module/FullwidthMenu.php:380 module/Menu.php:372
 msgid "Logo Max Width"
-msgstr ""
+msgstr "Logó maximális szélesség"
 
 #: module/FullwidthMenu.php:374 module/Menu.php:366
 msgid "Define the HTML ALT text for your logo here."
-msgstr ""
+msgstr "HTML ALT text megadása a logóhoz"
 
 #: module/FullwidthMenu.php:371 module/Menu.php:363
 msgid "Logo Alt Text"
-msgstr ""
+msgstr "Logó alternatív szöveg"
 
 #: module/FullwidthMenu.php:354 module/Menu.php:346
 msgid "If you would like to make your logo a link, input your destination URL here."
-msgstr ""
+msgstr "Ha szeretné linkesíteni a logót, illessze be ide a cél URL-t"
 
 #: module/FullwidthMenu.php:351 module/Menu.php:343
 msgid "Logo Link URL"
-msgstr ""
+msgstr "Logó link URL-je"
 
 #: module/FullwidthMenu.php:344 module/Menu.php:336
 msgid "Upload an image to display beside your menu."
-msgstr ""
+msgstr "Töltsön fel képet a menü melletti részhez"
 
 #: module/FullwidthMenu.php:343 module/Menu.php:335
 msgid "Set As Logo"
-msgstr ""
+msgstr "Beállítás logóként"
 
 #: module/FullwidthMenu.php:301 module/Menu.php:293
 msgid "Dropdown Menu Active Link Color"
-msgstr ""
+msgstr "Lenyíló menü aktív link szín"
 
 #: module/FullwidthMenu.php:229 module/Menu.php:233
 msgid "Inline Centered Logo"
-msgstr ""
+msgstr "Középre igazított logó"
 
 #: module/FullwidthMenu.php:228 module/Menu.php:232
 msgid "Centered"
-msgstr ""
+msgstr "Középre igazított"
 
 #: module/FullwidthMenu.php:227 module/Menu.php:231
 msgid "Left Aligned"
-msgstr ""
+msgstr "Balra zárt"
 
 #: module/FullwidthMenu.php:188 module/Menu.php:193
 msgid "Menu Logo"
-msgstr ""
+msgstr "Menü logó"
 
 #: module/FullwidthMenu.php:126 module/Menu.php:125
 msgid "Logo Box Shadow"
-msgstr ""
+msgstr "Logó doboz árnyék"
 
 #: module/FullwidthMenu.php:43 module/Menu.php:42
 msgid "Icons"
-msgstr ""
+msgstr "Ikonok"
 
 #: module/FullwidthMenu.php:35 module/Menu.php:34
 msgid "Menu Text"
-msgstr ""
+msgstr "Menü szöveg"
 
 #: module/ContactForm.php:535
 msgid "Invalid submission. Please refresh the page and try again."
-msgstr ""
+msgstr "Az űrlap benyújtás érvénytelen. Kérjük, frissítse az oldalt, és próbálja meg ismét."
 
 #: module/ContactForm.php:258
 msgid "Use Basic Captcha"
-msgstr ""
+msgstr "Egyszerű captcha használata"
 
 #: module/ContactForm.php:24 module/Signup.php:49
 msgid "Spam Protection"
-msgstr ""
+msgstr "Spam védelem"
 
 #: module/Blog.php:317
 msgid "Choose posts of which post type you would like to display."
-msgstr ""
+msgstr "Válasszon ki olyan bejegyzéseket, amilyeneket szeretne megjeleníteni."
 
 #: module/Blog.php:313
 msgid "Post Type"
-msgstr ""
+msgstr "Bejegyzés típus"
 
 #: module/Blog.php:302 module/FullwidthPostSlider.php:510
 #: module/PostSlider.php:301
 msgid "Display posts for the current page. Useful on archive and index pages."
-msgstr ""
+msgstr "Aktuális oldal bejegyzéseinek megjelenítése. Archív és indexlapok megjelenítésekor hasznos funkció."
 
 #: module/Blog.php:295 module/FullwidthPostSlider.php:503
 #: module/PostSlider.php:294
 msgid "Posts For Current Page"
-msgstr ""
+msgstr "Aktuális oldal bejegyzései"
 
 #: module/Blog.php:136
 msgid "Grid Layout"
-msgstr ""
+msgstr "Rács elrendezés"
 
 #: functions.php:1145
 msgid "12 Comments"
-msgstr ""
+msgstr "12 hozzászólás"
 
 #: frontend-builder/theme-builder/theme-builder.php:1203
 msgid "Current template: %1$s"
-msgstr ""
+msgstr "Jelenlegi sablon: %1$s"
 
 #: frontend-builder/theme-builder/theme-builder.php:1200
 msgid "Missing Post Content Module"
-msgstr ""
+msgstr "Hiányzó bejegyzés tartalom modul"
 
 #: frontend-builder/theme-builder/theme-builder.php:825
 msgid "404 Page"
-msgstr ""
+msgstr "404 oldal"
 
 #: frontend-builder/theme-builder/theme-builder.php:819
 msgid "Search Results"
-msgstr ""
+msgstr "Keresés eredménye"
 
 #: frontend-builder/theme-builder/theme-builder.php:815
 msgid "Other"
-msgstr ""
+msgstr "Egyéb"
 
 #: frontend-builder/theme-builder/theme-builder.php:775
 msgid "All Date Pages"
-msgstr ""
+msgstr "Összes dátum oldal"
 
 #: frontend-builder/theme-builder/theme-builder.php:764
 msgid "Users"
-msgstr ""
+msgstr "Felhasználók"
 
 #: frontend-builder/theme-builder/theme-builder.php:760
 msgid "Specific Author Page"
-msgstr ""
+msgstr "Egyedi szerzői oldal"
 
 #: frontend-builder/theme-builder/theme-builder.php:750
 msgid "All Author Pages"
-msgstr ""
+msgstr "Minden szerzői oldal"
 
 #. Translators: %1$s: Taxonomy name.
 #: frontend-builder/theme-builder/theme-builder.php:734
 msgid "Specific %1$s Pages"
-msgstr ""
+msgstr "Egyedi %1$s oldalak"
 
 #. Translators: %1$s: Taxonomy name.
 #: frontend-builder/theme-builder/theme-builder.php:723
 msgid "All %1$s Pages"
-msgstr ""
+msgstr "Minden %1$s oldal"
 
 #: frontend-builder/theme-builder/theme-builder.php:694
 msgid "All Archive Pages"
-msgstr ""
+msgstr "Minden archív oldal"
 
 #: frontend-builder/theme-builder/theme-builder.php:687
 msgid "Archive Pages"
-msgstr ""
+msgstr "Archív oldalak"
 
 #. Translators: %1$s: Post type plural name.
 #: frontend-builder/theme-builder/theme-builder.php:647
 msgid "Children of Specific %1$s"
-msgstr ""
+msgstr "Egyedi %1$s alárendelések"
 
 #. Translators: %1$s: Post type plural name.
 #: frontend-builder/theme-builder/theme-builder.php:630
 msgid "Specific %1$s"
-msgstr ""
+msgstr "Egyedi %1$s"
 
 #. Translators: %1$s: Post type plural name; %2$s: Taxonomy plural name.
 #: frontend-builder/theme-builder/theme-builder.php:604
 msgid "%1$s in Specific %2$s"
-msgstr ""
+msgstr "%1$s egyedi %2$s-ban"
 
 #. Translators: %1$s: Post type plural name; %2$s: Taxonomy plural name.
 #: frontend-builder/theme-builder/theme-builder.php:600
 msgid "%1$s with Specific %2$s"
-msgstr ""
+msgstr "%1$s egyedi %2$s-val"
 
 #. Translators: %1$s: Post type plural name.
 #: frontend-builder/theme-builder/theme-builder.php:586
 msgid "%1$s Archive Page"
-msgstr ""
+msgstr "%1$s archív oldal"
 
 #: frontend-builder/theme-builder/theme-builder.php:573
 msgid "Homepage"
-msgstr ""
+msgstr "Főoldal"
 
 #. Translators: %1$s: Post type plural name.
 #: frontend-builder/theme-builder/theme-builder.php:563
 msgid "All %1$s"
-msgstr ""
+msgstr "Minden %1$s"
 
 #: frontend-builder/theme-builder/theme-builder.php:180
 msgid "Search Footer Layouts"
-msgstr ""
+msgstr "Footer elrendezések keresése"
 
 #: frontend-builder/theme-builder/theme-builder.php:179
 msgid "View Footer Layout"
-msgstr ""
+msgstr "Footer elrendezés megtekintése"
 
 #: frontend-builder/theme-builder/theme-builder.php:178
 msgid "All Footer Layouts"
-msgstr ""
+msgstr "Összes footer elrendezés"
 
 #: frontend-builder/theme-builder/theme-builder.php:177
 msgid "New Footer Layout"
-msgstr ""
+msgstr "Új footer elrendezés"
 
 #: frontend-builder/theme-builder/theme-builder.php:176
 msgid "Edit Footer Layout"
-msgstr ""
+msgstr "Footer elrendezés módosítása"
 
 #: frontend-builder/theme-builder/theme-builder.php:175
 msgid "Add New Footer Layout"
-msgstr ""
+msgstr "Új footer elrendezés hozzáadása"
 
 #: frontend-builder/theme-builder/theme-builder.php:173
 msgid "Footer Layout"
-msgstr ""
+msgstr "Footer elrendezés"
 
 #: frontend-builder/theme-builder/theme-builder.php:172
 msgid "Footer Layouts"
-msgstr ""
+msgstr "Footer elrendezések"
 
 #: frontend-builder/theme-builder/theme-builder.php:151
 msgid "Search Body Layouts"
-msgstr ""
+msgstr "Body elrendezések keresése"
 
 #: frontend-builder/theme-builder/theme-builder.php:150
 msgid "View Body Layout"
-msgstr ""
+msgstr "Body elrendezés megtekintése"
 
 #: frontend-builder/theme-builder/theme-builder.php:149
 msgid "All Body Layouts"
-msgstr ""
+msgstr "Összes body elrendezés"
 
 #: frontend-builder/theme-builder/theme-builder.php:148
 msgid "New Body Layout"
-msgstr ""
+msgstr "Új body elrendezés"
 
 #: frontend-builder/theme-builder/theme-builder.php:147
 msgid "Edit Body Layout"
-msgstr ""
+msgstr "Body elrendezés módosítása"
 
 #: frontend-builder/theme-builder/theme-builder.php:146
 msgid "Add New Body Layout"
-msgstr ""
+msgstr "Új body elrendezés hozzáadása"
 
 #: frontend-builder/theme-builder/theme-builder.php:144
 msgid "Body Layout"
-msgstr ""
+msgstr "Body elrendezés"
 
 #: frontend-builder/theme-builder/theme-builder.php:143
 msgid "Body Layouts"
-msgstr ""
+msgstr "Body elrendezések"
 
 #: frontend-builder/theme-builder/theme-builder.php:122
 msgid "Search Header Layouts"
-msgstr ""
+msgstr "Header elrendezések keresése"
 
 #: frontend-builder/theme-builder/theme-builder.php:121
 msgid "View Header Layout"
-msgstr ""
+msgstr "Header elrendezés megtekintése"
 
 #: frontend-builder/theme-builder/theme-builder.php:120
 msgid "All Header Layouts"
-msgstr ""
+msgstr "Összes header elrendezés"
 
 #: frontend-builder/theme-builder/theme-builder.php:119
 msgid "New Header Layout"
-msgstr ""
+msgstr "Új header elrendezés"
 
 #: frontend-builder/theme-builder/theme-builder.php:118
 msgid "Edit Header Layout"
-msgstr ""
+msgstr "Header elrendezés módosítása"
 
 #: frontend-builder/theme-builder/theme-builder.php:117
 msgid "Add New Header Layout"
-msgstr ""
+msgstr "Új header elrendezés hozzáadása"
 
 #: frontend-builder/theme-builder/theme-builder.php:115
 msgid "Header Layout"
-msgstr ""
+msgstr "Header elrendezés"
 
 #: frontend-builder/theme-builder/theme-builder.php:114
 msgid "Header Layouts"
-msgstr ""
+msgstr "Header elrendezések"
 
 #: frontend-builder/theme-builder/theme-builder.php:93
 msgid "Search Templates"
-msgstr ""
+msgstr "Sablonok keresése"
 
 #: frontend-builder/theme-builder/theme-builder.php:92
 msgid "View Template"
-msgstr ""
+msgstr "Sablon megtekintése"
 
 #: frontend-builder/theme-builder/theme-builder.php:91
 msgid "All Templates"
-msgstr ""
+msgstr "Összes sablon"
 
 #: frontend-builder/theme-builder/theme-builder.php:90
 msgid "New Template"
-msgstr ""
+msgstr "Új sablon"
 
 #: frontend-builder/theme-builder/theme-builder.php:89
 msgid "Edit Template"
-msgstr ""
+msgstr "Sablon szerkesztése"
 
 #: frontend-builder/theme-builder/theme-builder.php:85
 msgid "Templates"
-msgstr ""
+msgstr "Sablonok"
 
 #: frontend-builder/theme-builder/theme-builder.php:64
 msgid "Search Theme Builders"
-msgstr ""
+msgstr "Oldalépítők keresése"
 
 #: frontend-builder/theme-builder/theme-builder.php:63
 msgid "View Theme Builder"
-msgstr ""
+msgstr "Oldalépítő megtekintése"
 
 #: frontend-builder/theme-builder/theme-builder.php:62
 msgid "All Theme Builders"
-msgstr ""
+msgstr "Összes oldalépítő"
 
 #: frontend-builder/theme-builder/theme-builder.php:61
 msgid "New Theme Builder"
-msgstr ""
+msgstr "Új oldalépítő"
 
 #: frontend-builder/theme-builder/theme-builder.php:60
 #: frontend-builder/theme-builder/theme-builder.php:1204
 msgid "Edit Theme Builder"
-msgstr ""
+msgstr "Oldalépítő szerkesztése"
 
 #: frontend-builder/theme-builder/theme-builder.php:59
 msgid "Add New Theme Builder"
-msgstr ""
+msgstr "Új oldalépítő hozzáadása"
 
 #: frontend-builder/theme-builder/theme-builder.php:56
 msgid "Theme Builders"
-msgstr ""
+msgstr "Oldalépítők"
 
 #: frontend-builder/theme-builder/dynamic-content.php:47
 msgid "Your dynamic author bio will display here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor urna eleifend diam eleifend sollicitudin a fringilla turpis. Curabitur lectus enim."
-msgstr ""
+msgstr "Itt fog megjelenni az Ön dinamikus szerzői önéletrajza. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor urna eleifend diam eleifend sollicitudin a fringilla turpis. Curabitur lectus enim."
 
 #: frontend-builder/theme-builder/dynamic-content.php:45
 msgid "johndoe"
-msgstr ""
+msgstr "kovacsjanos"
 
 #: frontend-builder/theme-builder/dynamic-content.php:43
 msgid "Doe"
-msgstr ""
+msgstr "Kovács"
 
 #: frontend-builder/theme-builder/dynamic-content.php:42
 #: frontend-builder/theme-builder/dynamic-content.php:44
 msgid "John"
-msgstr ""
+msgstr "János"
 
 #: frontend-builder/theme-builder/dynamic-content.php:41
 msgid "Doe, John"
-msgstr ""
+msgstr "Kovács János"
 
 #: frontend-builder/theme-builder/dynamic-content.php:39
 #: frontend-builder/theme-builder/dynamic-content.php:40
 msgid "John Doe"
-msgstr ""
+msgstr "János Kovács"
 
 #: frontend-builder/theme-builder/dynamic-content.php:36
 msgid "Tag 3"
-msgstr ""
+msgstr "3. címke"
 
 #: frontend-builder/theme-builder/dynamic-content.php:35
 msgid "Tag 2"
-msgstr ""
+msgstr "2. címke"
 
 #: frontend-builder/theme-builder/dynamic-content.php:34
 msgid "Tag 1"
-msgstr ""
+msgstr "1. címke"
 
 #: frontend-builder/theme-builder/dynamic-content.php:31
 #: plugin-compat/advanced-custom-fields.php:313
 msgid "Category 3"
-msgstr ""
+msgstr "3. kategória"
 
 #: frontend-builder/theme-builder/dynamic-content.php:30
 #: plugin-compat/advanced-custom-fields.php:312
 msgid "Category 2"
-msgstr ""
+msgstr "2. kategória"
 
 #: frontend-builder/theme-builder/dynamic-content.php:29
 #: plugin-compat/advanced-custom-fields.php:311
 msgid "Category 1"
-msgstr ""
+msgstr "1. kategória"
 
 #: frontend-builder/theme-builder/dynamic-content.php:25
 msgid "Your dynamic post excerpt will display here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor urna eleifend diam eleifend sollicitudin a fringilla turpis. Curabitur lectus enim."
-msgstr ""
+msgstr "Itt fog megjelenni a dinamikus hozzászólás-kivonat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor urna eleifend diam eleifend sollicitudin a fringilla turpis. Curabitur lectus enim."
 
 #: frontend-builder/theme-builder/api.php:179
 msgid "Invalid parent setting specified."
-msgstr ""
+msgstr "Érvénytelen szülő beállítást adott meg."
 
 #: frontend-builder/theme-builder/admin.php:40
 #: frontend-builder/theme-builder/admin.php:41
 #: frontend-builder/theme-builder/theme-builder.php:57 functions.php:8002
 msgid "Theme Builder"
-msgstr ""
+msgstr "Theme Builder"
 
 #: frontend-builder/i18n/theme-builder.php:99
 #: frontend-builder/theme-builder/dynamic-content.php:24
 msgid "Your Dynamic Post Title Will Display Here"
-msgstr ""
+msgstr "Itt fog megjelenni a dinamikus bejegyzés címe"
 
 #: frontend-builder/i18n/theme-builder.php:97
 msgid "You are about to delete a global layout. This will disconnect all templates that use this global layout and duplicate it in place. Are you sure you wish to continue?"
-msgstr ""
+msgstr "Egy globális elrendezést kíván törölni. Ezzel leválasztja az összes sablont, amely ezt a globális elrendezést használja, és helyben duplikája az elrendezést. Biztosan folytatja?"
 
 #: frontend-builder/i18n/theme-builder.php:96
 msgid "Use On"
-msgstr ""
+msgstr "Használat ezen:"
 
 #: frontend-builder/i18n/theme-builder.php:95
 msgid "Use Global Header"
-msgstr ""
+msgstr "Globális header használata"
 
 #: frontend-builder/i18n/theme-builder.php:94
 msgid "Use Global Footer"
-msgstr ""
+msgstr "Globális footer használata"
 
 #: frontend-builder/i18n/theme-builder.php:93
 msgid "Use Global Body"
-msgstr ""
+msgstr "Globális body használata"
 
 #: frontend-builder/i18n/theme-builder.php:92
 msgid "Updated templates order"
-msgstr ""
+msgstr "Frissített sablonok sorrendje"
 
 #: frontend-builder/i18n/theme-builder.php:91
 msgid "Updated template settings"
-msgstr ""
+msgstr "Frissített sablon beállítások"
 
 #: frontend-builder/i18n/theme-builder.php:90
 msgid "Unsaved changes will be lost if you leave the Theme Builder at this time."
-msgstr ""
+msgstr "Ha most kilép a Theme Builderből, a nem mentett módosítások elvesznek."
 
 #: frontend-builder/i18n/theme-builder.php:89
 msgid "Unassigned"
-msgstr ""
+msgstr "Hozzárendelés nélküli"
 
 #: frontend-builder/i18n/theme-builder.php:88
 msgid "Toggled layout visibility"
-msgstr ""
+msgstr "Összecsukható elrendezés"
 
 #: frontend-builder/i18n/theme-builder.php:87
 msgid "This will reset all Theme Builder settings and delete all templates. Are you sure you want to do this?"
-msgstr ""
+msgstr "Ez alaphelyzetbe állítja az összes Theme Builder beállítást, és törli az összes sablont. Biztosan ezt akarja tenni?"
 
 #: frontend-builder/i18n/theme-builder.php:86
 msgid "This post has been assigned a template using the Theme Builder, however, the template being used does not contain a Post Content module."
-msgstr ""
+msgstr "A hozzászóláshoz sablont rendeltek a Theme Builder használatával, azonban a felhasznált sablon nem tartalmaz bejegyzés tartalom modult."
 
 #: frontend-builder/i18n/theme-builder.php:85
 msgid "This item is assigned to another template. Saving will override and remove its current assignment."
-msgstr ""
+msgstr "Ez az elem hozzá van rendelve egy másik sablonhoz. A mentés felülbírálja és eltávolítja a jelenlegi hozzárendelést."
 
 #: frontend-builder/i18n/theme-builder.php:84
 msgid "This import contains references to the global Header, Body, and/or Footer from the website they were exported from. How would you like to import these references?"
-msgstr ""
+msgstr "Ez az import hivatkozásokat tartalmaz a globális header, body és/vagy footer részekre vonatkozóan azon a webhelyen, ahonnan exportáltak. Hogyan szeretné importálni ezeket a hivatkozásokat?"
 
 #: frontend-builder/i18n/theme-builder.php:83
 msgid "The body layout of a template should not be disabled if you wish to display and edit the content of individual posts using this layout."
-msgstr ""
+msgstr "Ha az elrendezés használatával az egyes hozzászólások tartalmát szeretné megjeleníteni és szerkeszteni, akkor ne tiltsa le a sablon body elrendezéseit."
 
 #: frontend-builder/i18n/theme-builder.php:82
 msgid "Template Settings"
-msgstr ""
+msgstr "Sablon beállítások"
 
 #: frontend-builder/i18n/theme-builder.php:81
 #: frontend-builder/theme-builder/theme-builder.php:86
 msgid "Template"
-msgstr ""
+msgstr "Sablon"
 
 #: frontend-builder/i18n/theme-builder.php:80
 msgid "Show On Front End"
-msgstr ""
+msgstr "Megjelenítás front end felületen"
 
 #. Translators: %1$s: plural post type e.g. Posts.
 #: frontend-builder/i18n/theme-builder.php:79
 msgid "Search %1$s"
-msgstr ""
+msgstr "Keresés %1$s"
 
 #: frontend-builder/i18n/theme-builder.php:77
 msgid "Restored draft"
-msgstr ""
+msgstr "Visszaállított piszkozat"
 
 #: frontend-builder/i18n/theme-builder.php:75
 msgid "Reset Exclude From Filters"
-msgstr ""
+msgstr "A szűrő kizárásainak alaphelyzetbe állítása"
 
 #: frontend-builder/i18n/theme-builder.php:74
 msgid "Reset Use On Filters"
-msgstr ""
+msgstr "A szűrő alkalmazási területeinek alaphelyzetbe állítása"
 
 #: frontend-builder/i18n/theme-builder.php:73
 msgid "Reset Template Assignments"
-msgstr ""
+msgstr "Sablon hozzárendelések alaphelyzetbe állítása"
 
 #: frontend-builder/i18n/theme-builder.php:72
 msgid "Reset All Templates"
-msgstr ""
+msgstr "Összes sablon alaphelyzetbe állítása"
 
 #: frontend-builder/i18n/theme-builder.php:71
 msgid "Renamed template"
-msgstr ""
+msgstr "Átnevezett sablon"
 
 #: frontend-builder/i18n/theme-builder.php:70
 msgid "Rename Template"
-msgstr ""
+msgstr "Sablon átnevezése"
 
 #: frontend-builder/i18n/theme-builder.php:69
 msgid "Removed layout from template"
-msgstr ""
+msgstr "A sablon elrendezése el lett távolítva"
 
 #: frontend-builder/i18n/theme-builder.php:68
 msgid "Relink them to this website's global Header, Body, and/or Footer."
-msgstr ""
+msgstr "Kösse újra össze ezeket a weboldal globális header, body és footer részeivel"
 
 #: frontend-builder/i18n/theme-builder.php:67
 msgid "Oops, it looks like the current Theme Builder Template body layout is disabled."
-msgstr ""
+msgstr "Upsz! Úgy tűnik, hogy a jelenlegi Theme Builder sablon body elrendezése le van tiltva."
 
 #: frontend-builder/i18n/theme-builder.php:66
 msgid "Note: this action may take several minutes depending on the number of templates using this layout."
-msgstr ""
+msgstr "Figyelem! A lépés végrehajtása több percig is eltarthat attól függően, hogy hány sablonnál használja az elrendezést."
 
 #: frontend-builder/i18n/theme-builder.php:65
 msgid "Manage Template Assignments"
-msgstr ""
+msgstr "Sablon hozzárendelések kezelése"
 
 #: frontend-builder/i18n/theme-builder.php:64
 msgid "Loaded Theme Builder"
-msgstr ""
+msgstr "Betöltött oldalépítő"
 
 #: frontend-builder/i18n/theme-builder.php:63
 msgid "Import them as static layouts from the website they were exported from. This may take several minutes depending on the number of references being imported."
-msgstr ""
+msgstr "Importálja statikus elrendezésként azokról a webhelyekről, ahonnan exportáltak. Ez az importált hivatkozások számától függően néhány percet is igénybe vehet."
 
 #: frontend-builder/i18n/theme-builder.php:62
 msgid "Imported templates"
-msgstr ""
+msgstr "Importált sablonok"
 
 #: frontend-builder/i18n/theme-builder.php:61
 msgid "Hide On Front End"
-msgstr ""
+msgstr "Elrejtés a front end felületen"
 
 #: frontend-builder/i18n/theme-builder.php:60
 msgid "Global Header"
-msgstr ""
+msgstr "Globális header"
 
 #: frontend-builder/i18n/theme-builder.php:59
 msgid "Global Footer"
-msgstr ""
+msgstr "Globális footer"
 
 #: frontend-builder/i18n/theme-builder.php:58
 msgid "Global Body"
-msgstr ""
+msgstr "Globális body"
 
 #: frontend-builder/i18n/theme-builder.php:57
 msgid "Failed to load the Theme Builder."
-msgstr ""
+msgstr "A Theme Builder betöltése meghiúsult"
 
 #: frontend-builder/i18n/theme-builder.php:56
 msgid "Failed to create your layout. Please try again later."
-msgstr ""
+msgstr "Az elrendezés létrehozása meghiúsult. Próbálja meg újra később."
 
 #: frontend-builder/i18n/theme-builder.php:55
 msgid "Failed to duplicate your layout. Please try again later."
-msgstr ""
+msgstr "Az elrendezés duplikálása meghiúsult. Próbálja meg újra később."
 
 #. Translators: %1$s: plural post type e.g. Posts.
 #: frontend-builder/i18n/theme-builder.php:54
 msgid "Exclude From: %1$s"
-msgstr ""
+msgstr "Kizárás a következőből:  %1$s"
 
 #: frontend-builder/i18n/theme-builder.php:52
 msgid "Exclude From"
-msgstr ""
+msgstr "Kizárás a következőből"
 
 #: frontend-builder/i18n/theme-builder.php:51
 msgid "Enabled template"
-msgstr ""
+msgstr "Engedélyezett sablon"
 
 #: frontend-builder/i18n/theme-builder.php:50
 msgid "Enable Template"
-msgstr ""
+msgstr "Sablon engedélyezése"
 
 #: frontend-builder/i18n/theme-builder.php:49
 msgid "Edit Template Layout"
-msgstr ""
+msgstr "Sablon elrendezés módosítása"
 
 #: frontend-builder/i18n/theme-builder.php:48
 msgid "Edit %1$s Layout"
-msgstr ""
+msgstr "%1$s elrendezés módosítása"
 
 #: frontend-builder/i18n/theme-builder.php:47
 msgid "Duplicate Template"
-msgstr ""
+msgstr "Sablon duplikálása"
 
 #: frontend-builder/i18n/theme-builder.php:45
 msgid "Divi Theme Builder Templates"
-msgstr ""
+msgstr "Divi Theme Builder sablonok"
 
 #: frontend-builder/i18n/theme-builder.php:44
 msgid "Divi Theme Builder Template"
-msgstr ""
+msgstr "Divi Theme Builder sablon"
 
 #: frontend-builder/i18n/theme-builder.php:43
 #: frontend-builder/theme-builder/admin.php:16
 msgid "Divi Theme Builder"
-msgstr ""
+msgstr "Divi Theme Builder"
 
 #: frontend-builder/i18n/theme-builder.php:42
 msgid "Disabled template"
-msgstr ""
+msgstr "Kikapcsolt sablon"
 
 #: frontend-builder/i18n/theme-builder.php:41
 msgid "Disable Template"
-msgstr ""
+msgstr "Sablon kikapcsolása"
 
 #: frontend-builder/i18n/theme-builder.php:40
 msgid "Deleted template"
-msgstr ""
+msgstr "Törölt sablon"
 
 #: frontend-builder/i18n/theme-builder.php:39
 msgid "Delete Template"
-msgstr ""
+msgstr "Sablon törlése"
 
 #: frontend-builder/i18n/theme-builder.php:38
 msgid "Delete Global Layout"
-msgstr ""
+msgstr "Globális elrendezés törlése"
 
 #: frontend-builder/i18n/theme-builder.php:37
 msgid "Default Website Template"
-msgstr ""
+msgstr "Alapértelmezett weboldal sablon"
 
 #: frontend-builder/i18n/theme-builder.php:36
 msgid "Custom Header"
-msgstr ""
+msgstr "Egyedi header"
 
 #: frontend-builder/i18n/theme-builder.php:35
 msgid "Custom Footer"
-msgstr ""
+msgstr "Egyedi footer"
 
 #: frontend-builder/i18n/theme-builder.php:34
 msgid "Custom Body"
-msgstr ""
+msgstr "Egyedi body"
 
 #: frontend-builder/i18n/theme-builder.php:33
 msgid "Create Template"
-msgstr ""
+msgstr "Sablon létrehozása"
 
 #: frontend-builder/i18n/theme-builder.php:32
 msgid "Duplicated template"
-msgstr ""
+msgstr "Sablon duplikálása"
 
 #: frontend-builder/i18n/theme-builder.php:31
 msgid "Duplicated layout"
-msgstr ""
+msgstr "Duplikált elrendezés"
 
 #: frontend-builder/i18n/theme-builder.php:30
 msgid "Copy From Template"
-msgstr ""
+msgstr "Másolás sablonból"
 
 #: frontend-builder/i18n/theme-builder.php:29
 msgid "Build Global Header"
-msgstr ""
+msgstr "Globális header felépítése"
 
 #: frontend-builder/i18n/theme-builder.php:28
 msgid "Build Global Footer"
-msgstr ""
+msgstr "Globális footer felépítése"
 
 #: frontend-builder/i18n/theme-builder.php:27
 msgid "Build Global Body"
-msgstr ""
+msgstr "Globális body felépítése"
 
 #: frontend-builder/i18n/theme-builder.php:26
 msgid "Build Custom Header"
-msgstr ""
+msgstr "Egyedi header felépítése"
 
 #: frontend-builder/i18n/theme-builder.php:25
 msgid "Build Custom Footer"
-msgstr ""
+msgstr "Egyedi footer felépítése"
 
 #: frontend-builder/i18n/theme-builder.php:24
 msgid "Build Custom Body"
-msgstr ""
+msgstr "Egyedi body felépítése"
 
 #: frontend-builder/i18n/theme-builder.php:23
 msgid "A backup exists for the Theme Builder that is newer than the version you are currently viewing. This backup was captured during your previous editing session, but you never saved it. Would you like to restore this backup and continue editing where you left off?"
-msgstr ""
+msgstr "Létezik egy biztonsági másolat a Theme Builder számára, amely újabb, mint a jelenleg megtekintett változat. Ezt a biztonsági másolatot az előző szerkesztési munkamenet során rögzítették, de még nem került mentésre. Vissza szeretné állítani ezt a biztonsági másolatot, és folytatni a szerkesztést ott, ahol abbahagyta?"
 
 #: frontend-builder/i18n/theme-builder.php:22
 msgid "Backup Exists"
-msgstr ""
+msgstr "Létező biztonsági mentés"
 
 #: frontend-builder/i18n/theme-builder.php:21
 msgid "Assigned layout to template"
-msgstr ""
+msgstr "A sablonhoz elrendezés van csatolva"
 
 #. Translators: %1$s: Number of extra template conditions.
 #: frontend-builder/i18n/theme-builder.php:20
 msgid "And %1$s More"
-msgstr ""
+msgstr "További %1$s"
 
 #: frontend-builder/i18n/theme-builder.php:18
 msgid "Added template"
-msgstr ""
+msgstr "Hozzáadott sablon"
 
 #: frontend-builder/i18n/theme-builder.php:17
 #: frontend-builder/theme-builder/theme-builder.php:88
 msgid "Add New Template"
-msgstr ""
+msgstr "Új sablon hozzáadása"
 
 #: frontend-builder/i18n/theme-builder.php:16
 msgid "Add Global Header"
-msgstr ""
+msgstr "Globális header hozzáadása"
 
 #: frontend-builder/i18n/theme-builder.php:15
 msgid "Add Global Footer"
-msgstr ""
+msgstr "Globális footer hozzáadása"
 
 #: frontend-builder/i18n/theme-builder.php:14
 msgid "Add Global Body"
-msgstr ""
+msgstr "Globális body hozzáadása"
 
 #: frontend-builder/i18n/theme-builder.php:12
 msgid "Add Custom Header"
-msgstr ""
+msgstr "Egyedi header hozzáadása"
 
 #: frontend-builder/i18n/theme-builder.php:11
 msgid "Add Custom Footer"
-msgstr ""
+msgstr "Egyedi footer hozzáadása"
 
 #: frontend-builder/i18n/theme-builder.php:10
 msgid "Add Custom Body"
-msgstr ""
+msgstr "Egyedi body hozzáadása"
 
 #: frontend-builder/i18n/theme-builder.php:9
 msgid "A Post Content module is required in order to add unique content within the Theme Builder template. Once a Post Content module has been added to the template, you will be able to add unique post content within that area for each post using the template."
-msgstr ""
+msgstr "Ahhoz, hogy a Theme Builder sablonon belül egyedi tartalmat tudjon létrehozni, bejegyzés tartalom modulra van szükség. Miután ez megtörtént, a sablon használatával egyedi bejegyzés tartalmat hozhat létre ezen a területen belül."
 
 #: frontend-builder/i18n/portability.php:21
 msgid "Override the Default Website Template."
-msgstr ""
+msgstr "Alapértelmezett weboldal sablon felülírása"
 
 #: frontend-builder/i18n/portability.php:20
 msgid "This file should not be imported in this context."
-msgstr ""
+msgstr "Ezt a fájlt nem lehet ebben az összefüggésben importálni."
 
 #: frontend-builder/i18n/portability.php:19
 msgid "Import estimated time remaining: %smin"
-msgstr ""
+msgstr "Importálás becsült hátralevő idő: %sperc"
 
 #: frontend-builder/i18n/portability.php:18
 msgid "Import %s"
-msgstr ""
+msgstr "%s importálása"
 
 #: frontend-builder/i18n/portability.php:16
 msgid "Export %s"
-msgstr ""
+msgstr "%s exportálása"
 
 #: frontend-builder/i18n/portability.php:15
 msgid "Export Options"
-msgstr ""
+msgstr "Exportálási lehetőségek"
 
 #: frontend-builder/i18n/portability.php:13
 msgid "Export estimated time remaining: %smin"
-msgstr ""
+msgstr "Exportálás becsült hátralevő idő: %sperc"
 
 #: frontend-builder/i18n/portability.php:12
 msgid "Export All Templates"
-msgstr ""
+msgstr "Összes sablon exportálása"
 
 #: frontend-builder/i18n/portability.php:9
 msgid "Allow import to override existing assignments"
-msgstr ""
+msgstr "Engedélyezze, hogy az importálás a meglévő hozzárendeléseket felülírja"
 
 #: frontend-builder/i18n/library.php:22
 msgid "Failed to load your existing layouts. Please try again later."
-msgstr ""
+msgstr "Nem sikerült betölteni a meglévő elrendezéseket. Próbálja megismételni a műveletet később."
 
 #: frontend-builder/i18n/generic.php:43
 msgid "An unknown error has occurred. Please try again later."
-msgstr ""
+msgstr "Ismeretlen hiba lépett fel. Próbálja megismételni a műveletet később."
 
 #. Translators: %1$s: Component name
 #: frontend-builder/i18n/generic.php:40
 msgid "%1$s could not be displayed."
-msgstr ""
+msgstr "%1$s nem megjeleníthető."
 
 #: frontend-builder/i18n/generic.php:35
 msgid "Move"
-msgstr ""
+msgstr "Áthelyezés"
 
 #: frontend-builder/i18n/generic.php:32
 msgid "Search …"
-msgstr ""
+msgstr "Keresés ..."
 
 #: frontend-builder/i18n/generic.php:25
 msgid "No results found."
-msgstr ""
+msgstr "Nincs találat."
 
 #: frontend-builder/i18n/generic.php:23
 msgid "More Settings"
-msgstr ""
+msgstr "További beállítások"
 
 #: frontend-builder/i18n/generic.php:21
 msgid "Header"
-msgstr ""
+msgstr "Header"
 
 #: frontend-builder/i18n/generic.php:19
 msgid "Error"
-msgstr ""
+msgstr "Hiba"
 
 #: frontend-builder/i18n/generic.php:18
 msgid "Edit"
-msgstr ""
+msgstr "Módosítás"
 
 #: frontend-builder/i18n/generic.php:17
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplikálás"
 
 #: frontend-builder/i18n/generic.php:14
 msgid "Continue"
-msgstr ""
+msgstr "Folytatás"
 
 #: frontend-builder/i18n/generic.php:9
 msgid "All Changes Saved"
-msgstr ""
+msgstr "Minden változtatás mentésre került"
 
 #: frontend-builder/helpers.php:2031
 msgid "Back To Module Settings"
-msgstr ""
+msgstr "Vissza a modul beállításokhoz"
 
 #: frontend-builder/helpers.php:2030
 msgid "Edit Global %s Defaults"
-msgstr ""
+msgstr "Globális  %s alapbeállítások módosítása"
 
 #: frontend-builder/helpers.php:1751
 msgid "Global History States"
-msgstr ""
+msgstr "Globális előzmények"
 
 #. Translators: Used for pagination: %1$s = current page; %2$s = total pages.
 #: frontend-builder/helpers.php:1744
 msgid "%1$s of %2$s"
-msgstr ""
+msgstr "%1$s%2$s"
 
 #: frontend-builder/helpers.php:1742
 msgid "(no title)"
-msgstr ""
+msgstr "(nincs cím)"
 
 #: frontend-builder/helpers.php:1732
 msgid "Defaults"
-msgstr ""
+msgstr "Alapértelmezett beállítások"
 
 #: frontend-builder/helpers.php:1731
 msgid "%s Defaults"
-msgstr ""
+msgstr "%s alapértelmezett beállítások"
 
 #: frontend-builder/helpers.php:1651
 msgid "Apply Global Defaults To Exported Layout"
-msgstr ""
+msgstr "Globális alapértelmezett beállítások alkalmazása az exportált elrendezéseknél"
 
 #: frontend-builder/helpers.php:1648
 msgid "Apply Layout's Defaults To This Website"
-msgstr ""
+msgstr "Az elrendezés alapértelmezett beállításainak alkalmazása ezen a weboldalon"
 
 #: frontend-builder/helpers.php:1641
 msgid "The first time defaults are saved, settings will be migrated from the retired Module Customizer. This may result in slight text size changes in 1/3 and 1/4 columns and some slight padding changes in some modules."
-msgstr ""
+msgstr "Az alapértelmezett beállítások első mentésekor a beállítások átkerülnek a korábbi modul testreszabásaiból. Ennek eredményeként az 1/3-os és az 1/4-es oszlopokban kissé megváltozhat a szövegméret, és egyes modulokban kissé módosulhat a padding."
 
 #: frontend-builder/helpers.php:1637
 msgid "You are about to import the layout's defaults."
-msgstr ""
+msgstr "Az elrendezés alapértelmezett beállításainak importálására készül."
 
 #: frontend-builder/helpers.php:1635
 msgid "This will affect all %1$s of %2$s across your entire site. Do you wish to proceed?"
-msgstr ""
+msgstr "Ez hatással lesz minden %2$s %1$s-jára a teljes oldalon. Kívánja folytatni?"
 
 #: frontend-builder/helpers.php:1634
 msgid "This will affect all %1$s across your entire site. Do you wish to proceed?"
-msgstr ""
+msgstr "Ez hatással lesz minden %1$s a teljes weboldalon. Kívánja folytatni?"
 
 #: frontend-builder/helpers.php:1632
 msgid "You've made changes to the %1$s default settings."
-msgstr ""
+msgstr "Módosította a(z) %1$s alapbeállításait."
 
 #: frontend-builder/helpers.php:1628
 msgid "Apply To Exported Layout"
-msgstr ""
+msgstr "Alkalmazza az exportált tartalmakra"
 
 #: frontend-builder/helpers.php:1627
 msgid "Include Global Defaults"
-msgstr ""
+msgstr "Tartalmazza a globális alapértelmezett beállításokat"
 
 #: frontend-builder/helpers.php:1626
 msgid "Options:"
-msgstr ""
+msgstr "Opciók:"
 
 #: frontend-builder/helpers.php:1589
 msgid "Modify Default Values"
-msgstr ""
+msgstr "Alapértelmezett értékek módosítása"
 
 #: frontend-builder/helpers.php:1588
 msgid "Modify Default Value"
-msgstr ""
+msgstr "Alapértelmezett érték módosítása"
 
 #: frontend-builder/helpers.php:1587
 msgid "Make Styles Default"
-msgstr ""
+msgstr "Stílusok alapértelmezetté tétele"
 
 #: frontend-builder/helpers.php:1586
 msgid "Make Style Default"
-msgstr ""
+msgstr "Stílusok alapértelmezetté tétele"
 
 #: frontend-builder/helpers.php:1585
 msgid "Make Default"
-msgstr ""
+msgstr "Legyen alapértelmezett"
 
 #: frontend-builder/helpers.php:1575
 msgid "Options Groups"
-msgstr ""
+msgstr "Lehetőség csoportok"
 
 #: frontend-builder/helpers.php:1574
 msgid "Options Group"
-msgstr ""
+msgstr "Lehetőség csoport"
 
 #: frontend-builder/helpers.php:1548
 msgid "Reset %1$s Defaults"
-msgstr ""
+msgstr "%1$s alapértelmezett beállításainak visszaállítása"
 
 #: frontend-builder/helpers.php:1547
 msgid "Reset %1$s Styles Defaults"
-msgstr ""
+msgstr "%1$s alapértelmezett stílusok visszaállítása"
 
 #: frontend-builder/helpers.php:1546
 msgid "Reset %1$s Styles"
-msgstr ""
+msgstr "%1$s stílusok visszaállítása"
 
 #: frontend-builder/helpers.php:608
 msgid "Hover Styles/Content"
-msgstr ""
+msgstr "Egérmutató alatti stílusok/tartalom"
 
 #: frontend-builder/helpers.php:607
 msgid "Responsive Styles/Content"
-msgstr ""
+msgstr "Reszponzív stílusok/tartalom"
 
 #: frontend-builder/helpers.php:112
 msgid "Website"
-msgstr ""
+msgstr "Weboldal"
 
 #: feature/woocommerce-modules.php:337
 msgid "Product long description"
-msgstr ""
+msgstr "Termék bővebb leírás"
 
 #: feature/woocommerce-modules.php:104
 msgid "\"Build From Scratch\" loads a pre-built WooCommerce page layout, with which you build on when the Divi Builder is enabled. \"Default\" option lets you use default WooCommerce page layout."
-msgstr ""
+msgstr "A \"felépítés az alapoktól\" egy előre elkészített WooCommerce oldal elrendezést tölt be, amelyre építhet, amennyiben a Divi Builder engedélyezve van. Az \"alapértelmezett\" opció lehetővé teszi az alapértelmezett WooCommerce oldal elrendezés használatát."
 
 #: feature/woocommerce-modules.php:103
 msgid "Product Content"
-msgstr ""
+msgstr "Termék tartalom"
 
 #: feature/woocommerce-modules.php:90
 msgid "No Sidebar"
-msgstr ""
+msgstr "Nincs oldalsáv"
 
 #: feature/woocommerce-modules.php:89
 msgid "Left Sidebar"
-msgstr ""
+msgstr "Bal oldali oldalsáv"
 
 #: feature/woocommerce-modules.php:88
 msgid "Right Sidebar"
-msgstr ""
+msgstr "Jobb oldali oldalsáv"
 
 #: feature/woocommerce-modules.php:86
 msgid "Here you can choose Product Page Layout for WooCommerce."
-msgstr ""
+msgstr "Itt kiválaszthatja a termékoldal elrendezését a WooCommerce-hez."
 
 #: feature/woocommerce-modules.php:85
 msgid "Product Layout"
-msgstr ""
+msgstr "Termék elrendezés"
 
 #. Translators: %1$s: Post type singular name.
 #: feature/search-posts.php:97
 msgid "Latest %1$s"
-msgstr ""
+msgstr "Utolsó %1$s"
 
 #. Translators: %1$s: Post type singular name.
 #: feature/search-posts.php:84
 msgid "This %1$s"
-msgstr ""
+msgstr "Ez a(z) %1$s"
 
 #: feature/post-content.php:106
 msgid "Results for \"%1$s\""
-msgstr ""
+msgstr "Eredmények erre: \"%1$s\""
 
 #: feature/post-content.php:102
 msgid "No Results Found"
-msgstr ""
+msgstr "Nincs találat"
 
 #: feature/dynamic-content.php:1171
 msgid "There are no reviews yet."
-msgstr ""
+msgstr "Még nem érkezett értékelés"
 
 #. Translators: %1$s: Post type name
 #: feature/dynamic-content.php:379
 msgid "Author Profile Picture"
-msgstr ""
+msgstr "Szerző profilképe"
 
 #. Translators: %1$s: Post type name
 #: feature/dynamic-content.php:342
 msgid "Current %1$s Link"
-msgstr ""
+msgstr "Jelenlegi %1$s link"
 
 #. Translators: %1$s: Post type name
 #: feature/dynamic-content.php:113
 msgid "%1$s/Archive Title"
-msgstr ""
+msgstr "%1$s/Archív cím"
 
 #: feature/dynamic-content.php:76
 msgid "Post"
-msgstr ""
+msgstr "Bejegyzés"
 
 #: feature/dynamic-content.php:41
 msgid "Product Additional Information"
-msgstr ""
+msgstr "Bővebb információ a termékről"
 
 #: feature/dynamic-content.php:37 feature/dynamic-content.php:45
 msgid "Product Reviews"
-msgstr ""
+msgstr "Termék értékelések"
 
 #: feature/dynamic-content.php:33
 msgid "Product SKU"
-msgstr ""
+msgstr "Termék SKU"
 
 #: feature/dynamic-content.php:29
 msgid "Product Reviews Count"
-msgstr ""
+msgstr "Termék értékelés számláló"
 
 #: feature/dynamic-content.php:25
 msgid "Product Short Description"
-msgstr ""
+msgstr "Termék rövid leírás"
 
 #: feature/dynamic-content.php:21
 msgid "Product Description"
-msgstr ""
+msgstr "Termék leírás"
 
 #: feature/dynamic-content.php:17
 msgid "Product Price"
-msgstr ""
+msgstr "Termék ár"
 
 #: feature/dynamic-content.php:13
 msgid "Product Breadcrumb"
-msgstr ""
+msgstr "Termék navigációs sor"
 
 #: feature/custom-defaults/History.php:108 functions.php:4203
 msgid "Imported From Layout"
-msgstr ""
+msgstr "Elrendezésből importáva"
 
 #: feature/custom-defaults/History.php:72
 msgid "Global History data is corrupt."
-msgstr ""
+msgstr "A globális előzmény adatok sérültek."
 
 #: core.php:5347
 msgid "You are now using the latest Divi Builder experience! This new version of the builder comes with many interface enhancements that were previously only available in the Visual Builder. It also improves performance and takes advantage of the latest builder technology. You can still switch back to the Classic Builder in your Divi Theme Options, however, we recommend familiarizing yourself with the new version and everything it has to offer."
-msgstr ""
+msgstr "Jelenleg a Divi Builder legújabb verzióját használja! Az új verzió számos kezelői felület fejlesztéssel bővült, amelyek korábban csak a Visual Builderben voltak elérhetők. Ezen kívül javítja a teljesítményt és kihasználja a legújabb oldalépítők technikai előnyeit. Visszatérhet a Klasszikus oldalépítő használatához a Divi téma beállításoknál, de javasoljuk, hogy ismerkedjen meg az új verzióval is, és mindazzal, amit kínál."
 
 #: core.php:3304
 msgid "Load of Global Defaults Has Failed"
-msgstr ""
+msgstr "A globális alapértelmezett beállítások betöltése sikertelen volt."
 
 #: core.php:3300
 msgid "An error has occurred while loading the Global History States. Various problems can cause a save to fail, such as a lack of server resources, firewall blockages or plugin conflicts or server misconfiguration. You can try loading again by clicking Try Again."
-msgstr ""
+msgstr "Probléma lépett fel a globális előzmények betöltésekor. Számos hiba okozhatja a mentés meghiúsulását, például szerver erőforrások hiánya, tűzfal beállítások, bővítmények összeférhetetlensége vagy hibás szerver beállítások. Az újrapróbálkozásra kattintva megpróbálhatja újra betölteni az oldalt."
 
 #: core.php:3285
 msgid "Save of Global Defaults Has Failed"
-msgstr ""
+msgstr "A globális alapértelmezett beállítások mentése sikertelen volt."
 
 #: core.php:3281
 msgid "An error has occurred while saving the Global Defaults settings. Various problems can cause a save to fail, such as a lack of server resources, firewall blockages or plugin conflicts or server misconfiguration. You can try saving again by clicking Try Again, or you can download a backup of your unsaved defaults by clicking Download Backup. A backup can be helpful when contacting our Support Team."
-msgstr ""
+msgstr "Hiba történt a globális alapértelmezett beállítások mentése közben. Ennek több oka is lehet, például a szerver erőforrások hiánya, tűzfal blokkoló, plugin-ütközések vagy a szerver hibás beállítása. Újra megpróbálhatja elmenteni a beállításokat a Próbálja újra szövegre kattintva, vagy letöltheti a nem mentett alapértelmezett beállításokat a Biztonsági másolat letöltésére kattintva. A biztonsági másolat hasznos lehet, amennyiben szeretné felvenni a kapcsolatot az ügyfélszolgálattal."
 
 #: core.php:2577 module/ContactForm.php:476
 msgid "You must be a human to submit this form."
-msgstr ""
+msgstr "Csak valós személy nyújthatja be az űrlapot."
 
 #: class-et-builder-settings.php:403
 msgid "Product Image"
-msgstr ""
+msgstr "Termék kép"
 
 #: class-et-builder-settings.php:390 module/woocommerce/Description.php:336
 msgid "Short Description"
-msgstr ""
+msgstr "Rövid leírás"
 
 #: class-et-builder-element.php:4654
 msgid "%1$s Background"
-msgstr ""
+msgstr "%1$s háttér"
 
 #: frontend-builder/i18n/generic.php:42
 msgid "show error message"
-msgstr ""
+msgstr "hibaüzenet megjelenítése"
 
 #: frontend-builder/i18n/generic.php:41
 msgid "hide error message"
-msgstr ""
+msgstr "hibaüzenet elrejtése"
 
 #: post/type/Layout.php:98
 msgctxt "Layout"
 msgid "Add New"
-msgstr "Hozzáad"
+msgstr "Új hozzáadása"
 
 #: module/Signup.php:368
 msgctxt "MailChimp, Aweber, etc"
@@ -1799,7 +1799,7 @@ msgstr "Sor"
 #: frontend-builder/i18n/library.php:41
 msgctxt "Divi Library View Mode (Layout Pack)"
 msgid "Pack View"
-msgstr "Telefon nézet"
+msgstr "Mobil nézet"
 
 #: functions.php:148
 msgctxt "Layout Packs"
@@ -1849,7 +1849,7 @@ msgstr "Új modul"
 #: frontend-builder/i18n/library.php:6
 msgctxt "Divi Library"
 msgid "%s Library"
-msgstr "Divi Könyvtár"
+msgstr "%s Könyvtár"
 
 #: frontend-builder/i18n/library/packs.php:16
 msgctxt "Learning Management System"
@@ -1884,7 +1884,7 @@ msgstr "Ügynökség"
 #: frontend-builder/i18n/library/layouts-short.php:35
 msgctxt "Marketplace Page"
 msgid "Seller"
-msgstr "Galéria"
+msgstr "Piac"
 
 #: frontend-builder/i18n/library/layouts-short.php:30
 msgctxt "Services/Plans Page"
@@ -1940,7 +1940,7 @@ msgstr "Szolgáltatások"
 #: frontend-builder/i18n/library/layouts-short.php:34
 msgctxt "Page"
 msgid "Project 2"
-msgstr "Projekt"
+msgstr "Projekt 2"
 
 #: frontend-builder/i18n/library/layouts-short.php:33
 msgctxt "Page"
@@ -1950,7 +1950,7 @@ msgstr "Projekt"
 #: frontend-builder/i18n/library/layouts-short.php:32
 msgctxt "Page"
 msgid "Pricing"
-msgstr "Árképzés teteje"
+msgstr "Árlista"
 
 #: frontend-builder/i18n/library/layouts-short.php:31
 msgctxt "Page"
@@ -1960,12 +1960,12 @@ msgstr "Portfólió"
 #: frontend-builder/i18n/library/layouts-short.php:28
 msgctxt "Page"
 msgid "Marketing"
-msgstr "Sötétítés"
+msgstr "Marketing"
 
 #: frontend-builder/i18n/library/layouts-short.php:27
 msgctxt "Page"
 msgid "Market"
-msgstr "Sötétítés"
+msgstr "Bolt"
 
 #: frontend-builder/i18n/library/layouts-short.php:26
 msgctxt "Page"
@@ -1990,22 +1990,22 @@ msgstr "Galéria"
 #: frontend-builder/i18n/library/layouts-short.php:22
 msgctxt "Page"
 msgid "Gallery 3"
-msgstr "Galéria"
+msgstr "Galéria 3"
 
 #: frontend-builder/i18n/library/layouts-short.php:21
 msgctxt "Page"
 msgid "Gallery 2"
-msgstr "Galéria"
+msgstr "Galéria 2"
 
 #: frontend-builder/i18n/library/layouts-short.php:20
 msgctxt "Page"
 msgid "Gallery 1"
-msgstr "Galéria"
+msgstr "Galéria 1"
 
 #: frontend-builder/i18n/library/layouts-short.php:19
 msgctxt "Page"
 msgid "Features"
-msgstr "Termék jellemzői"
+msgstr "Termék jellemzők"
 
 #: frontend-builder/i18n/library/layouts-short.php:18
 msgctxt "Page"
@@ -2015,7 +2015,7 @@ msgstr "GYIK"
 #: frontend-builder/i18n/library/layouts-short.php:17
 msgctxt "Page"
 msgid "Events"
-msgstr "Elemek"
+msgstr "Események"
 
 #: frontend-builder/i18n/library/layouts-short.php:16
 msgctxt "Page"
@@ -2025,7 +2025,7 @@ msgstr "Adományoz"
 #: frontend-builder/i18n/library/layouts-short.php:13
 msgctxt "Page"
 msgid "Designer"
-msgstr "Tervezés"
+msgstr "Designer"
 
 #: frontend-builder/i18n/library/layouts-short.php:9
 msgctxt "Page"
@@ -2080,7 +2080,7 @@ msgstr "Egészség és fittség"
 #: frontend-builder/i18n/library/categories.php:10
 msgctxt "Layout Category"
 msgid "Food & Drink"
-msgstr "Étel ital"
+msgstr "Étel és ital"
 
 #: frontend-builder/i18n/library/categories.php:9
 msgctxt "Layout Category"
@@ -2090,12 +2090,12 @@ msgstr "Divat és szépség"
 #: frontend-builder/i18n/library/categories.php:8
 msgctxt "Layout Category"
 msgid "Events"
-msgstr "Elemek"
+msgstr "Események"
 
 #: frontend-builder/i18n/library/categories.php:7
 msgctxt "Layout Category"
 msgid "Education"
-msgstr "Telítettség"
+msgstr "Oktatás"
 
 #: frontend-builder/i18n/library/categories.php:6
 msgctxt "Layout Category"
@@ -2151,7 +2151,7 @@ msgstr "Beosztás"
 #: frontend-builder/helpers.php:661 frontend-builder/helpers.php:687
 msgctxt "Modules dummy content"
 msgid "Name Goes Here"
-msgstr "Név megy itt"
+msgstr "Ide írja be a nevet"
 
 #: frontend-builder/helpers.php:619
 msgctxt "Modules dummy content"
@@ -2161,17 +2161,17 @@ msgstr "Előadó neve"
 #: frontend-builder/helpers.php:426
 msgctxt "Modules dummy content"
 msgid "Click Here"
-msgstr "Kattintások"
+msgstr "Kattintson ide"
 
 #: frontend-builder/helpers.php:421
 msgctxt "Modules dummy content"
 msgid "Your Title Goes Here"
-msgstr "Az Ön címe itt megy"
+msgstr "Ide írhatja be a címet"
 
 #: frontend-builder/helpers.php:423
 msgctxt "et_builder"
 msgid "<p>Your content goes here. Edit or remove this text inline or in the module Content settings. You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p>"
-msgstr ""
+msgstr "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Etiam sit amet nisl purus. Justo laoreet sit amet cursus sit amet dictum. Nibh tellus molestie nunc non blandit massa enim nec dui. Metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Diam volutpat commodo sed egestas. Ut sem nulla pharetra diam sit amet nisl.</p>"
 
 #: frontend-builder/helpers.php:422
 msgctxt "et_builder"
@@ -2196,7 +2196,7 @@ msgstr "Tartalom"
 #: class-et-builder-settings.php:972
 msgctxt "Builder Settings"
 msgid "Post Type Integration"
-msgstr "Bejegyzés típusa integráció"
+msgstr "Bejegyzés típus integráció"
 
 #: class-et-builder-settings.php:977
 msgctxt "Design Settings"
@@ -2313,7 +2313,7 @@ msgstr "Új elrendezés hozzáadása"
 
 #: plugin-compat/woocommerce.php:142
 msgid "Product Sale Price"
-msgstr "Termékértékesítés ár"
+msgstr "Termék értékesítési ár"
 
 #: plugin-compat/woocommerce.php:141
 msgid "Product Regular Price"
@@ -2325,27 +2325,27 @@ msgstr "Termékkészlet állapota"
 
 #: plugin-compat/woocommerce.php:139
 msgid "Product Total Sales"
-msgstr "Termék teljes értékesítése"
+msgstr "Termék összes eladás"
 
 #: module/field/Transform.php:148
 msgid "Using the transform controls, you can performance visual adjustments to any element using a combination of Scale, Translation, Rotation and Skew settings. This allows you to create advanced design effects without the need of a separate graphic design program."
-msgstr "A transzformációs vezérlők segítségével vizuális beállításokat hajthat végre bármelyik elemhez a Scale, Translation, Rotation és Skew beállítások kombinációjával. Ez lehetővé teszi a fejlett tervezési hatások létrehozását külön grafikai tervezés nélkül."
+msgstr "A transzformációs vezérlők segítségével vizuális átalakításokat hajthat végre bármelyik elemhez az átméretezés, mozgatás, forgatás és térbeli döntés beállítások kombinációjával. Ez lehetővé teszi a haladó tervezési megoldások alkalmazását külön grafikai program használata nélkül."
 
 #: module/field/Transform.php:122
 msgid "Transform Origin"
-msgstr "Származás átalakítása"
+msgstr "Átalakítás kiindulási pontja"
 
 #: module/field/Transform.php:102
 msgid "Transform Skew"
-msgstr "Áthelyezés Skew"
+msgstr "Térbeli döntés"
 
 #: module/field/Transform.php:84
 msgid "Transform Rotate"
-msgstr "Átalakítás Forgatás"
+msgstr "Forgatás"
 
 #: module/field/Transform.php:66
 msgid "Transform Translate"
-msgstr "Transform Fordítás"
+msgstr "Mozgatás"
 
 #: module/field/Transform.php:48
 msgid "Transform Scale"
@@ -2396,7 +2396,7 @@ msgstr "%1$s Szöveg árnyék elmosódása"
 #. translators: text shadow group label
 #: module/field/TextShadow.php:248
 msgid "%1$s Text Shadow Vertical Length"
-msgstr ""
+msgstr "Szöveg függőleges igazítása"
 
 #. translators: text shadow group label
 #: module/field/TextShadow.php:246
@@ -2410,7 +2410,7 @@ msgstr "%1$s betűméret"
 
 #: module/field/Overflow.php:60
 msgid "Here you can control element overflow on the %s axis. If set to scroll, content that overflows static widths or heights will trigger a browser scrollbar. If set to hidden, content overflow will be clipped."
-msgstr "Itt vezérelheti az elem túlcsordulását a %s tengelyen. Ha be van állítva a görgetés, a statikus szélességet vagy magasságot túlcsorduló tartalom böngésző görgetősávot indít. Ha rejtettre van állítva, a tartalom túlcsordulása le lesz vágva."
+msgstr "Itt vezérelheti az elem túllógását a %s tengelyen. Ha be van állítva a görgetés, a statikus szélességen vagy magasságon túllógó tartalom esetén görgetősáv jelenik meg a böngészőben. Ha rejtettre van állítva, a tartalom túllógó része le lesz vágva."
 
 #: module/field/Overflow.php:57
 msgid "Auto"
@@ -2422,7 +2422,7 @@ msgstr "Rejtett"
 
 #: module/field/Overflow.php:55
 msgid "Scroll"
-msgstr "Tekercs"
+msgstr "Görgetés"
 
 #: module/field/Overflow.php:54
 msgid "Visible"
@@ -2430,11 +2430,11 @@ msgstr "Látható"
 
 #: module/field/Overflow.php:40
 msgid "Vertical Overflow"
-msgstr "Függőleges túlcsordulás"
+msgstr "Függőleges túllógás"
 
 #: module/field/Overflow.php:36
 msgid "Horizontal Overflow"
-msgstr "Vízszintes túlcsordulás"
+msgstr "Vízszintes túllógás"
 
 #: module/field/MaxWidth.php:99
 msgid "Align the module to the left, right or center."
@@ -2454,7 +2454,7 @@ msgstr "Alapértelmezés szerint az elemek kiterjesztik a szülőelem teljes sz�
 
 #: module/field/MaxWidth.php:36
 msgid "Width"
-msgstr "Maximális szélesség"
+msgstr "Szélesség"
 
 #: module/field/MarginPadding.php:225
 msgid "%1$s Padding"
@@ -2462,11 +2462,11 @@ msgstr " %1$s Padding"
 
 #: module/field/MarginPadding.php:165
 msgid "%1$s Margin"
-msgstr " %1$s Margin"
+msgstr " %1$s Margó"
 
 #: module/field/Height.php:97
 msgid "Setting a maximum height will prevent your element from ever surpassing the defined height value. As your module content increases and surpasses the maximum height, it will overflow the element wrapper."
-msgstr "A maximális magasság beállítása megakadályozza, hogy az elem meghaladja a megadott magasságértéket. Mivel a modul tartalma megnő, és meghaladja a maximális magasságot, az túlfolyik az elem burkolatán."
+msgstr "A maximális magasság beállítása megakadályozza, hogy az elem meghaladja a megadott magasságértéket. Mivel a modul tartalma megnő, és meghaladja a maximális magasságot, túl fog lógni az elem keretein."
 
 #: module/field/Height.php:96
 msgid "Max Height"
@@ -2474,7 +2474,7 @@ msgstr "Maximum magasság"
 
 #: module/field/Height.php:66
 msgid "This sets a static height value for your element. Once set, the height of the element will no longer be determined by its inner content. Content that exceeds the static height of the element will overflow the element wrapper."
-msgstr "Ez statikus magasságértéket állít be az elemhez. A beállítást követően az elem magassága már nem lesz meghatározva belső tartalmával. Az elem statikus magasságát meghaladó tartalom túlfolyik az elem burkolatát."
+msgstr "Ez statikus magasságértéket állít be az elemhez. A beállítást követően az elem magasságát már nem a tartalma fogja meghatározni. Az elem statikus magasságát meghaladó tartalom túl fog lógni az elem keretein."
 
 #: module/field/Height.php:65
 msgid "Height"
@@ -2482,7 +2482,7 @@ msgstr "Magasság"
 
 #: module/field/Height.php:36
 msgid "When a minimum height is set, the element will always have a height of at least the amount defined. This supersedes smaller static height values. Unlike height, minimum height does not result in content overflow and will allow the height of your element to remain dynamic."
-msgstr "Minimális magasság beállítása esetén az elemnek mindig legalább a megadott mennyisége lesz. Ez felülírja a kisebb statikus magasságértékeket. A magasságtól eltérően a minimális magasság nem eredményez tartalmi túlcsordulást, és lehetővé teszi, hogy az elem magassága dinamikus maradjon."
+msgstr "Minimális magasság beállítása esetén az elem magassága legalább akkora lesz, mint a megadott érték. Ez felülírja az ennél kisebb statikus magasságértékeket. A magasságtól eltérően a minimális magasság nem eredményez tartalmi túlcsordulást, és lehetővé teszi, hogy az elem magassága dinamikus maradjon."
 
 #: module/field/Height.php:35
 msgid "Min Height"
@@ -2490,11 +2490,11 @@ msgstr "Min. Magasság"
 
 #: module/field/Divider.php:284
 msgid "Section dividers allow you to add creative shape transitions between different sections on your page."
-msgstr "A szekcióelosztók lehetővé teszik, hogy kreatív alakváltozásokat hozzon létre az oldal különböző részei között."
+msgstr "A szakaszelosztók lehetővé teszik, hogy kreatív forma átalakításokat végezzen el az oldal különböző szakaszain."
 
 #: module/field/Divider.php:240
 msgid "Underneath Section Content"
-msgstr "Szakasz beszúrása"
+msgstr "Szakasz tartalma alatt"
 
 #: module/field/Divider.php:239
 msgid "On Top Of Section Content"
@@ -2518,35 +2518,35 @@ msgstr "Vízszintes"
 
 #: module/field/Divider.php:214
 msgid "Flip the divider horizontally or vertically to change the shape and its direction."
-msgstr "Az alak és az irány megváltoztatásához vízszintesen vagy függőlegesen fordítsa el az osztót."
+msgstr "Az irány és a forma megváltoztatásához tükrözze függőlegesen vagy vízszintesen az elválasztót."
 
 #: module/field/Divider.php:213
 msgid "Divider Flip"
-msgstr "Elválasztó"
+msgstr "Elválasztó tükrözése"
 
 #: module/field/Divider.php:197
 msgid "Choose how many times the shape divider should repeat. Setting to 1x will remove all repetition."
-msgstr "Válassza ki, hogy hányszor ismételje meg az alakváltozót. Az 1x-es beállítással az összes ismétlés megszűnik."
+msgstr "Válassza ki, hogy hányszor ismétlődjön meg az elválasztó. Az 1x-es beállítással az összes ismétlés megszűnik."
 
 #: module/field/Divider.php:196
 msgid "Divider Horizontal Repeat"
-msgstr "Megosztó vízszintes ismétlés"
+msgstr "Elválasztó vízszintes ismétlődés"
 
 #: module/field/Divider.php:179
 msgid "Increase or decrease the height of the shape divider."
-msgstr "Növelje vagy csökkentse az alakválasztó magasságát."
+msgstr "Növelje vagy csökkentse az elválasztó magasságát."
 
 #: module/field/Divider.php:178
 msgid "Divider Height"
-msgstr "Elválasztó vastagság"
+msgstr "Elválasztó magasság"
 
 #: module/field/Divider.php:169
 msgid "Pick a color to use for the section divider. By default, it will assume the color of the section above or below this section to ensure a smooth transition."
-msgstr "Válasszon egy színt a szekciómegosztáshoz. Alapértelmezés szerint a szakasz át- vagy alatti szakaszának színe a sima átmenet biztosítása érdekében lesz."
+msgstr "Válassza ki az elválasztó színét. Alapértelmezett beállítás szerint ez hatással lesz a fölötte vagy alatta elhelyezkedő szakaszra is a megfelelő átmenet elérése érdekében."
 
 #: module/field/Divider.php:168
 msgid "Divider Color"
-msgstr "Szegélyszín"
+msgstr "Elválasztó szín"
 
 #: module/field/Divider.php:161
 msgid "Clouds 2"
@@ -2562,19 +2562,19 @@ msgstr "Háromszög"
 
 #: module/field/Divider.php:158
 msgid "Graph 4"
-msgstr "4. ábra"
+msgstr "Diagram 4"
 
 #: module/field/Divider.php:157
 msgid "Graph 3"
-msgstr "3. ábra"
+msgstr "Diagram 3"
 
 #: module/field/Divider.php:156
 msgid "Graph 2"
-msgstr "2. ábra"
+msgstr "Diagram 2"
 
 #: module/field/Divider.php:155
 msgid "Graph"
-msgstr "Grafikon"
+msgstr "Diagram"
 
 #: module/field/Divider.php:154
 msgid "Asymmetric 4"
@@ -2610,15 +2610,15 @@ msgstr "Hullám"
 
 #: module/field/Divider.php:146
 msgid "Mountains 2"
-msgstr "tartalmaz"
+msgstr "Hegyek 2"
 
 #: module/field/Divider.php:145
 msgid "Mountains"
-msgstr "tartalmaz"
+msgstr "Hegyek"
 
 #: module/field/Divider.php:144
 msgid "Curve 2"
-msgstr "2. görbe"
+msgstr "Ív 2"
 
 #: module/field/Divider.php:143
 msgid "Curve"
@@ -2634,27 +2634,27 @@ msgstr "Rámpa"
 
 #: module/field/Divider.php:140
 msgid "Arrow 3"
-msgstr "Nyilak"
+msgstr "Nyíl 3"
 
 #: module/field/Divider.php:139
 msgid "Arrow 2"
-msgstr "Nyilak"
+msgstr "Nyíl 2"
 
 #: module/field/Divider.php:138
 msgid "Arrow"
-msgstr "Nyilak"
+msgstr "Nyíl"
 
 #: module/field/Divider.php:137
 msgid "Slant 2"
-msgstr "2. ferde"
+msgstr "Ferde vonal 2"
 
 #: module/field/Divider.php:136
 msgid "Slant"
-msgstr "Ferde"
+msgstr "Ferde vonal"
 
 #: module/field/Divider.php:132
 msgid "Select the divider shape that you would like to use. Shapes are represented visually within the list."
-msgstr "Válassza ki a használni kívánt osztóformát. Az alakzatok a listán láthatóak."
+msgstr "Válassza ki a használni kívánt elválasztó formát. Az alakzatok a listában megtekinthetőek."
 
 #: module/field/Divider.php:131
 msgid "Divider Style"
@@ -2662,19 +2662,19 @@ msgstr "Elválasztó stílus"
 
 #: module/field/BoxShadow.php:240
 msgid "Inner Shadow"
-msgstr "Belső árnyék megjelenítése"
+msgstr "Belső árnyék"
 
 #: module/field/BoxShadow.php:239
 msgid "Outer Shadow"
-msgstr "Belső árnyék megjelenítése"
+msgstr "Külső árnyék"
 
 #: module/field/BoxShadow.php:235
 msgid "Choose whether you would like the shadow to appear outside your module, lifting the module up from the page, or inside the module, setting the module downwards within the page."
-msgstr "Válassza ki, hogy az árnyékot megjeleníti-e a modulon kívül, emelje fel a modult az oldalról, vagy a modul belsejében, és állítsa a modult lefelé az oldalon."
+msgstr "Válassza ki, hogy szeretné-e megjeleníteni a modul külső árnyékát - ebben az esetben mozgassa fölfelé a modult -, vagy a belső árnyékát - mozgassa az oldalon lefelé a modult."
 
 #: module/field/BoxShadow.php:234
 msgid "Box Shadow Position"
-msgstr "Kezdő pozíció"
+msgstr "Doboz árnyék pozíció"
 
 #: module/field/BoxShadow.php:223 module/field/TextShadow.php:364
 msgid "The color of the shadow."
@@ -2682,11 +2682,11 @@ msgstr "Az árnyék színe."
 
 #: module/field/BoxShadow.php:217
 msgid "Shadow Color"
-msgstr "Alcím betűszín"
+msgstr "Árnyék színe"
 
 #: module/field/BoxShadow.php:211
 msgid "Increasing the spread strength will increase the density of the box shadow. Higher density results in a more intense shadow."
-msgstr "A szórási szilárdság növelése növeli a doboz árnyékának sűrűségét. A nagyobb sűrűség intenzívebb árnyékot eredményez."
+msgstr "A kiterjedés nagyságának növelése egyben a doboz árnyékának sűrűségét is növeli. A nagyobb sűrűség markánsabb árnyákot eredményez. "
 
 #: module/field/BoxShadow.php:210
 msgid "Box Shadow Spread Strength"
@@ -2694,7 +2694,7 @@ msgstr "Box Shadow Spread erősség"
 
 #: module/field/BoxShadow.php:204 module/field/TextShadow.php:341
 msgid "The higher the value, the bigger the blur, the shadow becomes wider and lighter."
-msgstr ""
+msgstr "Minél nagyobb az érték, annál jobban elmosódott, az árnyék szélesebbé és világosabbá válik."
 
 #: module/field/BoxShadow.php:198
 msgid "Box Shadow Blur Strength"
@@ -2722,57 +2722,57 @@ msgstr "Válasszon egy doboz árnyékstílust, hogy engedélyezze az elem árny�
 
 #: module/field/Border.php:340
 msgid "Left Border Style"
-msgstr "Szegély stílus"
+msgstr "Bal oldali szegély stílus"
 
 #: module/field/Border.php:331
 msgid "Left Border Color"
-msgstr "Szegélyszín"
+msgstr "Bal oldali szegély szín"
 
 #: module/field/Border.php:314
 msgid "Left Border Width"
-msgstr "Szegély szélesség"
+msgstr "Bal oldali szegély szélesség"
 
 #: module/field/Border.php:299
 msgid "Bottom Border Style"
-msgstr "Szegély stílus"
+msgstr "Alsó szegély stílus"
 
 #: module/field/Border.php:290
 msgid "Bottom Border Color"
-msgstr "Gomb es határ szín"
+msgstr "Alsó szegély szín"
 
 #: module/field/Border.php:273
 msgid "Bottom Border Width"
-msgstr "Szegély szélesség"
+msgstr "Alsó szegély szélesség"
 
 #: module/field/Border.php:258
 msgid "Right Border Style"
-msgstr "Szegély stílus"
+msgstr "Jobb oldali szegély stílus"
 
 #: module/field/Border.php:249
 msgid "Right Border Color"
-msgstr "Szegélyszín"
+msgstr "Jobb oldali szegély szín"
 
 #: module/field/Border.php:232
 msgid "Right Border Width"
-msgstr "Szegély szélesség"
+msgstr "Jobb oldali szegély szélesség"
 
 #: module/field/Border.php:217
 msgid "Top Border Style"
-msgstr "Szegély stílus"
+msgstr "Felső szegély stílus"
 
 #: module/field/Border.php:208
 msgid "Top Border Color"
-msgstr "Szegélyszín"
+msgstr "Felső szegélyszín"
 
 #: module/field/Border.php:191
 msgid "Top Border Width"
-msgstr "Szegély szélesség"
+msgstr "Felső szegély szélesség"
 
 #: module/field/Border.php:177 module/field/Border.php:218
 #: module/field/Border.php:259 module/field/Border.php:300
 #: module/field/Border.php:341
 msgid "Borders support various different styles, each of which will change the shape of the border element."
-msgstr "A határok különböző stílusokat támogatnak, amelyek mindegyike megváltoztatja a határelem alakját."
+msgstr "A szegélyek különböző stílusokat támogatnak, amelyek mindegyike megváltoztatja a szegély elem alakját."
 
 #: module/field/Border.php:176
 msgid "Border Style"
@@ -2782,7 +2782,7 @@ msgstr "Szegély stílus"
 #: module/field/Border.php:250 module/field/Border.php:291
 #: module/field/Border.php:332
 msgid "Pick a color to be used for the border."
-msgstr "Válasszon színt a határhoz."
+msgstr "Válasszon színt a szegélyhez."
 
 #: module/field/Border.php:167
 msgid "Border Color"
@@ -2792,7 +2792,7 @@ msgstr "Szegélyszín"
 #: module/field/Border.php:233 module/field/Border.php:274
 #: module/field/Border.php:315
 msgid "Increasing the width of the border will increase its size/thickness."
-msgstr "A határ szélességének növelése növeli annak méretét / vastagságát."
+msgstr "A szegély szélességének növelése növeli annak méretét / vastagságát."
 
 #: module/field/Border.php:151
 msgid "Border Width"
@@ -2804,19 +2804,19 @@ msgstr "Szegélyeket adhat hozzá bármely elemhez, testreszabhatja megjelenés�
 
 #: module/field/Border.php:138
 msgid "Border Styles"
-msgstr "Szegély stílus"
+msgstr "Szegély stílusok"
 
 #: module/field/Border.php:129
 msgid "Sync values"
-msgstr "Szinkronizálási értékek"
+msgstr "Értékek szinkronizálása"
 
 #: module/field/Border.php:128
 msgid "Here you can control the corner radius of this element. Enable the link icon to control all four corners at once, or disable to define custom values for each."
-msgstr "Itt vezérelheti ennek az elemnek a sarkát. Engedélyezze a hivatkozás ikonját, hogy egyszerre szabályozza az összes négy sarkot, vagy tiltsa le az egyéni értékek meghatározását."
+msgstr "Itt beállíthatja az elem sarkának sugarát. Az összekapcsolás ikon engedélyezésével egyszerre szabályozhatja mind a négy sarkot, letiltásával pedig külön-külön módosíthatja a sarkok lekerekítettségét."
 
 #: module/field/Border.php:119
 msgid "Rounded Corners"
-msgstr "Lekerekített téglalap"
+msgstr "Lekerekített sarkok"
 
 #: module/VideoSliderItem.php:106
 msgid "Image Overlay URL"
@@ -2896,7 +2896,7 @@ msgstr "Bevezetés a Video Slider modulba"
 
 #: module/VideoSlider.php:37
 msgid "Slider Arrows"
-msgstr "Csúszka nyilak"
+msgstr "Lapozó nyilak"
 
 #: module/VideoSlider.php:33
 msgid "Thumbnail Item"
@@ -2908,7 +2908,7 @@ msgstr "Lejátszás gomb"
 
 #: module/VideoSlider.php:6
 msgid "Video Sliders"
-msgstr "Videó csúszkák"
+msgstr "Videó lapozók"
 
 #: module/VideoSlider.php:5
 msgid "Video Slider"
@@ -2925,7 +2925,7 @@ msgstr "Lejátszás ikon betűmérete"
 
 #: module/FullwidthMenu.php:461 module/Menu.php:453
 msgid "Here you can define a custom color for your search icon."
-msgstr ""
+msgstr "Itt megadhat egyéni színt a keresés ikonhoz."
 
 #: module/Video.php:141 module/VideoSlider.php:130
 #: module/VideoSliderItem.php:159
@@ -2982,11 +2982,11 @@ msgstr "Videók"
 
 #: module/Toggle.php:183
 msgid "Choose whether or not this toggle should start in an open or closed state."
-msgstr "Válassza ki, hogy a kapcsoló állapota kezdetben nyitott vagy zárt legyen."
+msgstr "Válassza ki, hogy az összecsukható elrendezés állapota kezdetben nyitott vagy zárt legyen."
 
 #: module/Toggle.php:156
 msgid "An introduction to the Toggle module"
-msgstr "Bevezetés a Toggle modulba"
+msgstr "Bevezetés az összecsukható modulhoz"
 
 #: module/Toggle.php:16 module/Toggle.php:174
 msgid "State"
@@ -2994,7 +2994,7 @@ msgstr "Állapot"
 
 #: module/Toggle.php:6
 msgid "Toggles"
-msgstr "Vált"
+msgstr "Összecsukható elemek"
 
 #: module/Text.php:282
 msgid "An introduction to the Text module"
@@ -3003,27 +3003,27 @@ msgstr "Bevezetés a szövegmodulba"
 #: module/Text.php:235 module/type/PostContent.php:155
 #: module/woocommerce/Description.php:255
 msgid "Heading 6"
-msgstr "Címsor"
+msgstr "Címsor 6"
 
 #: module/Text.php:221 module/type/PostContent.php:141
 #: module/woocommerce/Description.php:241
 msgid "Heading 5"
-msgstr "Címsor"
+msgstr "Címsor 5"
 
 #: module/Text.php:207 module/type/PostContent.php:127
 #: module/woocommerce/Description.php:227
 msgid "Heading 4"
-msgstr "Címsor"
+msgstr "Címsor 4"
 
 #: module/Text.php:193 module/type/PostContent.php:113
 #: module/woocommerce/Description.php:213
 msgid "Heading 3"
-msgstr "Címsor"
+msgstr "Címsor 3"
 
 #: module/Text.php:179 module/type/PostContent.php:99
 #: module/woocommerce/Description.php:199
 msgid "Heading 2"
-msgstr "Címsor"
+msgstr "Címsor 2"
 
 #: module/Text.php:168 module/type/PostContent.php:85
 #: module/woocommerce/Description.php:185
@@ -3239,47 +3239,47 @@ msgstr "Új fül"
 
 #: module/Tabs.php:128
 msgid "Pick a color to use for tab text within active tabs. You can assign a unique color to active tabs to differentiate them from inactive tabs."
-msgstr "Válasszon egy színt, amelyet az tabulátor szövegéhez használhat az aktív lapokon. Az aktív fülekhez egyedi színt rendelhet, hogy megkülönböztesse őket az inaktív lapoktól."
+msgstr "Válasszon egy színt, amelyet az lapfülek szövegéhez használhat az aktív lapfüleknél. Az aktív fülekhez egyedi színt rendelhet, hogy megkülönböztesse őket az inaktív lapoktól."
 
 #: module/Tabs.php:127
 msgid "Active Tab Text Color"
-msgstr "Aktív lapszöveg színe"
+msgstr "Aktív lapfül szöveg színe"
 
 #: module/Tabs.php:118
 msgid "Pick a color to be used for inactive tab backgrounds. You can assign a unique color to inactive tabs to differentiate them from active tabs."
-msgstr "Válasszon egy színt, amelyet az inaktív lapok hátteréhez használ. Egyedi színt rendelhet az inaktív fülekhez, hogy megkülönböztesse őket az aktív lapoktól."
+msgstr "Válasszon egy színt, amelyet az inaktív lapfülek hátteréhez használ. Egyedi színt rendelhet az inaktív lapfülekhez, hogy megkülönböztesse őket az aktív lapfülektől."
 
 #: module/Tabs.php:117
 msgid "Inactive Tab Background Color"
-msgstr "Inaktív fül háttérszín"
+msgstr "Inaktív lapfül háttérszín"
 
 #: module/Tabs.php:108
 msgid "Pick a color to be used for active tab backgrounds. You can assign a unique color to active tabs to differentiate them from inactive tabs."
-msgstr "Válasszon egy színt, amelyet az aktív lap háttereként használ. Az aktív fülekhez egyedi színt rendelhet, hogy megkülönböztesse őket az inaktív lapoktól."
+msgstr "Válasszon egy színt, amelyet az aktív lapfül háttereként használ. Az aktív lapfülekhez egyedi színt rendelhet, hogy megkülönböztesse őket az inaktív lapfülektől."
 
 #: module/Tabs.php:107
 msgid "Active Tab Background Color"
-msgstr "Aktív fül háttérszín"
+msgstr "Aktív lapfül háttérszín"
 
 #: module/Tabs.php:99
 msgid "An introduction to the Tabs module"
-msgstr "Bevezetés a Tabs modulba"
+msgstr "Bevezetés a lapfülek modulba"
 
 #: module/Tabs.php:91
 msgid "Tabs Content"
-msgstr "Mezők tartalma"
+msgstr "Lapfülek tartalma"
 
 #: module/Tabs.php:87
 msgid "Active Tab"
-msgstr "Aktív fül"
+msgstr "Aktív lapfül"
 
 #: module/Tabs.php:79
 msgid "Tabs Controls"
-msgstr "Fülek kezelése"
+msgstr "Lapfülek kezelése"
 
 #: module/Tabs.php:5 module/Tabs.php:6 module/TabsItem.php:6
 msgid "Tabs"
-msgstr "Fülek"
+msgstr "Lapfülek"
 
 #: module/SocialMediaFollowItem.php:501
 msgid "Follow on %s"
@@ -3307,7 +3307,7 @@ msgstr "A Skype-fiók neve."
 
 #: module/SocialMediaFollowItem.php:210
 msgid "The URL for this social network link."
-msgstr "Közösségi hálózat hivatkozás webcíme."
+msgstr "Közösségi média hivatkozás webcíme."
 
 #: module/SocialMediaFollowItem.php:207
 msgid "Account Link URL"
@@ -3315,7 +3315,7 @@ msgstr "Fiókhivatkozás URL-címe"
 
 #: module/SocialMediaFollowItem.php:198
 msgid "Choose the social network"
-msgstr "Közösségi hálózat kiválasztása"
+msgstr "Közösségi felület kiválasztása"
 
 #: module/SocialMediaFollowItem.php:186
 msgid "RSS"
@@ -3375,7 +3375,7 @@ msgstr "Facebook"
 
 #: module/SocialMediaFollowItem.php:132
 msgid "Select a Network"
-msgstr "Hálózat kiválasztása"
+msgstr "Csatorna kiválasztása"
 
 #: module/SocialMediaFollowItem.php:27
 msgid "Social Network Settings"
@@ -3383,7 +3383,7 @@ msgstr "Közösségi hálózat beállítások"
 
 #: module/SocialMediaFollowItem.php:26
 msgid "New Social Network"
-msgstr "Új közösségi hálózat"
+msgstr "Új közösségi csatorna"
 
 #: module/SocialMediaFollowItem.php:15
 msgid "Network"
@@ -3400,11 +3400,11 @@ msgstr "Használjon egyéni ikonméretet"
 
 #: module/SocialMediaFollow.php:169 module/SocialMediaFollowItem.php:248
 msgid "Here you can define a custom color for the social network icon."
-msgstr "Itt megadhat egyéni színt a szociális hálózat ikonjára."
+msgstr "Itt megadhat egyéni színt a közösségi média ikonjának"
 
 #: module/SocialMediaFollow.php:163
 msgid "Here you can choose whether or not to include the follow button next to the icon."
-msgstr "Itt választhatja ki, hogy szeretne-e egy követés gombot az ikon mellett vagy sem."
+msgstr "Itt választhatja ki, hogy szeretne-e egy követés gombot elhelyezni az ikon mellett vagy sem."
 
 #: module/SocialMediaFollow.php:142
 msgid "Link Target"
@@ -3528,7 +3528,7 @@ msgstr "Bevezetés a Slider modulba"
 
 #: module/Slider.php:8
 msgid "Sliders"
-msgstr "Sliders"
+msgstr "Sliderek"
 
 #: module/SignupItem.php:66
 msgid "Input Focus"
@@ -3536,7 +3536,7 @@ msgstr "Bemeneti fókusz"
 
 #: module/SignupItem.php:17
 msgid "Custom Field Settings"
-msgstr "Mező beállítások"
+msgstr "Egyéni mező beállítások"
 
 #: feature/dynamic-content.php:539 feature/dynamic-content.php:622
 #: module/SignupItem.php:15
@@ -3553,11 +3553,11 @@ msgstr "Az itt megadott tartalom a fejléc alatt fog megjelenni."
 
 #: frontend-builder/i18n/generic.php:20 module/Signup.php:722
 msgid "Footer"
-msgstr "Lábjegyzet"
+msgstr "Footer"
 
 #: module/Signup.php:715
 msgid "This content will appear below the title."
-msgstr "Az itt megadott tartalom a fejléc alatt fog megjelenni."
+msgstr "Az itt megadott tartalom a cím alatt fog megjelenni."
 
 #: module/Signup.php:705
 msgid "Subscribe"
@@ -3565,7 +3565,7 @@ msgstr "Feliratkozás"
 
 #: module/Signup.php:703
 msgid "Define custom text for the subscribe button."
-msgstr "Határozza meg a dián megjelenő gomb szövegét"
+msgstr "Határozza meg a feliratkozó gomb szövegét"
 
 #: module/Signup.php:693
 msgid "Choose a title of your signup box."
@@ -3573,11 +3573,11 @@ msgstr "Adjon címet a feliratkozás doboznak."
 
 #: module/Signup.php:687
 msgid "Choose what data (if any) to include in the redirect URL as query arguments."
-msgstr "Válassza ki, hogy milyen adatok (ha vannak ilyenek) az átirányítási URL-be a lekérdezés argumentumaként szerepeljenek."
+msgstr "Válassza ki, hogy milyen adatok (ha vannak ilyenek) szerepeljenek az átirányítási URL-ben a lekérdezés argumentumaként."
 
 #: module/Signup.php:680
 msgid "IP Address"
-msgstr "Térképjelölő cím"
+msgstr "IP cím"
 
 #: module/Signup.php:673
 msgid "Redirect URL Query"
@@ -3585,11 +3585,11 @@ msgstr "URL átirányítás"
 
 #: module/Signup.php:670
 msgid "Site visitors who subscribe to your list will be redirected to this URL."
-msgstr "A webhely látogatói, akik feliratkoznak a listára, átirányításra kerülnek az URL-címre."
+msgstr "A webhely látogatói, akik feliratkoznak a listára, erre az URL-címre lesznek átirányítva."
 
 #: module/Signup.php:660
 msgid "The message that will be shown to site visitors who subscribe to your list."
-msgstr "Az üzenet, amely megjelenik a webhely látogatói számára, akik feliratkoznak a listára."
+msgstr "A listára feliratkozók ezt az üzenetet fogják látni."
 
 #: module/Signup.php:655
 msgid "Success!"
@@ -3597,11 +3597,11 @@ msgstr "Sikeres!"
 
 #: module/Signup.php:649
 msgid "Choose what happens when a site visitor has been successfully subscribed to your list."
-msgstr "Válassza ki, mi történik, ha egy webhely látogatója sikeresen feliratkozott a listára."
+msgstr "Válassza ki, hogy mi történjen, ha a webhely látogatója sikeresen feliratkozott a listára."
 
 #: module/Signup.php:645
 msgid "Redirect to a custom URL."
-msgstr "URL átirányítás"
+msgstr "Átirányítás egyedi URL-re"
 
 #: module/Signup.php:644
 msgid "Display a message."
@@ -3649,11 +3649,11 @@ msgstr "Legyen teljes szélességű"
 
 #: module/Signup.php:520
 msgid "Whether or not the First Name field should be included in the opt-in form."
-msgstr "Az első név mezőt be kell-e venni az opt-in formában."
+msgstr "Tartalmazza-e az opt-in űrlap a keresztnév mezőt?"
 
 #: module/Signup.php:505
 msgid "Show First Name Field"
-msgstr "Az első név mező megjelenítése"
+msgstr "A keresztnév mező megjelenítése"
 
 #: module/Signup.php:489 module/Signup.php:524 module/Signup.php:559
 #: module/Signup.php:591
@@ -3908,7 +3908,7 @@ msgstr "Rendezés népszerűség szerint"
 #: module/woocommerce/RelatedProducts.php:343
 #: module/woocommerce/Upsells.php:333
 msgid "Sort by Menu Order"
-msgstr ""
+msgstr "Rendezés menü sorrend szerint"
 
 #: module/Shop.php:343 module/helpers/WooCommerceModules.php:243
 msgid "Default Sorting"
@@ -3954,7 +3954,7 @@ msgstr "Termék Szám"
 
 #: module/Shop.php:247
 msgid "Choose which type of product view you would like to display."
-msgstr ""
+msgstr "Válassza ki, hogy mely termék nézet típust szeretné megjeleníteni."
 
 #: frontend-builder/theme-builder/theme-builder.php:711 module/Shop.php:241
 msgid "Product Category"
@@ -4213,7 +4213,7 @@ msgstr "A golyók letiltása eltávolítja az egyes listaelemek mellett megjelen
 
 #: module/PricingTables.php:357
 msgid "Show Bullets"
-msgstr ""
+msgstr "Bullets megjelenítése"
 
 #: module/PricingTables.php:346
 msgid "Pick a unique color to use for body text in featured pricing tables. Unique colors can help featured items stand out from the rest."
@@ -4253,7 +4253,7 @@ msgstr "Válasszon ki egy egyedi színt, amelyet a táblázatban szereplő árli
 
 #: module/PricingTables.php:302
 msgid "Featured Header Background Color"
-msgstr ""
+msgstr "Kiemelt fejléc-háttérszín"
 
 #: module/PricingTables.php:292
 msgid "Pick a unique color to be used for the background of featured pricing tables. This helps featured tables stand out from the rest."
@@ -4787,7 +4787,7 @@ msgstr "Hozzászólások számának megjelenítése"
 
 #: module/FullwidthPostTitle.php:203 module/PostTitle.php:205
 msgid "Here you can choose whether or not display the Categories in Post Meta. Note: This option doesn't work with custom post types."
-msgstr ""
+msgstr "It választhatja ki, hogy megjelenjenek-e a kategóriák a metaadatok között. <strong>Megjegyzés: Ez az opció nem alkalmazható egyéni bejegyzés típusoknál.</strong>"
 
 #: module/FullwidthPostTitle.php:194 module/PostTitle.php:195
 msgid "Show Post Categories"
@@ -5061,7 +5061,7 @@ msgstr "Dia leírás"
 #: module/FullwidthPostSlider.php:242 module/FullwidthSlider.php:194
 #: module/PostSlider.php:239 module/Slider.php:190 module/SliderItem.php:218
 msgid "Content Max Width"
-msgstr ""
+msgstr "Tartalom maximális szélessége"
 
 #: module/FullwidthPostSlider.php:30 module/FullwidthSlider.php:26
 #: module/PostSlider.php:29 module/PostsNavigation.php:18 module/Slider.php:25
@@ -5160,7 +5160,7 @@ msgstr "Mobil menü háttérszín"
 
 #: module/FullwidthMenu.php:302 module/Menu.php:294
 msgid "Pick a color to be used for active links in dropdown menus. Dropdown menus appear when hovering over links with sub items."
-msgstr ""
+msgstr "Válasszon egy színt, amelyet a legördülő menükben használhat. A legördülő menük akkor jelennek meg, ha az alcímekre mutató hivatkozások fölé viszi a kurzort."
 
 #: module/FullwidthMenu.php:292 module/Menu.php:284
 msgid "Dropdown Menu Text Color"
@@ -5281,7 +5281,7 @@ msgstr "Itt kiválaszthatja, hogy mobileszközökön a térkép húzható legyen
 
 #: module/FullwidthMap.php:158 module/Map.php:158
 msgid "Draggable On Mobile"
-msgstr ""
+msgstr "Draggable On Mobile"
 
 #: module/FullwidthMap.php:154 module/Map.php:154
 msgid "Here you can choose whether the zoom level will be controlled by mouse wheel or not."
@@ -6089,7 +6089,7 @@ msgstr "A válaszgomb letiltása megakadályozza, hogy a látogatók menetes meg
 
 #: module/Comments.php:297
 msgid "Show Reply Button"
-msgstr ""
+msgstr "Válasz gomb megjelenítése"
 
 #: module/Comments.php:284
 msgid "Disabling the author avatar will remove the profile picture from the module."
@@ -6097,7 +6097,7 @@ msgstr "A szerző avatarának letiltása eltávolítja a profilképet a modulbó
 
 #: module/Comments.php:283
 msgid "Show Author Avatar"
-msgstr ""
+msgstr "Szerzői Avatar megjelenítése"
 
 #: module/Comments.php:274
 msgid "An introduction to the Comments module"
@@ -6201,7 +6201,7 @@ msgstr "Válasszon egy színt, amelyet a kör betöltetlen helyén használ."
 
 #: module/CircleCounter.php:172
 msgid "Circle Background Color"
-msgstr ""
+msgstr "Kör háttérszíne"
 
 #: module/CircleCounter.php:156 module/NumberCounter.php:147
 msgid "Here you can choose whether the percent sign should be added after the number set above."
@@ -6417,7 +6417,7 @@ msgstr "Fülszöveg kép"
 
 #: module/Blurb.php:14 module/Blurb.php:19
 msgid "Image & Icon"
-msgstr "Lép és Ikon"
+msgstr "Kép és Ikon"
 
 #: module/Blurb.php:6
 msgid "Blurbs"
@@ -6630,7 +6630,7 @@ msgstr "Aktuális kategória"
 #: module/FullwidthPortfolio.php:220 module/FullwidthPostSlider.php:531
 #: module/Portfolio.php:220 module/PostSlider.php:322 module/Shop.php:300
 msgid "Included Categories"
-msgstr ""
+msgstr "Tartalmazott kategóriák"
 
 #: module/Blog.php:331
 msgid "Choose how much posts you would like to display per page."
@@ -6947,7 +6947,7 @@ msgstr "Egyedi szöveges színeket választhat, ha nyitva és zárva vannak a c�
 
 #: module/Accordion.php:161 module/AccordionItem.php:202 module/Toggle.php:216
 msgid "Closed Title Text Color"
-msgstr ""
+msgstr "Zárt címszöveg színe"
 
 #: module/Accordion.php:152 module/AccordionItem.php:193 module/Toggle.php:207
 msgid "You can pick unique background colors for toggles when they are in their open and closed states. Choose the open state background color here."
@@ -6963,7 +6963,7 @@ msgstr "Egyedi szöveges színeket választhat, ha nyitva és zárva vannak a c�
 
 #: module/Accordion.php:141 module/AccordionItem.php:182 module/Toggle.php:196
 msgid "Open Title Text Color"
-msgstr ""
+msgstr "Nyissa meg a címszöveg színét"
 
 #: module/Accordion.php:133 module/AccordionItem.php:154
 msgid "An introduction to the Accordion module"
@@ -7049,12 +7049,12 @@ msgstr "Ezzel az opcióval állíthatja be az egyéni margó szélességet ehhez
 
 #: main-structure-elements.php:1286 main-structure-elements.php:1759
 msgid "Here you can choose the Column Structure for this Row."
-msgstr ""
+msgstr "Itt választható ki az adott sor oszlopszerkezetét."
 
 #: main-structure-elements.php:1258 main-structure-elements.php:1285
 #: main-structure-elements.php:1731 main-structure-elements.php:1758
 msgid "Column Structure"
-msgstr ""
+msgstr "Oszlopszerkezet"
 
 #: main-structure-elements.php:1240 module/Button.php:27 module/Image.php:20
 #: module/Sidebar.php:87 module/SocialMediaFollow.php:22
@@ -8710,7 +8710,7 @@ msgstr ""
 
 #: frontend-builder/i18n/library.php:7
 msgid "%d Layout"
-msgstr ""
+msgstr "Elrendezés betöltése"
 
 #: frontend-builder/i18n/library/packs.php:24
 msgid "Yoga Studio"
@@ -8746,7 +8746,7 @@ msgstr "Fotós"
 
 #: frontend-builder/i18n/library/packs.php:15
 msgid "Interior Design Company"
-msgstr "Interior Design Company"
+msgstr "Belsőépítész cég"
 
 #: frontend-builder/i18n/library/packs.php:14
 msgid "Freelancer"
@@ -9306,7 +9306,7 @@ msgstr "Ügynökség az oldalról"
 
 #: frontend-builder/helpers.php:2158
 msgid "Reset Dynamic Content"
-msgstr ""
+msgstr "Dinamikus tartalom alaphelyzetbe állítása"
 
 #: frontend-builder/helpers.php:2157
 msgid "Edit Dynamic Content"
@@ -9358,7 +9358,7 @@ msgstr "Egyetértek azzal, hogy ezeket az adatokat átadja az elegáns témákna
 
 #: frontend-builder/helpers.php:2126
 msgid "Describe what exactly you did before this error message appears on the builder. This is optional but really helpful for us to fix this issue. So the more accurate your description is, the easier for us to fix it."
-msgstr ""
+msgstr "Írja le pontosan, hogy mit csinált, amikor az oldalépítőnél előjött a hibaüzenet. Ez nem kötelező, de nekünk sokat segít a hibák megoldásánál. Minél pontosabban írja körül a problémát, annál könnyebben találjuk meg rá a megoldást."
 
 #: frontend-builder/helpers.php:2125
 msgid "Error Descripion"
@@ -9622,7 +9622,7 @@ msgstr "Vissza"
 
 #: frontend-builder/helpers.php:2028
 msgid "Other Settings"
-msgstr ""
+msgstr "Egyéb beállítások"
 
 #: frontend-builder/helpers.php:2026 frontend-builder/i18n/generic.php:31
 #: functions.php:10076 module/ContactFormItem.php:149
@@ -9718,7 +9718,7 @@ msgstr "Wireframe Megtekintő"
 
 #: frontend-builder/helpers.php:1984
 msgid "This number of columns cannot be used on this row."
-msgstr ""
+msgstr "Ez az oszlopok száma nem használható ezen a soron."
 
 #: frontend-builder/helpers.php:1982 functions.php:4014
 msgid "You cannot add global modules into global sections or rows"
@@ -9912,7 +9912,7 @@ msgstr "Válasszon fájlt"
 
 #: frontend-builder/helpers.php:1829 frontend-builder/helpers.php:1874
 msgid "Font"
-msgstr ""
+msgstr "%1$s betűtípus"
 
 #: frontend-builder/helpers.php:1630 frontend-builder/helpers.php:1826
 msgid "Are You Sure?"
@@ -10379,7 +10379,7 @@ msgstr "Kapcsoló"
 
 #: frontend-builder/helpers.php:1569
 msgid "View Modified Styles"
-msgstr ""
+msgstr "Modul Stílusok Beillesztése"
 
 #: frontend-builder/helpers.php:1567 functions.php:5161
 msgid "Collapse"
@@ -10451,7 +10451,7 @@ msgstr "Stílusok visszaállítása"
 #: frontend-builder/helpers.php:1544 frontend-builder/i18n/generic.php:29
 #: functions.php:4190
 msgid "Reset"
-msgstr ""
+msgstr "Szerepkörök visszaállítása"
 
 #: frontend-builder/helpers.php:1543
 msgid "Paste Elements"
@@ -10524,7 +10524,7 @@ msgstr "Háttérszín"
 
 #: frontend-builder/helpers.php:1509
 msgid "CSS added here will target the following class:"
-msgstr ""
+msgstr "Az itt hozzáadott CSS a következő osztályra fog vonatkozni:"
 
 #: frontend-builder/helpers.php:1484 module/VideoSliderItem.php:114
 msgid "Generate From Video"
@@ -10572,11 +10572,11 @@ msgstr "Mentés"
 
 #: frontend-builder/helpers.php:1455
 msgid "Add Color"
-msgstr ""
+msgstr "Szín hozzáadása"
 
 #: frontend-builder/helpers.php:1454
 msgid "Transparent"
-msgstr ""
+msgstr "Átlátszó"
 
 #: frontend-builder/helpers.php:1443
 msgid "Insert Media"
@@ -10863,7 +10863,7 @@ msgstr "%s oszlop háttér"
 
 #: class-et-builder-element.php:4655
 msgid "Adjust the background style of the button by customizing the background color, gradient, and image."
-msgstr ""
+msgstr "Beállítja az adott elem háttérstílusát - testreszabva a háttérszínt, színátmenetet, képet és videót."
 
 #: frontend-builder/helpers.php:1206
 msgid "Column %s After"
@@ -10891,7 +10891,7 @@ msgstr "Állítsa be a kitöltést meghatározott értékekre, vagy hagyja üres
 
 #: frontend-builder/helpers.php:1156
 msgid "Column %s Padding"
-msgstr ""
+msgstr "% S oszlop kitöltése"
 
 #: frontend-builder/helpers.php:1130
 msgid "Column %s Pause Video While Not In View"
@@ -11089,11 +11089,11 @@ msgstr "Kép kiválasztása"
 
 #: frontend-builder/helpers.php:504
 msgid "Jump start your layout design by duplicating another page that you’ve already built."
-msgstr "Ugrás indítsa el az elrendezését egy másik, már épített oldal másolásával."
+msgstr "Gyorsítsa fel az építési folyamatot egy meglévő oldal elrendezésének lemásolásával."
 
 #: frontend-builder/helpers.php:503
 msgid "Clone Existing page"
-msgstr "Klón meglévő oldal"
+msgstr "Létező oldal klónozása"
 
 #: frontend-builder/helpers.php:496
 msgid "Browse Layouts"
@@ -11101,7 +11101,7 @@ msgstr "Elrendezés kiválasztása"
 
 #: frontend-builder/helpers.php:495
 msgid "Choose from hundreds of world-class premade layouts or start from any of your existing saved layouts."
-msgstr "Válasszon több száz világszínvonalú premade-elrendezés közül, vagy kezdje el bármelyik meglévő elmentett elrendezését."
+msgstr "Válasszon több száz világszínvonalú előre elkészített elrendezés közül, vagy használja bármelyik saját elmentett elrendezését."
 
 #: frontend-builder/helpers.php:494
 msgid "Choose a premade Layout"
@@ -11117,12 +11117,12 @@ msgstr "Cserélje ki a meglévõ tartalmat."
 
 #: frontend-builder/helpers.php:477
 msgid "Build your page from the ground up. Don’t worry, you can access our premade layouts at any time."
-msgstr "Építsd oldaladat a földről. Ne aggódjon, bármikor elérheti premade elrendezéseinket."
+msgstr "Nulláról építkezéshez. Az előre elkészített elrendezések persze bármikor elérhetőek."
 
 #: feature/woocommerce-modules.php:44 feature/woocommerce-modules.php:50
 #: frontend-builder/helpers.php:476 functions.php:842
 msgid "Build From Scratch"
-msgstr "Építés a Scratch-ről"
+msgstr "Kezdés üres oldallal"
 
 #: frontend-builder/helpers.php:330
 msgid "Login as %s"
@@ -11423,11 +11423,11 @@ msgstr "Az elegáns témák fiókja inaktív"
 
 #: feature/ErrorReport.php:348
 msgid "No Elegant Themes username or API key found"
-msgstr "Nem található Elegáns témák felhasználónév vagy API kulcs"
+msgstr "Nem található Elegant Themes felhasználónév vagy API kulcs"
 
 #: feature/ErrorReport.php:336
 msgid "No valid report data found"
-msgstr ""
+msgstr "Nem található érvényes értesítő adat"
 
 #: feature/ErrorReport.php:326
 msgid "No valid post id found"
@@ -12408,7 +12408,7 @@ msgstr "Háttérvideó szélesség"
 
 #: class-et-builder-element.php:8228
 msgid "All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum compatibility in all browsers. Upload the .WEBM version here."
-msgstr ""
+msgstr "A videókat .MP4 és .WEBM formátumokban is fel kell tölteni, hogy minden böngészőben maximális kompatibilitást biztosítsanak. Itt töltheti fel a .WEBM verziót."
 
 #: class-et-builder-element.php:8226 class-et-builder-element.php:18078
 #: frontend-builder/helpers.php:1095
@@ -12421,7 +12421,7 @@ msgstr "Háttérvideó Webm"
 
 #: class-et-builder-element.php:8196
 msgid "All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum compatibility in all browsers. Upload the .MP4 version here."
-msgstr ""
+msgstr "A videókat .MP4 és .WEBM formátumokban is fel kell tölteni, hogy minden böngészőben maximális kompatibilitást biztosítsanak. Itt töltheti fel a .MP4 verziót."
 
 #: class-et-builder-element.php:8195 class-et-builder-element.php:8227
 #: class-et-builder-element.php:18076 frontend-builder/helpers.php:1084
@@ -12759,15 +12759,15 @@ msgstr "Tiltás"
 
 #: class-et-builder-element.php:7153
 msgid "module"
-msgstr ""
+msgstr "modul"
 
 #: class-et-builder-element.php:7150
 msgid "row"
-msgstr ""
+msgstr "sor"
 
 #: class-et-builder-element.php:7149
 msgid "section"
-msgstr ""
+msgstr "szakasz"
 
 #: class-et-builder-element.php:6936 class-et-builder-settings.php:329
 #: class-et-builder-settings.php:1047 frontend-builder/helpers.php:1255
@@ -12837,15 +12837,15 @@ msgstr "Modul link URL"
 
 #: class-et-builder-element.php:6727
 msgid "Column Link Target"
-msgstr ""
+msgstr "Oszlop link cél"
 
 #: class-et-builder-element.php:6726
 msgid "Column Link URL"
-msgstr ""
+msgstr "Oszlop link URL"
 
 #: module/FullwidthMenu.php:359 module/Menu.php:351
 msgid "Logo Link Target"
-msgstr ""
+msgstr "Logó link cél"
 
 #: class-et-builder-element.php:6721
 msgid "Row Link URL"
@@ -13992,7 +13992,7 @@ msgstr "A (z) %1$s modul HTML fejlécek használatával jön létre. A modul fej
 
 #: class-et-builder-element.php:3440
 msgid "%1$s Heading Level"
-msgstr ""
+msgstr "%1$s fejléc szint"
 
 #: class-et-builder-element.php:3429 class-et-builder-element.php:4098
 #: class-et-builder-settings.php:1054 frontend-builder/helpers.php:1431
