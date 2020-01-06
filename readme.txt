@@ -6,7 +6,7 @@ Requires PHP: 5.6
 Requires at least: 3.0  
 Tested up to: 5.4
 
-Stable tag: 0.0.21
+Stable tag: 0.0.25s
 
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html 
@@ -16,7 +16,7 @@ DIVI magyar kiegészítések és fordítás
 
 == Description ==
 
-Magyar Divi beállítások (fordítás, megjelenés és egyéb fejlesztések)
+A Divi egy remek vizuális builder, viszont a fordítási része nem túl kiforrott. Sajnos, a szokásos fordítási módon nem lehet lefordítani, ezeket a hibákat igyekszik orvosolni ez a bővítmény. 
 
 
 == Installation ==
@@ -33,7 +33,19 @@ A DIVI fordítása sok Google fordítást tartalmaz, ami sok esetben érthetetle
 
 == Changelog ==
 
-= 0.0.21s =
+= 0.0.25 =
+* Fordítás javítás. 
+
+= 0.0.24 =
+* Extra fordítás javítása
+
+= 0.0.23 =
+* Extra fordítás javítása
+
+= 0.0.22 =
+* Divi builder fordítás javítás
+
+= 0.0.21 =
 * Divi + Divi builder fordítások
 
 = 0.0.20 =

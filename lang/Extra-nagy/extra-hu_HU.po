@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Extra package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-12-26 18:12+0100\n"
+"PO-Revision-Date: 2020-01-06 17:23+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,8 +17,8 @@ msgstr ""
 #: includes/widgets.php:439
 msgid "%d Post"
 msgid_plural "%d Posts"
-msgstr[0] "%d cikk"
-msgstr[1] "%d cikk"
+msgstr[0] "%d bejegyzés"
+msgstr[1] "%d bejegyzés"
 
 #: includes/template-tags.php:237
 msgid "%d rating"
@@ -41,8 +41,8 @@ msgstr[1] "%s + 1"
 #: includes/et-social-followers.php:245 includes/et-social-followers.php:483
 msgid "%s like"
 msgid_plural "%s likes"
-msgstr[0] "% lájk"
-msgstr[1] "% lájk"
+msgstr[0] "%s lájk"
+msgstr[1] "%s lájk"
 
 #: includes/et-social-followers.php:119
 msgid "%s follower"
@@ -53,8 +53,8 @@ msgstr[1] "%s követő"
 #: framework/functions.php:1171 includes/core.php:361
 msgid "%d Item"
 msgid_plural "%d Items"
-msgstr[0] "%d elem"
-msgstr[1] "%d elem"
+msgstr[0] "%d"
+msgstr[1] "%d"
 
 #: framework/functions.php:1170 includes/core.php:359
 msgid "%d Item in Cart"
@@ -837,7 +837,7 @@ msgstr "Iratkozz fel"
 
 #: page-template-contact.php:58
 msgid "Subject"
-msgstr "Tantárgy"
+msgstr "Tárgy"
 
 #: includes/customizer.php:2749 includes/customizer.php:2826
 #: includes/customizer.php:3310
@@ -1411,7 +1411,7 @@ msgstr "Legutóbbi értékelések"
 #: includes/admin/admin.php:1009 includes/template-tags.php:1133
 #: includes/widgets.php:742
 msgid "Recent Posts"
-msgstr "Legutóbbi hozzászólások"
+msgstr "Legutóbbi bejegyzések"
 
 #: includes/widgets.php:1212
 msgid "Recent Comments"
@@ -3131,7 +3131,7 @@ msgstr "Extra - Legutóbbi értékelések"
 
 #: includes/widgets.php:713
 msgid "Extra - Recent Posts"
-msgstr "Extra - Legutóbbi hozzászólások"
+msgstr "Extra - Legutóbbi bejegyzések"
 
 #: includes/widgets.php:1179
 msgid "Extra - Recent Comments"
@@ -4183,7 +4183,7 @@ msgstr "Növekvő"
 #: epanel/custom_functions.php:1117 includes/admin/admin.php:1010
 #: includes/template-tags.php:1134
 msgid "Archives"
-msgstr "Levéltár"
+msgstr "Archívum"
 
 #: includes/customizer.php:904
 msgid "Archive Heading Text Color"
